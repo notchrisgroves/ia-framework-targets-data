@@ -1,0 +1,3742 @@
+[
+  {
+    "name": "acorns",
+    "url": "https://bugcrowd.com/acorns",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "*.acorns.com/",
+          "uri": ""
+        },
+        {
+          "type": "other",
+          "target": "Acorns for iOS",
+          "uri": "https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671"
+        },
+        {
+          "type": "api",
+          "target": "https://graphql.acorns.com",
+          "uri": "https://graphql.acorns.com"
+        },
+        {
+          "type": "other",
+          "target": "Acorns for Android",
+          "uri": "https://play.google.com/store/apps/details?id=com.acorns.android&hl=en_US&gl=US"
+        },
+        {
+          "type": "website",
+          "target": "https://www.gohenry.com/",
+          "uri": "https://www.gohenry.com/"
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "atlassian",
+    "url": "https://bugcrowd.com/atlassian",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "Atlassian Guard Standard and Premium (https://admin.atlassian.com/atlassian-guard)",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "Atlassian Admin (https://admin.atlassian.com/)",
+          "uri": "https://admin.atlassian.com/"
+        },
+        {
+          "type": "website",
+          "target": "Atlassian Identity (https://id.atlassian.com/login)",
+          "uri": "https://id.atlassian.com/login"
+        },
+        {
+          "type": "website",
+          "target": "Atlassian Start (https://start.atlassian.com)",
+          "uri": "https://start.atlassian.com"
+        },
+        {
+          "type": "website",
+          "target": "Bitbucket Cloud including Bitbucket Pipelines (https://bitbucket.org)",
+          "uri": "https://bitbucket.org"
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "opsgenie",
+    "url": "https://bugcrowd.com/opsgenie",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "app.opsgenie.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "mobileapp.opsgenie.com",
+          "uri": "https://mobileapp.opsgenie.com"
+        },
+        {
+          "type": "website",
+          "target": "*.opsgenie.com",
+          "uri": ""
+        },
+        {
+          "type": "ios",
+          "target": "Opsgenie (IoS)",
+          "uri": ""
+        },
+        {
+          "type": "android",
+          "target": "Opsgenie (Android)",
+          "uri": ""
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "barracuda",
+    "url": "https://bugcrowd.com/barracuda",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "other",
+          "target": "Barracuda Message Archiver",
+          "uri": "https://www.barracuda.com/products/messagearchiver"
+        },
+        {
+          "type": "other",
+          "target": "Barracuda Web Security Gateway",
+          "uri": "https://www.barracuda.com/products/websecuritygateway"
+        },
+        {
+          "type": "other",
+          "target": "Barracuda ADC",
+          "uri": "https://www.barracuda.com/products/loadbalancer?utm_source=google&utm_medium=search_cpc&utm_campaign=387189501&utm_adgroup=116181947964&utm_term=&utm_position=&utm_matchtype=b&utm_device=c&utm_content=484352050459&_bt=484352050459&_bk=&_bm=b&_bn=g&_bg=116181947964&gclid=Cj0KCQjwvr6EBhDOARIsAPpqUPFtfKELYb2ysp1O29NyBMwStaYpYAxq1oso9BaXpcPo9yrcy13uuc0aAtQDEALw_wcB"
+        },
+        {
+          "type": "other",
+          "target": "Barracuda Web Application Firewall",
+          "uri": "https://www.barracuda.com/products/webapplicationfirewall"
+        },
+        {
+          "type": "other",
+          "target": "Barracuda Email Security Gateway",
+          "uri": "https://www.barracuda.com/products/emailsecuritygateway"
+        },
+        {
+          "type": "other",
+          "target": "Barracuda CloudGen Firewall",
+          "uri": "https://www.barracuda.com/products/cloudgenfirewall"
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "bigbank",
+    "url": "https://bugcrowd.com/bigbank",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "apvieno.bigbank.lv",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "auth.bigbank.eu",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "banking.bigbank.lv",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "calculations.bigbank.fi",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "feedback.bigbank.eu",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "login.bigbank.eu",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "refinansavimas.bigbank.lt",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "uilab.bigbank.ee",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "verkkopankki.bigbank.fi",
+          "uri": ""
+        },
+        {
+          "type": "other",
+          "target": "apm.bigbank.eu",
+          "uri": ""
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "binance",
+    "url": "https://bugcrowd.com/engagements/binance",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "api",
+          "target": "api.coinmarketcap.com",
+          "uri": ""
+        },
+        {
+          "type": "api",
+          "target": "pro-api.coinmarketcap.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "*.binance.com",
+          "uri": "https://www.binance.com/"
+        },
+        {
+          "type": "other",
+          "target": "Binance Desktop Application",
+          "uri": ""
+        },
+        {
+          "type": "android",
+          "target": "Binance Mobile Application for Android",
+          "uri": ""
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "bitdefender",
+    "url": "https://bugcrowd.com/bitdefender",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": true,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "other",
+          "target": "Bitdefender Total Security",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "*.bitdefender.net",
+          "uri": ""
+        },
+        {
+          "type": "other",
+          "target": "Bitdefender Antimalware Engines",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "*.bitdefender.com",
+          "uri": ""
+        },
+        {
+          "type": "other",
+          "target": "Bitdefender GravityZone Business Security",
+          "uri": "https://www.bitdefender.com/business/smb-products/business-security.html?cid=ppc|b|google|smb&s_kwcid=AL!6076!3!514235572261!p!!g!!bitdefender%20business&utm_term=bitdefender%20business&utm_campaign=USA+SMB+Branded+30&utm_source=adwords&utm_medium=ppc&hsa_acc=8155205354&hsa_cam=7848657822&hsa_grp=124745713150&hsa_ad=514235572261&hsa_src=g&hsa_tgt=kwd-308396066873&hsa_kw=bitdefender%20business&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwqIiFBhAHEiwANg9szk-Rr3iSn4mrwsvAUOn-pzrO12ufWDmyCLopWigaLQW0t_xtlBE65RoCr6kQAvD_BwE"
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "website",
+          "target": "businessinsights.bitdefender.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "businessemail.bitdefender.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "businessresources.bitdefender.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "oemhub.bitdefender.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "oemresources.bitdefender.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "community.bitdefender.com/",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "resellerportal.bitdefender.com/",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "brand.bitdefender.com/",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "stats.bitdefender.com/",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "sstats.bitdefender.com/",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "lsems.gravityzone.bitdefender.com/",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "ssems.gravityzone.bitdefender.com/",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "crp.bitdefender.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "telcosuccess.bitdefender.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "demo.bitdefender.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "translate.bitdefender.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "explore.bitdefender.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "explore-lb.bitdefender.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "partner-marketing.bitdefender.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "seems.gravityzone.bitdefender.com",
+          "uri": ""
+        }
+      ]
+    }
+  },
+  {
+    "name": "bitdefenderbox2",
+    "url": "https://bugcrowd.com/bitdefenderbox2",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "other",
+          "target": "Bitdefender BOX v2",
+          "uri": ""
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "blend-vdp",
+    "url": "https://bugcrowd.com/blend-vdp",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "https://send.blend.com/",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "https://knox.beta.blendlabs.com",
+          "uri": "https://knox.beta.blendlabs.com"
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "bluejeans",
+    "url": "https://bugcrowd.com/bluejeans",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "https://a.bluejeans.com/",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "https://www-a.bluejeans.com/",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "https://community.bluejeans.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "https://hub.bluejeans.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "https://www-dev.bluejeans.com/",
+          "uri": ""
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "bugcrowd",
+    "url": "https://bugcrowd.com/engagements/bugcrowd",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "docs.bugcrowd.com",
+          "uri": "https://docs.bugcrowd.com/"
+        },
+        {
+          "type": "website",
+          "target": "bugcrowd.com",
+          "uri": "https://bugcrowd.com/programs"
+        },
+        {
+          "type": "api",
+          "target": "Crowdcontrol",
+          "uri": "https://tracker.bugcrowd.com"
+        },
+        {
+          "type": "api",
+          "target": "api.bugcrowd.com",
+          "uri": "https://api.bugcrowd.com"
+        },
+        {
+          "type": "website",
+          "target": "gov.bugcrowd.net",
+          "uri": "https://gov.bugcrowd.net"
+        },
+        {
+          "type": "website",
+          "target": "*.gov.bugcrowd.net",
+          "uri": "https://*.gov.bugcrowd.net"
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "bugpoc-mbb",
+    "url": "https://bugcrowd.com/engagements/bugpoc-mbb",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "*.bugpoc.ninja",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "*.bugpoc.com",
+          "uri": ""
+        },
+        {
+          "type": "api",
+          "target": "api.bugpoc.com",
+          "uri": "https://api.bugpoc.com"
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "caffeine",
+    "url": "https://bugcrowd.com/engagements/caffeine",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "api",
+          "target": "https://api.caffeine.tv/",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "https://preview.caffeine.tv/",
+          "uri": "https://preview.caffeine.tv/"
+        },
+        {
+          "type": "api",
+          "target": "https://images.caffeine.tv/",
+          "uri": "https://images.caffeine.tv/"
+        },
+        {
+          "type": "other",
+          "target": "https://static.caffeine.tv/",
+          "uri": ""
+        },
+        {
+          "type": "other",
+          "target": "caffeine-helper.x86.exe",
+          "uri": ""
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "centrify",
+    "url": "https://bugcrowd.com/engagements/centrify",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "ciscomeraki",
+    "url": "https://bugcrowd.com/engagements/ciscomeraki",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "*.meraki.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "*.ikarem.io",
+          "uri": ""
+        },
+        {
+          "type": "other",
+          "target": "Cisco Meraki Systems Manager",
+          "uri": ""
+        },
+        {
+          "type": "other",
+          "target": "Cisco Meraki Virtual Security Appliances",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "*.network-auth.com",
+          "uri": ""
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "Cloudinary",
+    "url": "https://bugcrowd.com/cloudinary",
+    "platform": "bugcrowd",
+    "safe_harbor": "full",
+    "max_payout": 7000,
+    "allows_disclosure": true,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "https://cloudinary.com/console",
+          "uri": "https://cloudinary.com/console"
+        },
+        {
+          "type": "api",
+          "target": "https://api.cloudinary.com",
+          "uri": "https://api.cloudinary.com"
+        },
+        {
+          "type": "api",
+          "target": "https://res.cloudinary.com",
+          "uri": "https://res.cloudinary.com"
+        },
+        {
+          "type": "website",
+          "target": "mediaflows.cloudinary.com",
+          "uri": "https://mediaflows.cloudinary.com/"
+        },
+        {
+          "type": "website",
+          "target": "dimensions.cloudinary.com",
+          "uri": "https://dimensions.cloudinary.com"
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "website",
+          "target": "https://support.cloudinary.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "wiki.cloudinary.com",
+          "uri": ""
+        }
+      ]
+    }
+  },
+  {
+    "name": "cloudways",
+    "url": "https://bugcrowd.com/engagements/cloudways",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "constantcontact",
+    "url": "https://bugcrowd.com/engagements/constantcontact",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "All Constant Contact Websites",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "All SharpSpring Websites",
+          "uri": "https://sharpspring.com"
+        },
+        {
+          "type": "api",
+          "target": "All Constant Contact APIs",
+          "uri": "https://developer.constantcontact.com"
+        },
+        {
+          "type": "api",
+          "target": "All SharpSpring APIs",
+          "uri": "https://help.sharpspring.com/hc/en-us/articles/115001069228-Understanding-Lead-Gen-CRM-Open-API-Overview"
+        },
+        {
+          "type": "ios",
+          "target": "Constant Contact iOS App",
+          "uri": "https://apps.apple.com/us/app/constant-contact/id880731821"
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "convertkit-vdp",
+    "url": "https://bugcrowd.com/engagements/convertkit-vdp",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "creditkarma",
+    "url": "https://bugcrowd.com/engagements/creditkarma",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "dell-com",
+    "url": "https://bugcrowd.com/engagements/dell-com",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "*.dell.com/*",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "*.delltechnologies.com/*",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "https://console.delltechnologies.com/nav/administration",
+          "uri": "https://console.delltechnologies.com/nav/administration"
+        },
+        {
+          "type": "website",
+          "target": "https://console.delltechnologies.com/nav/invoice",
+          "uri": "https://console.delltechnologies.com/nav/invoice"
+        },
+        {
+          "type": "website",
+          "target": "https://console.delltechnologies.com/nav/billing",
+          "uri": "https://console.delltechnologies.com/nav/billing"
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "dell-product",
+    "url": "https://bugcrowd.com/engagements/dell-product",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "other",
+          "target": "Actively Supported, Bounty Eligible Dell Products",
+          "uri": ""
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "directly",
+    "url": "https://bugcrowd.com/engagements/directly",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "app.sandbox.directly.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "*.sandbox.directly.com/",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "https://sandbox.directly.com/dashboard/index",
+          "uri": "https://sandbox.directly.com/dashboard/index"
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "dropbox",
+    "url": "https://bugcrowd.com/engagements/dropbox/",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "api",
+          "target": "██████████████████",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "█████████████████",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "███████████████",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "████████████████",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "██████████████",
+          "uri": ""
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "eero",
+    "url": "https://bugcrowd.com/engagements/eero",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "api",
+          "target": "eero APIs",
+          "uri": ""
+        },
+        {
+          "type": "ios",
+          "target": "eero iOS Mobile Application",
+          "uri": "https://eero.com/app"
+        },
+        {
+          "type": "other",
+          "target": "eero Node",
+          "uri": ""
+        },
+        {
+          "type": "android",
+          "target": "eero Android Mobile Application",
+          "uri": "https://eero.com/app"
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "etsy",
+    "url": "https://bugcrowd.com/engagements/etsy",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "www.etsy.com",
+          "uri": "https://www.etsy.com"
+        },
+        {
+          "type": "android",
+          "target": "Etsy Mobile Application (Android)",
+          "uri": "https://www.etsy.com/mobile"
+        },
+        {
+          "type": "ios",
+          "target": "Etsy Mobile Application (iPhone)",
+          "uri": "https://www.etsy.com/mobile"
+        },
+        {
+          "type": "api",
+          "target": "Etsy API (see documentation below)",
+          "uri": "https://www.etsy.com/developers/documentation/getting_started/api_basics"
+        },
+        {
+          "type": "other",
+          "target": "etsypayments.com",
+          "uri": "https://etsypayments.com"
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "expressvpn",
+    "url": "https://bugcrowd.com/engagements/expressvpn",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "*.expressvpn.com",
+          "uri": ""
+        },
+        {
+          "type": "other",
+          "target": "*.xvtest.net",
+          "uri": ""
+        },
+        {
+          "type": "other",
+          "target": "*.xvservice.net",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "www.expressvpn.com",
+          "uri": "https://www.expressvpn.com"
+        },
+        {
+          "type": "api",
+          "target": "ExpressVPN APIs",
+          "uri": ""
+        },
+        {
+          "type": "other",
+          "target": "VPN servers",
+          "uri": "https://www.expressvpn.com/vpn-server"
+        },
+        {
+          "type": "other",
+          "target": "ExpressVPN Router",
+          "uri": ""
+        },
+        {
+          "type": "other",
+          "target": "MediaStreamer DNS servers",
+          "uri": ""
+        },
+        {
+          "type": "ios",
+          "target": "ExpressVPN iOS application",
+          "uri": "https://apps.apple.com/us/app/expressvpn-fast-secure-vpn/id886492891?mt=8"
+        },
+        {
+          "type": "android",
+          "target": "ExpressVPN Android application",
+          "uri": "https://apps.apple.com/us/app/expressvpn-fast-secure-vpn/id886492891?mt=8"
+        },
+        {
+          "type": "other",
+          "target": "ExpressVPN Linux Application",
+          "uri": "https://www.expressvpn.com/latest#linux"
+        },
+        {
+          "type": "other",
+          "target": "ExpressVPN MacOS Application",
+          "uri": "https://www.expressvpn.com/latest#mac"
+        },
+        {
+          "type": "other",
+          "target": "ExpressVPN Windows Application",
+          "uri": "https://www.expressvpn.com/latest#windows"
+        },
+        {
+          "type": "other",
+          "target": "ExpressVPN Chrome extension",
+          "uri": "https://chromewebstore.google.com/detail/expressvpn-vpn-proxy-for/fgddmllnllkalaagkghckoinaemmogpe?pli=1"
+        },
+        {
+          "type": "other",
+          "target": "ExpressVPN Firefox extension",
+          "uri": "https://addons.mozilla.org/en-US/firefox/addon/expressvpn/"
+        },
+        {
+          "type": "other",
+          "target": "ExpressVPN Keys Browser Extension",
+          "uri": "https://chromewebstore.google.com/detail/expressvpn-keys-password/blgcbajigpdfohpgcmbbfnphcgifjopc"
+        },
+        {
+          "type": "other",
+          "target": "Lightway Core (C)",
+          "uri": "https://github.com/expressvpn/lightway-core"
+        },
+        {
+          "type": "other",
+          "target": "Lightway (Rust)",
+          "uri": "https://github.com/expressvpn/lightway"
+        },
+        {
+          "type": "other",
+          "target": "polymoon.it",
+          "uri": ""
+        },
+        {
+          "type": "other",
+          "target": "Employee Email",
+          "uri": ""
+        },
+        {
+          "type": "other",
+          "target": "Internal chat messages",
+          "uri": ""
+        },
+        {
+          "type": "other",
+          "target": "Source code hosting",
+          "uri": ""
+        },
+        {
+          "type": "other",
+          "target": "Vulnerabilities compromising the privacy of our employees",
+          "uri": ""
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "fca",
+    "url": "https://bugcrowd.com/engagements/fca",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "fis",
+    "url": "https://bugcrowd.com/engagements/fis",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": true,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "Any FIS asset is in scope",
+          "uri": ""
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "website",
+          "target": "Reference above out of scope targets",
+          "uri": "https://apuat-aaa.fisglobal.com"
+        }
+      ]
+    }
+  },
+  {
+    "name": "fitbit",
+    "url": "https://bugcrowd.com/engagements/fitbit",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "store-*.fitbit.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "fitbit.com/store",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "community.fitbit.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "help.fitbit.com",
+          "uri": ""
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "foxycart",
+    "url": "https://bugcrowd.com/engagements/foxycart",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "other",
+          "target": "*-bugcrowd.foxycart.com (read below for details)",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "admin.foxycart.com",
+          "uri": "https://admin.foxycart.com"
+        },
+        {
+          "type": "website",
+          "target": "admin.foxy.io",
+          "uri": "https://admin.foxy.io/"
+        },
+        {
+          "type": "website",
+          "target": "auth.foxy.io",
+          "uri": "https://auth.foxy.io/"
+        },
+        {
+          "type": "website",
+          "target": "foxycart-demo.foxycart.com",
+          "uri": "https://foxycart-demo.foxycart.com/cart"
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "gojek",
+    "url": "https://bugcrowd.com/engagements/gojek",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "api",
+          "target": "*.gojekapi.com",
+          "uri": ""
+        },
+        {
+          "type": "api",
+          "target": "api.gojek.co.id",
+          "uri": ""
+        },
+        {
+          "type": "ios",
+          "target": "GO-JEK iOS",
+          "uri": ""
+        },
+        {
+          "type": "android",
+          "target": "GO-JEK Android",
+          "uri": ""
+        },
+        {
+          "type": "api",
+          "target": "*.gopayapi.com",
+          "uri": ""
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "gusto",
+    "url": "https://bugcrowd.com/engagements/gusto",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "api",
+          "target": "api.gusto-demo.com",
+          "uri": "https://docs.gusto.com/embedded-payroll/docs"
+        },
+        {
+          "type": "website",
+          "target": "https://dev.gusto.com/",
+          "uri": "https://dev.gusto.com/"
+        },
+        {
+          "type": "website",
+          "target": "app.gusto-demo.com",
+          "uri": "https://app.gusto-demo.com"
+        },
+        {
+          "type": "website",
+          "target": "https://github.com/Gusto/apollo-federation-ruby",
+          "uri": "https://github.com/Gusto/apollo-federation-ruby"
+        },
+        {
+          "type": "website",
+          "target": "https://github.com/Gusto/grpc-web-ruby",
+          "uri": "https://github.com/Gusto/grpc-web-ruby"
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "hackme",
+    "url": "https://bugcrowd.com/engagements/hackme",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "www.bugcrowd.com",
+          "uri": ""
+        },
+        {
+          "type": "other",
+          "target": "All IT-Managed Third-Party Services and Infrastructure",
+          "uri": ""
+        },
+        {
+          "type": "api",
+          "target": "api.bugcrowd.com",
+          "uri": "https://api.bugcrowd.com"
+        },
+        {
+          "type": "api",
+          "target": "Test by AN",
+          "uri": "http://www.bugcrowd.com"
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "healthifyme",
+    "url": "https://bugcrowd.com/engagements/healthifyme",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "*.healthifyme.com",
+          "uri": ""
+        },
+        {
+          "type": "android",
+          "target": "https://play.google.com/store/apps/details?id=com.healthifyme.basic&hl=en",
+          "uri": ""
+        },
+        {
+          "type": "ios",
+          "target": "https://itunes.apple.com/in/app/healthifyme-weight-loss-coach/id943712366?mt=8",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "Any publicly facing asset owned by HealthifyMe (ip space, domains, etc)",
+          "uri": ""
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "hubspot",
+    "url": "https://bugcrowd.com/engagements/hubspot",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "app.hubspot.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "app-eu1.hubspot.com",
+          "uri": "https://app-eu1.hubspot.com"
+        },
+        {
+          "type": "api",
+          "target": "api.hubspot.com",
+          "uri": "https://api.hubspot.com/"
+        },
+        {
+          "type": "api",
+          "target": "api.hubapi.com",
+          "uri": "https://developers.hubspot.com/docs/api/overview"
+        },
+        {
+          "type": "website",
+          "target": "chatspot.ai",
+          "uri": "https://chatspot.ai"
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "humblebundle",
+    "url": "https://bugcrowd.com/engagements/humblebundle",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": true,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "other",
+          "target": "https://www.humblebundle.com/",
+          "uri": "https://www.humblebundle.com/"
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "ibotta",
+    "url": "https://bugcrowd.com/ibotta",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "other",
+          "target": "Chrome Extension",
+          "uri": ""
+        },
+        {
+          "type": "android",
+          "target": "http://market.android.com/details?id=com.ibotta.android",
+          "uri": "http://market.android.com/details?id=com.ibotta.android"
+        },
+        {
+          "type": "ios",
+          "target": "http://itunes.apple.com/us/app/ibotta/id559887125",
+          "uri": "http://itunes.apple.com/us/app/ibotta/id559887125"
+        },
+        {
+          "type": "api",
+          "target": "https://content-server.ibotta.com/graphql",
+          "uri": "https://content-server.ibotta.com/graphql"
+        },
+        {
+          "type": "api",
+          "target": "https://api.ibotta.com",
+          "uri": "https://api.ibotta.com"
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "indeed",
+    "url": "https://bugcrowd.com/engagements/indeed",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "*.indeed.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "https://*.indeedflex.com",
+          "uri": ""
+        },
+        {
+          "type": "api",
+          "target": "https://apis.indeed.com/graphql",
+          "uri": ""
+        },
+        {
+          "type": "android",
+          "target": "Indeed Job Search Android",
+          "uri": "https://play.google.com/store/apps/details?id=com.indeed.android.jobsearch"
+        },
+        {
+          "type": "ios",
+          "target": "Indeed Job Search iOS",
+          "uri": "https://apps.apple.com/us/app/indeed-job-search/id309735670"
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "intercom",
+    "url": "https://bugcrowd.com/engagements/intercom",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "ios",
+          "target": "iOS SDK",
+          "uri": "https://developers.intercom.com/installing-intercom/docs/about-the-sdk-ios"
+        },
+        {
+          "type": "api",
+          "target": "https://api.intercom.io",
+          "uri": "https://api.intercom.com"
+        },
+        {
+          "type": "website",
+          "target": "https://app.intercom.com",
+          "uri": "https://app.intercom.com"
+        },
+        {
+          "type": "website",
+          "target": "*.intercomassets.com / *.intercomcdn.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "https://app.intercom.io",
+          "uri": "https://app.intercom.io/"
+        },
+        {
+          "type": "android",
+          "target": "Android SDK",
+          "uri": "https://developers.intercom.com/installing-intercom/docs/about-the-sdk-android"
+        },
+        {
+          "type": "website",
+          "target": "https://www.intercom.com",
+          "uri": "https://www.intercom.com/"
+        },
+        {
+          "type": "website",
+          "target": "mcp.intercom.com",
+          "uri": "http://mcp.intercom.com"
+        },
+        {
+          "type": "api",
+          "target": "https://api-iam.intercom.io",
+          "uri": "https://api-iam.intercom.io"
+        },
+        {
+          "type": "api",
+          "target": "https://*.mobile-messenger.intercom.com",
+          "uri": "https://*.mobile-messenger.intercom.com"
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "invision",
+    "url": "https://bugcrowd.com/engagements/invision",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "api",
+          "target": "bugcrowdninja.invisionapp.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "bugcrowdninja2.invisionapp.com",
+          "uri": "https://www.bugcrowdninja2.invisionapp.com"
+        },
+        {
+          "type": "website",
+          "target": "bugcrowd-[your_bugcrowd_username].invisionapp.com",
+          "uri": ""
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "irobot",
+    "url": "https://bugcrowd.com/engagements/irobot",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "other",
+          "target": "iRobot Roomba™ 105",
+          "uri": ""
+        },
+        {
+          "type": "other",
+          "target": "iRobot Roomba™ 205",
+          "uri": ""
+        },
+        {
+          "type": "other",
+          "target": "iRobot Roomba™ 405",
+          "uri": ""
+        },
+        {
+          "type": "other",
+          "target": "iRobot Roomba™ 505",
+          "uri": ""
+        },
+        {
+          "type": "other",
+          "target": "iRobot Roomba™ 705",
+          "uri": ""
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "jumboprivacy",
+    "url": "https://bugcrowd.com/jumboprivacy",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "ios",
+          "target": "JumboPrivacy iOS Application",
+          "uri": ""
+        },
+        {
+          "type": "android",
+          "target": "JumboPrivacy Android Application",
+          "uri": "https://play.google.com/store/apps/details?id=com.jumboprivacy&hl=en_US"
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "keepersecurity",
+    "url": "https://bugcrowd.com/engagements/keepersecurity",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "other",
+          "target": "Keeper Browser Extension (Chrome, Safari, Firefox, Edge)",
+          "uri": ""
+        },
+        {
+          "type": "ios",
+          "target": "Keeper for iOS",
+          "uri": "https://www.keepersecurity.com/download.html"
+        },
+        {
+          "type": "other",
+          "target": "KeeperChat for Windows",
+          "uri": "https://www.microsoft.com/en-us/p/keeperchat/9pdqtcpn4kxn#activetab=pivot:overviewtab"
+        },
+        {
+          "type": "website",
+          "target": "Keeper Security Website",
+          "uri": "https://keepersecurity.com"
+        },
+        {
+          "type": "other",
+          "target": "Keeper Desktop App for Mac, PC, Linux",
+          "uri": "https://www.keepersecurity.com/download.html"
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "kennasecurity",
+    "url": "https://bugcrowd.com/engagements/kennasecurity",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "https://bugcrowdinc.labs.us..kennasecurity.com",
+          "uri": ""
+        },
+        {
+          "type": "other",
+          "target": "Any Host Verified To Be Owned By Kenna (Domains/IP space/etc.)",
+          "uri": ""
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "lastpass",
+    "url": "https://bugcrowd.com/engagements/lastpass",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "https://lastpass.com",
+          "uri": "https://lastpass.com"
+        },
+        {
+          "type": "other",
+          "target": "LastPass browser extensions (Chrome / Safari / Edge / Firefox)",
+          "uri": "https://lastpass.com/misc_download2.php"
+        },
+        {
+          "type": "other",
+          "target": "Local computer apps (UWP application / Windows installer (MSI) / MacOS)",
+          "uri": "https://lastpass.com/misc_download2.php"
+        },
+        {
+          "type": "website",
+          "target": "https://support.lastpass.com",
+          "uri": "https://support.lastpass.com"
+        },
+        {
+          "type": "other",
+          "target": "Workstation MFA (WMFA)",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "https://blog.lastpass.com",
+          "uri": "https://blog.lastpass.com"
+        },
+        {
+          "type": "website",
+          "target": "https://admin.lastpass.com",
+          "uri": "https://admin.lastpass.com"
+        },
+        {
+          "type": "website",
+          "target": "https://auth.lastpass.com",
+          "uri": "https://auth.lastpass.com"
+        },
+        {
+          "type": "website",
+          "target": "https://accounts.lastpass.com",
+          "uri": "https://accounts.lastpass.com"
+        },
+        {
+          "type": "website",
+          "target": "https://www.lastpass.com",
+          "uri": "https://www.lastpass.com"
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "lime",
+    "url": "https://bugcrowd.com/engagements/lime",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "api",
+          "target": "proxy-production.lime.bike",
+          "uri": ""
+        },
+        {
+          "type": "api",
+          "target": "web-message.lime.bike",
+          "uri": ""
+        },
+        {
+          "type": "api",
+          "target": "web-message-high.lime.bike",
+          "uri": ""
+        },
+        {
+          "type": "ios",
+          "target": "Supply iOS",
+          "uri": "https://apps.apple.com/ca/app/lime-supply/id1620058457"
+        },
+        {
+          "type": "api",
+          "target": "web-production.lime.bike",
+          "uri": ""
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "luno-og",
+    "url": "https://bugcrowd.com/engagements/luno-og",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "android",
+          "target": "Luno Android Application",
+          "uri": "https://play.google.com/store/apps/details?hl=en&id=co.bitx.android.wallet"
+        },
+        {
+          "type": "ios",
+          "target": "Luno iOS Application",
+          "uri": "https://apps.apple.com/app/bitx-wallet/id927362479"
+        },
+        {
+          "type": "api",
+          "target": "https://mobileapi.staging.luno.com/",
+          "uri": "https://mobileapi.staging.luno.com/"
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "magicleapcloud",
+    "url": "https://bugcrowd.com/engagements/magicleapcloud",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "auth.magicleap.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "*id.magicleap.com",
+          "uri": "https://*id.magicleap.com"
+        },
+        {
+          "type": "website",
+          "target": "*.magicleap.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "www.magicleap.com",
+          "uri": "https://www.magicleap.com"
+        },
+        {
+          "type": "api",
+          "target": "api.magicleap.com",
+          "uri": "https://api.magicleap.com"
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "mailgun",
+    "url": "https://bugcrowd.com/engagements/mailgun",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "netgear",
+    "url": "https://bugcrowd.com/engagements/netgear",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "other",
+          "target": "Nighthawk Pro Gaming Switch",
+          "uri": ""
+        },
+        {
+          "type": "other",
+          "target": "Nighthawk Router",
+          "uri": ""
+        },
+        {
+          "type": "other",
+          "target": "Nighthawk Switch",
+          "uri": ""
+        },
+        {
+          "type": "ios",
+          "target": "Nighthawk iOS App",
+          "uri": ""
+        },
+        {
+          "type": "android",
+          "target": "Nighthawk Android App",
+          "uri": ""
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "netgearkudos",
+    "url": "https://bugcrowd.com/engagements/netgearkudos",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": true,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "other",
+          "target": "Nighthawk Pro Gaming Switch",
+          "uri": ""
+        },
+        {
+          "type": "other",
+          "target": "Nighthawk Router",
+          "uri": ""
+        },
+        {
+          "type": "other",
+          "target": "Nighthawk Switch",
+          "uri": ""
+        },
+        {
+          "type": "ios",
+          "target": "Nighthawk iOS App",
+          "uri": ""
+        },
+        {
+          "type": "android",
+          "target": "Nighthawk Android App",
+          "uri": ""
+        },
+        {
+          "type": "other",
+          "target": "Orbi",
+          "uri": ""
+        },
+        {
+          "type": "ios",
+          "target": "Orbi iOS App",
+          "uri": ""
+        },
+        {
+          "type": "android",
+          "target": "Orbi Android App",
+          "uri": ""
+        },
+        {
+          "type": "other",
+          "target": "Insight Managed Smart Cloud Wireless Access Point",
+          "uri": ""
+        },
+        {
+          "type": "api",
+          "target": "https://api.netgear.com",
+          "uri": ""
+        },
+        {
+          "type": "ios",
+          "target": "Insight iOS App",
+          "uri": ""
+        },
+        {
+          "type": "android",
+          "target": "Insight Android App",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "CHP Cloud Portal",
+          "uri": ""
+        },
+        {
+          "type": "other",
+          "target": "Meural",
+          "uri": ""
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "okta",
+    "url": "https://bugcrowd.com/engagements/okta",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "personal.trexcloud.com",
+          "uri": ""
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "overstockvdp",
+    "url": "https://bugcrowd.com/engagements/overstockvdp",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "www.bedbathandbeyond.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "*.bedbathandbeyond.com",
+          "uri": "https://*.bedbathandbeyond.com"
+        },
+        {
+          "type": "api",
+          "target": "http(s)://api.bedbathandbeyond.com",
+          "uri": "https://api.bedbathandbeyond.com"
+        },
+        {
+          "type": "android",
+          "target": "Bed Bath & Beyond by Overstock Mobile App",
+          "uri": "https://play.google.com/store/apps/details?id=com.overstock&hl=en_US "
+        },
+        {
+          "type": "ios",
+          "target": "Bed Bath & Beyond by Overstock iOS Mobile App",
+          "uri": "https://apps.apple.com/us/app/overstock-com-mobile-shopping/id339883869"
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "pantheon",
+    "url": "https://bugcrowd.com/engagements/pantheon",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "other",
+          "target": "https://dashboard.pantheon.io",
+          "uri": ""
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "pinterest",
+    "url": "https://bugcrowd.com/engagements/pinterest/",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "api",
+          "target": "api.pinterest.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "*.pinterest.com Web Apps",
+          "uri": ""
+        },
+        {
+          "type": "ios",
+          "target": "Pinterest iOS Mobile Application",
+          "uri": "https://apps.apple.com/us/app/pinterest/id429047995"
+        },
+        {
+          "type": "android",
+          "target": "Pinterest Android Mobile Application",
+          "uri": "https://play.google.com/store/apps/details?id=com.pinterest&hl=en_US&gl=US"
+        },
+        {
+          "type": "android",
+          "target": "Pinterest Lite Android Mobile Application",
+          "uri": "https://play.google.com/store/apps/details?id=com.pinterest.twa&hl=en_US&gl=US"
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "planethosterinc",
+    "url": "https://bugcrowd.com/engagements/planethosterinc",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "my.planethoster.com",
+          "uri": ""
+        },
+        {
+          "type": "api",
+          "target": "api.planethoster.net",
+          "uri": "https://api.planethoster.net"
+        },
+        {
+          "type": "website",
+          "target": "world.planethoster.net",
+          "uri": "https://world.planethoster.net"
+        },
+        {
+          "type": "website",
+          "target": "https://mg.n0c.com/",
+          "uri": "https://mg.n0c.com/"
+        },
+        {
+          "type": "website",
+          "target": "www.planethoster.com",
+          "uri": "https://www.planethoster.com"
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "purevpn",
+    "url": "https://bugcrowd.com/engagements/purevpn",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "other",
+          "target": "PureVPN MAC App",
+          "uri": "https://www.purevpn.com/download/mac-vpn"
+        },
+        {
+          "type": "ios",
+          "target": "PureVPN iOS App",
+          "uri": "https://apps.apple.com/us/app/purevpn-best-vpn-for-iphone/id594506418"
+        },
+        {
+          "type": "website",
+          "target": "https://www.purevpn.com",
+          "uri": "https://www.purevpn.com"
+        },
+        {
+          "type": "website",
+          "target": "https://my.purevpn.com",
+          "uri": "https://my.purevpn.com"
+        },
+        {
+          "type": "website",
+          "target": "https://support.purevpn.com",
+          "uri": "https://support.purevpn.com"
+        },
+        {
+          "type": "api",
+          "target": "api.purevpn.com",
+          "uri": "https://api.purevpn.com"
+        },
+        {
+          "type": "other",
+          "target": "ATOM SDK",
+          "uri": "https://github.com/atomsdk"
+        },
+        {
+          "type": "other",
+          "target": "PureVPN Windows App",
+          "uri": "https://www.purevpn.com/download/windows-vpn"
+        },
+        {
+          "type": "android",
+          "target": "PureVPN Android App",
+          "uri": "https://play.google.com/store/apps/details?id=com.gaditek.purevpnics&hl=en_US&gl=US"
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "rakuten-vdp",
+    "url": "https://bugcrowd.com/engagements/rakuten-vdp",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "realself",
+    "url": "https://bugcrowd.com/engagements/realself",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "other",
+          "target": "log.realself.com",
+          "uri": ""
+        },
+        {
+          "type": "ios",
+          "target": "RealSelf",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "assets.realself.com",
+          "uri": "https://assets.realself.com"
+        },
+        {
+          "type": "website",
+          "target": "www.realself.com",
+          "uri": "https://www.realself.com"
+        },
+        {
+          "type": "api",
+          "target": "auth.realself.com",
+          "uri": "https://auth.realself.com"
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "redox",
+    "url": "https://bugcrowd.com/engagements/redox",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "concur",
+    "url": "https://bugcrowd.com/engagements/concur",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "other",
+          "target": "All services officially provided by Concur are in scope and eligible for the responsible disclosure program, including mobile applications.",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "Tripit Web Application: https://www.tripit.com",
+          "uri": "https://www.tripit.com"
+        },
+        {
+          "type": "website",
+          "target": "https://m.tripit.com/",
+          "uri": "https://m.tripit.com/"
+        },
+        {
+          "type": "website",
+          "target": "Tripit Teams: https://www.tripit.com/teams/",
+          "uri": "https://www.tripit.com/teams"
+        },
+        {
+          "type": "api",
+          "target": "Tripit Mobile Web Services/Public web services used by the Tripit Mobile applications: https://api.tripit.com/",
+          "uri": "https://api.tripit.com/"
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "seek",
+    "url": "https://bugcrowd.com/seek",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "*.seek.com.au",
+          "uri": ""
+        },
+        {
+          "type": "other",
+          "target": "https://seekcdn.com",
+          "uri": "https://seekcdn.com"
+        },
+        {
+          "type": "ios",
+          "target": "SEEK mobile app for iOS",
+          "uri": "https://apps.apple.com/au/app/seek-jobs-job-search/id520400855"
+        },
+        {
+          "type": "android",
+          "target": "SEEK mobile app for Android",
+          "uri": "https://play.google.com/store/apps/details?id=au.com.seek&hl=en_AU&gl=US"
+        },
+        {
+          "type": "website",
+          "target": "*.skinfra.xyz",
+          "uri": ""
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "segment",
+    "url": "https://bugcrowd.com/engagements/segment",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [],
+      "out_of_scope": [
+        {
+          "type": "website",
+          "target": "community.segment.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "segment.com/contact",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "segment.com/jobs",
+          "uri": ""
+        }
+      ]
+    }
+  },
+  {
+    "name": "skyscanner",
+    "url": "https://bugcrowd.com/engagements/skyscanner",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "ios",
+          "target": "Skyscanner iOS App",
+          "uri": ""
+        },
+        {
+          "type": "android",
+          "target": "Skyscanner Android App",
+          "uri": ""
+        },
+        {
+          "type": "api",
+          "target": "gateway.skyscanner.net/*",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "skyscanner.net/hotels/book/*",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "skyscanner.net/*",
+          "uri": ""
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "smartthings",
+    "url": "https://bugcrowd.com/engagements/smartthings",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "other",
+          "target": "SmartThings Hub",
+          "uri": ""
+        },
+        {
+          "type": "ios",
+          "target": "SmartThings Mobile Application for iOS",
+          "uri": "https://apps.apple.com/us/app/smartthings/id1222822904"
+        },
+        {
+          "type": "android",
+          "target": "SmartThings Mobile Application for Android",
+          "uri": "https://play.google.com/store/apps/details?id=com.samsung.android.oneconnect"
+        },
+        {
+          "type": "api",
+          "target": "SmartThings Rest APIs",
+          "uri": "https://smartthings.developer.samsung.com/docs/api-ref/st-api.html"
+        },
+        {
+          "type": "website",
+          "target": "SmartThings Graph Console",
+          "uri": ""
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "socrata",
+    "url": "https://bugcrowd.com/engagements/socrata",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "sophos",
+    "url": "https://bugcrowd.com/engagements/sophos",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "other",
+          "target": "Intercept X Endpoint (Windows) - Zero-click RCE",
+          "uri": ""
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "soundcloud",
+    "url": "https://bugcrowd.com/engagements/soundcloud",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": true,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "android",
+          "target": "SoundCloud Android app",
+          "uri": "https://play.google.com/store/apps/details?id=com.soundcloud.android&hl=en&gl=US"
+        },
+        {
+          "type": "website",
+          "target": "soundcloud.com",
+          "uri": "https://soundcloud.com"
+        },
+        {
+          "type": "website",
+          "target": "*.soundcloud.org",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "*.s-cloud.net",
+          "uri": ""
+        },
+        {
+          "type": "ios",
+          "target": "SoundCloud iOS app",
+          "uri": "https://apps.apple.com/us/app/soundcloud-music-audio/id336353151"
+        },
+        {
+          "type": "api",
+          "target": "*.soundcloud.com",
+          "uri": "https://connect.soundcloud.com"
+        },
+        {
+          "type": "api",
+          "target": "*.services.repostnetwork.com",
+          "uri": ""
+        },
+        {
+          "type": "api",
+          "target": "api-*.soundcloud.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "artists.soundcloud.com",
+          "uri": "http://artists.soundcloud.com/"
+        },
+        {
+          "type": "website",
+          "target": "soundcloud.org",
+          "uri": "https://soundcloud.org"
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "website",
+          "target": "blog.soundcloud.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "status.soundcloud.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "help.soundcloud.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "community.soundcloud.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "copyright.soundcloud.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "advertising.soundcloud.com",
+          "uri": ""
+        },
+        {
+          "type": "other",
+          "target": "soundcloudmail.com",
+          "uri": "https://soundcloudmail.com"
+        },
+        {
+          "type": "website",
+          "target": "press.soundcloud.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "scdrops.soundcloud.com",
+          "uri": "https://scdrops.soundcloud.com"
+        },
+        {
+          "type": "website",
+          "target": "promote.soundcloud.com",
+          "uri": "https://promote.soundcloud.com"
+        },
+        {
+          "type": "website",
+          "target": "contest.soundcloud.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "playback.soundcloud.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "jobs.soundcloud.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "playerone.soundcloud.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "support.soundcloud.org",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "secdomaintest.soundcloud.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "firston.soundcloud.com",
+          "uri": ""
+        }
+      ]
+    }
+  },
+  {
+    "name": "sproutsocial",
+    "url": "https://bugcrowd.com/engagements/sproutsocial",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "ios",
+          "target": "Sprout Social for iOS",
+          "uri": ""
+        },
+        {
+          "type": "android",
+          "target": "Sprout Social for Android",
+          "uri": "https://sproutsocial.com/insights/sprout-social-android/"
+        },
+        {
+          "type": "website",
+          "target": "sproutsocial.com/adapt/",
+          "uri": "https://sproutsocial.com/adapt/"
+        },
+        {
+          "type": "website",
+          "target": "sproutsocial.com/insights",
+          "uri": "https://sproutsocial.com/insights"
+        },
+        {
+          "type": "website",
+          "target": "sprout.link",
+          "uri": "https://sprout.link"
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "squareopensource",
+    "url": "https://bugcrowd.com/engagements/squareopensource",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "stackpath",
+    "url": "https://bugcrowd.com/engagements/stackpath",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "other",
+          "target": "*.stackpath.net - Any host or services",
+          "uri": ""
+        },
+        {
+          "type": "other",
+          "target": "Any host owned by StackPath",
+          "uri": ""
+        },
+        {
+          "type": "other",
+          "target": "*.stackpath.com - Any host or services",
+          "uri": ""
+        },
+        {
+          "type": "other",
+          "target": "*.serverdensity.com - Any host or services",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "control.stackpath.com",
+          "uri": ""
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "spacex",
+    "url": "https://bugcrowd.com/engagements/spacex",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "SpaceX and Starlink assets (target information and rewards detailed above on the brief)",
+          "uri": ""
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "statuspage",
+    "url": "https://bugcrowd.com/engagements/statuspage",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "manage.statuspage.io",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "*.statuspage.io",
+          "uri": ""
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "telefonicavdp",
+    "url": "https://bugcrowd.com/engagements/telefonicavdp",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "*.blau.de",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "*.o2online.de",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "*.telefonica.de",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "*.mediamarkt.o2service.de",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "*.mein.aetkasmart.de",
+          "uri": ""
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "Tesla",
+    "url": "https://bugcrowd.com/engagements/tesla",
+    "platform": "bugcrowd",
+    "safe_harbor": "partial",
+    "max_payout": 100000,
+    "allows_disclosure": true,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "*.tesla.cn",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "*.tesla.services",
+          "uri": ""
+        },
+        {
+          "type": "ios",
+          "target": "Official Tesla iOS apps",
+          "uri": "https://apps.apple.com/us/app/tesla/id582007913"
+        },
+        {
+          "type": "website",
+          "target": "*.tesla.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "*.teslamotors.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "*.solarcity.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "*.teslainsuranceservices.com",
+          "uri": ""
+        },
+        {
+          "type": "android",
+          "target": "Official Tesla Android apps",
+          "uri": "https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en_US&gl=US"
+        },
+        {
+          "type": "other",
+          "target": "Tesla Energy hardware you own",
+          "uri": ""
+        },
+        {
+          "type": "other",
+          "target": "Tesla vehicle hardware that you own",
+          "uri": ""
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "website",
+          "target": "employeefeedback.tesla.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "energysupport.tesla.com (you can report vulnerabilities to bugbounty.zoho.com)",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "engage.tesla.com",
+          "uri": "https://engage.tesla.com/"
+        },
+        {
+          "type": "website",
+          "target": "*.engage.tesla.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "feedback.tesla.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "feedback.teslamotors.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "ir.tesla.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "ir.teslamotors.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "mkto.teslamotors.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "shop.eu.teslamotors.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "service.tesla.com/docs/*",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "service.tesla.cn/docs/*",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "Any domains from acquisitions, such as maxwell.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "Any other third-party websites hosted by non-Tesla entities",
+          "uri": ""
+        }
+      ]
+    }
+  },
+  {
+    "name": "transferwise",
+    "url": "https://bugcrowd.com/engagements/transferwise",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "trello",
+    "url": "https://bugcrowd.com/engagements/trello",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "trello.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "api.trello.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "*.trello.services",
+          "uri": ""
+        },
+        {
+          "type": "other",
+          "target": "Trello Desktop Client",
+          "uri": ""
+        },
+        {
+          "type": "android",
+          "target": "Trello Mobile App for Android",
+          "uri": ""
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "tripadvisor-vdp",
+    "url": "https://bugcrowd.com/engagements/tripadvisor-vdp",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "twilio",
+    "url": "https://bugcrowd.com/engagements/twilio",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "api",
+          "target": "██████████████",
+          "uri": ""
+        },
+        {
+          "type": "api",
+          "target": "███████████",
+          "uri": ""
+        },
+        {
+          "type": "other",
+          "target": "█████████████████████",
+          "uri": ""
+        },
+        {
+          "type": "other",
+          "target": "███████████████████",
+          "uri": ""
+        },
+        {
+          "type": "other",
+          "target": "█████████████████████",
+          "uri": ""
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "tzero-vdp",
+    "url": "https://bugcrowd.com/engagements/tzero-vdp",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": true,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "*.tzero.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "dino.tzero.com",
+          "uri": "https://dino.tzero.com/"
+        },
+        {
+          "type": "android",
+          "target": "tZERO Mobile Application (Android)",
+          "uri": "https://play.google.com/store/apps/details?id=com.tzero&hl=en_US"
+        },
+        {
+          "type": "ios",
+          "target": "tZERO Mobile Application (iOS)",
+          "uri": "https://apps.apple.com/us/app/tzero-crypto/id1468985150"
+        },
+        {
+          "type": "other",
+          "target": "Any S3 buckets you can find",
+          "uri": ""
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "underarmour",
+    "url": "https://bugcrowd.com/engagements/underarmour",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "www.underarmour.com",
+          "uri": "https://www.underarmour.com"
+        },
+        {
+          "type": "website",
+          "target": "www.underarmour.co.uk",
+          "uri": "https://www.underarmour.co.uk"
+        },
+        {
+          "type": "ios",
+          "target": "UA Shop iOS",
+          "uri": "https://apps.apple.com/us/app/under-armour/id1092704571"
+        },
+        {
+          "type": "android",
+          "target": "UA Shop Android",
+          "uri": "https://play.google.com/store/apps/details?id=com.ua.shop&hl=en"
+        },
+        {
+          "type": "api",
+          "target": "https://api.shop.ua.com/graphql",
+          "uri": "https://api.shop.ua.com/graphql"
+        },
+        {
+          "type": "website",
+          "target": "https://www.underarmournext.co.uk/",
+          "uri": "https://www.underarmournext.co.uk/"
+        },
+        {
+          "type": "website",
+          "target": "https://underarmournext.com/",
+          "uri": "https://underarmournext.com/"
+        },
+        {
+          "type": "other",
+          "target": "*.api.ua.com",
+          "uri": "https://*.api.ua.com/"
+        },
+        {
+          "type": "website",
+          "target": "https://consumer-sustainability.underarmour.com/en",
+          "uri": "https://consumer-sustainability.underarmour.com/en"
+        },
+        {
+          "type": "website",
+          "target": "vpe-us.underarmour.com",
+          "uri": "https://vpe-us.underarmour.com/"
+        },
+        {
+          "type": "website",
+          "target": "*.underarmour.cn",
+          "uri": "https://www.underarmour.cn"
+        },
+        {
+          "type": "website",
+          "target": "www.underarmour.com.sg",
+          "uri": "http://www.underarmour.com.sg"
+        },
+        {
+          "type": "website",
+          "target": "underarmour.co.kr",
+          "uri": "https://underarmour.co.kr"
+        },
+        {
+          "type": "website",
+          "target": "https://armourhouse.underarmour.com",
+          "uri": "https://armourhouse.underarmour.com"
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "upwork",
+    "url": "https://bugcrowd.com/engagements/upwork",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "www.upwork.com",
+          "uri": ""
+        },
+        {
+          "type": "android",
+          "target": "Upwork - Android Application",
+          "uri": ""
+        },
+        {
+          "type": "ios",
+          "target": "Upwork - iOS Application",
+          "uri": ""
+        },
+        {
+          "type": "other",
+          "target": "Upwork Dash Messenger Desktop Version (www.upwork.com/downloads)",
+          "uri": ""
+        },
+        {
+          "type": "api",
+          "target": "www.upwork.com/api",
+          "uri": ""
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "usaa",
+    "url": "https://bugcrowd.com/engagements/usaa",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "usaa.com",
+          "uri": "https://www.usaa.com"
+        },
+        {
+          "type": "website",
+          "target": "mobile.usaa.com",
+          "uri": "https://mobile.usaa.com"
+        },
+        {
+          "type": "api",
+          "target": "api.usaa.com",
+          "uri": "https://api.usaa.com/"
+        },
+        {
+          "type": "other",
+          "target": "partners.usaa.com",
+          "uri": "https://partners.usaa.com"
+        },
+        {
+          "type": "android",
+          "target": "USAA Mobile Application for Android",
+          "uri": "https://play.google.com/store/apps/details?id=com.usaa.mobile.android.usaa&hl=en"
+        },
+        {
+          "type": "ios",
+          "target": "USAA Mobile Application for iOS",
+          "uri": "https://apps.apple.com/us/app/usaa-mobile/id312325565"
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "viator",
+    "url": "https://bugcrowd.com/engagements/viator",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "ios",
+          "target": "iOS Viator Tours & Activities App",
+          "uri": ""
+        },
+        {
+          "type": "android",
+          "target": "Android Viator Tours & Activities App",
+          "uri": "https://play.google.com/store/apps/details?id=com.viator.mobile.android&hl=en_US&gl=US"
+        },
+        {
+          "type": "website",
+          "target": "https://supplier.viator.com/",
+          "uri": "https://supplier.viator.com/"
+        },
+        {
+          "type": "api",
+          "target": "https://www.toursgds.com/",
+          "uri": "https://www.toursgds.com/"
+        },
+        {
+          "type": "api",
+          "target": "https://www.toursgds.com/ToursGdsService?wsdl",
+          "uri": "https://www.toursgds.com/ToursGdsService?wsdl"
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "endurance-builder",
+    "url": "https://bugcrowd.com/engagements/endurance-builder",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "*.websitebuilder.com",
+          "uri": ""
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "westernunion",
+    "url": "https://bugcrowd.com/engagements/westernunion",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": 3000,
+    "allows_disclosure": true,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "other",
+          "target": "https://www.westernunion.com",
+          "uri": "https://www.westernunion.com"
+        },
+        {
+          "type": "other",
+          "target": "https://www2.westernunion.com",
+          "uri": "https://www2.westernunion.com"
+        },
+        {
+          "type": "other",
+          "target": "https://www.westernunion.fr",
+          "uri": "https://www.westernunion.fr"
+        },
+        {
+          "type": "other",
+          "target": "https://www.westernunion.de",
+          "uri": "https://www.westernunion.de"
+        },
+        {
+          "type": "other",
+          "target": "https://www.westernunion.no",
+          "uri": "https://www.westernunion.no"
+        },
+        {
+          "type": "other",
+          "target": "https://www.westernunion.se",
+          "uri": "https://www.westernunion.se"
+        },
+        {
+          "type": "other",
+          "target": "https://www.westernunion.ca",
+          "uri": "https://www.westernunion.ca"
+        },
+        {
+          "type": "other",
+          "target": "https://www.westernunion.nl",
+          "uri": "https://www.westernunion.nl"
+        },
+        {
+          "type": "other",
+          "target": "https://www.westernunion.es",
+          "uri": "https://www.westernunion.es"
+        },
+        {
+          "type": "other",
+          "target": "https://www.westernunion.ie",
+          "uri": "https://www.westernunion.ie"
+        },
+        {
+          "type": "other",
+          "target": "https://www.westernunion.ch",
+          "uri": "https://www.westernunion.ch"
+        },
+        {
+          "type": "other",
+          "target": "https://www.westernunion.pt",
+          "uri": "https://www.westernunion.pt"
+        },
+        {
+          "type": "other",
+          "target": "https://www.westernunion.be",
+          "uri": "https://www.westernunion.be"
+        },
+        {
+          "type": "other",
+          "target": "https://www.westernunion.dk",
+          "uri": "https://www.westernunion.dk"
+        },
+        {
+          "type": "other",
+          "target": "https://www.westernunion.fi",
+          "uri": "https://www.westernunion.fi"
+        },
+        {
+          "type": "other",
+          "target": "https://www.westernunion.pl",
+          "uri": "https://www.westernunion.pl"
+        },
+        {
+          "type": "other",
+          "target": "https://www.westernunion.ee",
+          "uri": "https://www.westernunion.ee"
+        },
+        {
+          "type": "other",
+          "target": "https://www.westernunion.lu",
+          "uri": "https://www.westernunion.lu"
+        },
+        {
+          "type": "other",
+          "target": "https://www.westernunion.gr",
+          "uri": "https://www.westernunion.gr"
+        },
+        {
+          "type": "other",
+          "target": "https://www.westernunion.at",
+          "uri": "https://www.westernunion.at"
+        },
+        {
+          "type": "other",
+          "target": "https://www.westernunion.it",
+          "uri": "https://www.westernunion.it"
+        },
+        {
+          "type": "other",
+          "target": "https://www.westernunion.co.nz",
+          "uri": "https://www.westernunion.co.nz"
+        },
+        {
+          "type": "other",
+          "target": "https://www.westernunion.co.uk",
+          "uri": "https://www.westernunion.co.uk"
+        },
+        {
+          "type": "other",
+          "target": "https://www.westernunion.com.au",
+          "uri": "https://www.westernunion.com.au"
+        },
+        {
+          "type": "other",
+          "target": "https://cuba.westernunion.com",
+          "uri": "https://cuba.westernunion.com"
+        },
+        {
+          "type": "other",
+          "target": "https://egypt.westernunion.com",
+          "uri": "https://egypt.westernunion.com"
+        },
+        {
+          "type": "other",
+          "target": "https://hk.westernunion.com",
+          "uri": "https://hk.westernunion.com"
+        },
+        {
+          "type": "other",
+          "target": "https://india.westernunion.com",
+          "uri": "https://india.westernunion.com"
+        },
+        {
+          "type": "other",
+          "target": "https://jamaica.westernunion.com",
+          "uri": "https://jamaica.westernunion.com"
+        },
+        {
+          "type": "other",
+          "target": "https://location.westernunion.com",
+          "uri": "https://location.westernunion.com"
+        },
+        {
+          "type": "other",
+          "target": "https://m.westernunion.com",
+          "uri": "https://m.westernunion.com"
+        },
+        {
+          "type": "other",
+          "target": "https://senegal.westernunion.com",
+          "uri": "https://senegal.westernunion.com"
+        },
+        {
+          "type": "other",
+          "target": "https://sg.westernunion.com",
+          "uri": "https://sg.westernunion.com"
+        },
+        {
+          "type": "website",
+          "target": "https://wuagentportal.westernunion.com",
+          "uri": "https://wuagentportal.westernunion.com"
+        },
+        {
+          "type": "website",
+          "target": "https://agentportal.westernunion.com",
+          "uri": "https://agentportal.westernunion.com"
+        },
+        {
+          "type": "website",
+          "target": "https://westernunionbank.com",
+          "uri": "https://westernunionbank.com"
+        },
+        {
+          "type": "website",
+          "target": "https://ebanking.westernunionbank.com",
+          "uri": "https://ebanking.westernunionbank.com"
+        },
+        {
+          "type": "website",
+          "target": "transvision.westernunion.com",
+          "uri": "https://transvision.westernunion.com"
+        },
+        {
+          "type": "website",
+          "target": "partnernet.westernunion.com",
+          "uri": "https://partnernet.westernunion.com"
+        },
+        {
+          "type": "website",
+          "target": "iwgo.westernunion.com",
+          "uri": "https://iwgo.westernunion.com"
+        },
+        {
+          "type": "website",
+          "target": "http://agenttraining.westernunion.com",
+          "uri": "http://agenttraining.westernunion.com"
+        },
+        {
+          "type": "website",
+          "target": "https://paymentstatus.westernunion.com",
+          "uri": "https://paymentstatus.westernunion.com"
+        },
+        {
+          "type": "website",
+          "target": "https://foundation.westernunion.com",
+          "uri": "https://foundation.westernunion.com"
+        },
+        {
+          "type": "website",
+          "target": "https://partners.westernunion.com",
+          "uri": "https://partners.westernunion.com"
+        },
+        {
+          "type": "website",
+          "target": "wucare.westernunion.com",
+          "uri": "https://wucare.westernunion.com"
+        },
+        {
+          "type": "website",
+          "target": "secure.westernunion.com",
+          "uri": "https://secure.westernunion.com"
+        },
+        {
+          "type": "website",
+          "target": "corporate.westernunion.com",
+          "uri": "https://corporate.westernunion.com"
+        },
+        {
+          "type": "ios",
+          "target": "Western Union iOS app (link below)",
+          "uri": "https://apps.apple.com/us/app/western-union-transfer-money/id424716908"
+        },
+        {
+          "type": "android",
+          "target": "Western Union Android app (link below)",
+          "uri": "https://play.google.com/store/apps/details?id=com.westernunion.android.mtapp&hl=en_US&gl=US"
+        },
+        {
+          "type": "website",
+          "target": "wuinsights.westernunion.com",
+          "uri": "https://wuinsights.westernunion.com"
+        },
+        {
+          "type": "website",
+          "target": "remoteaccess.westernunion.com",
+          "uri": "https://remoteaccess.westernunion.com"
+        },
+        {
+          "type": "website",
+          "target": "secureauth.westernunion.com",
+          "uri": "https://secureauth.westernunion.com"
+        },
+        {
+          "type": "website",
+          "target": "mydesktop.wu.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "*.westernunion.*",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "*.wu.*",
+          "uri": ""
+        },
+        {
+          "type": "other",
+          "target": "Any host or verified to be owned by Western Union (domains/IP space/etc.)",
+          "uri": ""
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "website",
+          "target": "payments.westernunion.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "Any asset not listed above as 'In Scope'",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "www.wuprepaid.de",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "https://rewardcircle.westernunion.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "https://www.wuprepaid.at/",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "https://onlinefx.westernunion.com/",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "https://online.westernunion.com/mp.en/pages/loginform.aspx",
+          "uri": ""
+        }
+      ]
+    }
+  },
+  {
+    "name": "westjet-disclose",
+    "url": "https://bugcrowd.com/engagements/westjet-disclose",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "www.westjet.com",
+          "uri": "https://www.westjet.com"
+        },
+        {
+          "type": "website",
+          "target": "www.flyswoop.com",
+          "uri": "https://www.flyswoop.com"
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "whmcs",
+    "url": "https://bugcrowd.com/engagements/whmcs",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "other",
+          "target": "Researcher owned WHMCS Instance",
+          "uri": ""
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "wpengine",
+    "url": "https://bugcrowd.com/wpengine",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "wpengine.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "https://my.wpengine.com",
+          "uri": "https://my.wpengine.com"
+        },
+        {
+          "type": "website",
+          "target": "*.wpengine.io",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "*.wpesvc.net",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "*.studiopress.com",
+          "uri": ""
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "name": "YNAB",
+    "url": "https://bugcrowd.com/engagements/ynab",
+    "platform": "bugcrowd",
+    "safe_harbor": "full",
+    "max_payout": 3000,
+    "allows_disclosure": true,
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "staging-app.bany.dev",
+          "uri": ""
+        },
+        {
+          "type": "api",
+          "target": "staging-api.bany.dev",
+          "uri": "https://staging-api.bany.dev/"
+        },
+        {
+          "type": "website",
+          "target": "www.ynab.com",
+          "uri": "https://www.ynab.com/"
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "website",
+          "target": "https://app.ynab.com/",
+          "uri": ""
+        },
+        {
+          "type": "other",
+          "target": "Any previous version of the desktop apps: YNAB 4, YNAB 3, YNAB Pro, YNAB Basic (Spreadsheet)",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "https://support.ynab.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "https://develop-app.ynab.com",
+          "uri": ""
+        },
+        {
+          "type": "website",
+          "target": "https://learn.ynab.com/",
+          "uri": ""
+        }
+      ]
+    }
+  },
+  {
+    "name": "zynga-vdp",
+    "url": "https://bugcrowd.com/engagements/zynga-vdp",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": false,
+    "targets": {
+      "in_scope": [],
+      "out_of_scope": []
+    }
+  }
+]
