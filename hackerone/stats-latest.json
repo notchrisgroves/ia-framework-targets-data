@@ -1,0 +1,39 @@
+{
+  "timestamp": "2026-01-24T02:42:27.616Z",
+  "total_programs": 590,
+  "by_state": {
+    "public_mode": 590
+  },
+  "by_submission_state": {
+    "open": 464,
+    "paused": 126
+  },
+  "with_bounties": 297,
+  "managed_programs": 0,
+  "triage_active": 331,
+  "total_targets": 19542,
+  "in_scope_targets": 16875,
+  "out_of_scope_targets": 2667,
+  "by_asset_type": {
+    "website": 13295,
+    "other": 1322,
+    "network": 142,
+    "source_code": 457,
+    "ai_model": 5,
+    "ios": 468,
+    "android": 509,
+    "executable": 217,
+    "windows": 8,
+    "smart_contract": 19,
+    "api": 32,
+    "hardware": 146,
+    "other_apk": 34,
+    "testflight": 5,
+    "ip_address": 213,
+    "other_ipa": 3
+  },
+  "with_metrics": 590,
+  "avg_response_efficiency": null,
+  "programs_with_reward_tiers": 280,
+  "programs_with_scope_descriptions": 320
+}
