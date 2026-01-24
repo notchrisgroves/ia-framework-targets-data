@@ -350,6 +350,24 @@ console.log(`${criticalPrograms.length} programs accept critical severity report
 - **Deployment:** Hostinger VPS with cron automation
 - **Publishing:** Automatic git commit + push on successful scrape
 
+### Infrastructure & Backup
+
+**Primary Repository Location:**
+- **VPS Host:** Hostinger (srv945980.hstgr.cloud)
+- **Working Directory:** `~/ia-framework-targets-data/` on VPS
+- **Scrapers Location:** `~/bounty-scraper/` on VPS
+
+**Automated Backup Strategy:**
+- ✅ Auto-commit after every successful scrape (3x per hour per platform)
+- ✅ Auto-push to GitHub immediately after commit
+- ✅ GitHub serves as continuous backup with full git history
+- ✅ 30-minute update cycle ensures data is never stale
+
+**Data Recovery:**
+- Clone from GitHub to restore to any location
+- Full git history preserved (can recover any previous scrape)
+- Scraper code backed up in private framework repository
+
 ---
 
 ## ⚠️ Important Notes
