@@ -1024,7 +1024,6 @@ asb.cbreesi.com
 ascc-portal.abb.com
 ascc.abb.com
 ascc.abb.com.cn
-asccenhancement.motion.abb.com
 ascp.mtn.com
 asdabusiness.com
 ashvpn.telos.com
@@ -2080,7 +2079,6 @@ cnabbpeks0001.abb.com.cn
 cnabbpeks0002.abb.com.cn
 cnb-clent.fiservapps.com
 cnbjs-zgw0.cn.abb.com
-cndmx-equipment.abb.com.cn
 cndmx-pm.abb.com.cn
 cndmx-ssm.abb.com.cn
 cniib-lims.cn.abb.com
@@ -5484,6 +5482,8 @@ manage.gallileo-frankfurt.com
 manage.grab.co
 manage.nba.com
 manage.recreation.gov
+management.buildinglicense.abb.com
+management.multiscan.abb.com
 management.particlehealth.com
 manager.gallileo-frankfurt.com
 manistiquefederal.com
