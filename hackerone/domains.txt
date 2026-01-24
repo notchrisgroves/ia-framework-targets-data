@@ -308,7 +308,6 @@ ads.gallileo-frankfurt.com
 ads.reddit.com
 ads.snapchat.com
 ads.tiktok.com
-advance.deere.com
 advantage.gsa.gov
 adventenergy.com.ph
 adviser.aonannuityfinder.co.uk
@@ -367,7 +366,6 @@ aim.apicon.cloud.daimlertruck.com
 aim.costing.cloud.daimlertruck.com
 aim.oneicon.aftersales.daimlertruck.com
 aimco.co.ke
-aiproducts.com
 airflow.aonmylearning.com
 airtalk.appslatam.com
 airview.resmed.com
@@ -498,7 +496,6 @@ anubhutiapicert.deere.com
 anubhutiapiqual.tal.deere.com
 anubhutiapis.channel-dss-r1-anubhuti-prod-vpn.ap.e06.c01.johndeerecloud.com
 anubhutiapis.channel-dss-r1-anubhuti-qual-vpn.ap.e06.c01.johndeerecloud.com
-anubhutiapis.deere.com
 anubhuticert.deere.com
 anubhutiqual.tal.deere.com
 anubhutiuat.deere.com
@@ -607,7 +604,6 @@ api-meubanco.deere.com
 api-mtls-itg-vip.it.hpe.com
 api-mtls-itg.it.hpe.com
 api-openbanking.starlingbank.com
-api-pay-qual.deere.com
 api-prod.bsp.tsac.daimlertruck.com
 api-prx-stg-sgw-vip.it.hpe.com
 api-prx-stg-sgw.it.hpe.com
@@ -668,6 +664,7 @@ api.dailypay.com
 api.daimlertruck.com
 api.dashlane.com
 api.data.gov
+api.demo.nonprod.tenna.com
 api.deposits.oaknorth.co.uk
 api.deriv.com
 api.dev.csgna.csg.daimlertruck.com
@@ -683,6 +680,8 @@ api.digit.co
 api.direct.playstation.com
 api.doppler.com
 api.dpfriday.com
+api.dv2.nonprod.tenna.com
+api.dv3.nonprod.tenna.com
 api.dyson.at
 api.dyson.be
 api.dyson.ch
@@ -773,6 +772,7 @@ api.prd-us.platform.csg.daimlertruck.com
 api.prd-us.shared.csg.daimlertruck.com
 api.prod.whoop.com
 api.profiler.firefox.com
+api.qa1.nonprod.tenna.com
 api.raisable.org
 api.razorpay.com
 api.recordedfuture.com
@@ -803,6 +803,7 @@ api.steampowered.com
 api.stg.csgna.csg.daimlertruck.com
 api.stg.fb.csg.daimlertruck.com
 api.stg.inspectorio.com
+api.stg.nonprod.tenna.com
 api.stg.platform.csg.daimlertruck.com
 api.stg.shared.csg.daimlertruck.com
 api.streak.com
@@ -812,6 +813,7 @@ api.support.hpe.com
 api.swiftfinancial.com
 api.syfe.com
 api.taxjar.com
+api.tenna.com
 api.test2.ipg-online.com
 api.thecoalition.com
 api.thnks.com
@@ -946,6 +948,7 @@ app.starlingbank.com
 app.stg.inspectorio.com
 app.taplio.com
 app.taxjar.com
+app.tenna.com
 app.thnks.com
 app.tweethunter.io
 app.uma.money
@@ -1134,6 +1137,7 @@ autodiscover.cbre.lt
 autodiscover.cbre.lv
 autodiscover.cbre.ua
 autodiscover.gallileo-frankfurt.com
+autodiscover.help.tenna.com
 autodiscover.kingagro.com
 autodiscover.kingagro.com.ar
 autodiscover.kreiselelectric.com
@@ -1141,10 +1145,10 @@ autodiscover.monosemusa.com
 autodiscover.outlook.com
 autodiscover.pla.com.br
 autodiscover.projectstrategy.com.au
-autodiscover.sentera.com
 autodiscover.smartapply.com
 autodiscover.surepointag.com
 autodiscover.surepointelectronics.com
+autodiscover.tenna.com
 autodiscover.ucr.com
 autodiscover.unimil.com.br
 autoemb.appslatam.com
@@ -1264,7 +1268,6 @@ beldent.com.ar
 belvita.life
 belvitasnacks.com
 benchmarks.gsa.gov
-beneficios-feria.com
 benefit.porsche-design.com
 benefitindexpreprod2.aon.com
 benelux.inside.abb.com
@@ -1282,6 +1285,7 @@ beta.notify.gov
 beta.nutellaxmas.4ourclient.com
 beta.ocrtitlevi.gsa.gov
 beta.property.reporting.gov
+beta.tenna.com
 beta.test.cbreproperties.cz
 beta.tictac.4ourclient.com
 beta.travel.reporting.gov
@@ -1297,6 +1301,7 @@ bgpview.io
 bhp-safesite.dev.myvirtualsuper.com
 bhp.dev.myvirtualsuper.com
 bi-ebs.mtn.com
+bid457c.4722325t.tenna.com
 bigbasketdrop.com
 bigbiller.topechelon.com
 bigcommerce-adapter.judge.me
@@ -1369,6 +1374,7 @@ blog.playcanvas.com
 blog.remitly.com
 blog.replyify.com
 blog.spoonflower.com
+blog.tenna.com
 blog.ui.com
 blog.unico.io
 blog.ycombinator.com
@@ -1377,7 +1383,6 @@ bluecollar.motionupskill.abb.com
 blueprints.amazon.com
 blueriver.ai
 bluerivert.com
-bluerivertech.com
 bluerivertechnology.com
 blueskytours.globalbookingsolutions.com
 bm-finhrapps.anywhere.gsa.gov
@@ -1464,7 +1469,6 @@ brookfieldserve.com
 brumikobjavitel.sk
 brumikobjevitel.cz
 bscfext.us.baesystems.com
-bsm.deere.com
 bsp.marriott.com
 btat.ea.financial-net.com
 btat.financial-net.com
@@ -1574,6 +1578,7 @@ california.bluerivertech.com
 callawaydesigngroup.com
 callback.oportun.com
 callbacks.airbnb.com
+cam.tenna.com
 campaignmanagement.com.au
 campaigns-qa.dtbsa.co.za
 campaigns.dtbsa.co.za
@@ -1740,7 +1745,6 @@ ccfccu.com
 ccfccu.net
 ccfccu.org
 ccloud.yoti.com
-ccms.deere.com
 ccmscert.deere.com
 ccr.bankunited.com
 ccreward.com
@@ -1858,7 +1862,6 @@ cfeuaws1.iongroup.com
 cfeuaws1dr.iongroup.com
 cfo.gov
 cforeports.gsa.gov
-cfscf.deere.com
 cfsfcu.com
 cfsfiserv.fiservmobileapps.com
 cfusasp.iongroup.com
@@ -2207,7 +2210,6 @@ connectedservices.amr.robotics.abb.com
 connectedservices.robotics.abb.com
 connectedservices.robotics.abb.com.cn
 connectindividual.nfp.com
-connections.deere.com
 connectivity.evcharging.abb.com.cn
 consensusviews.com
 consensys.io
@@ -2223,6 +2225,7 @@ console.neon.tech
 console.ort-one-pingone.com
 console.picsart.io
 console.tink.com
+constructionbuilt.tenna.com
 constructionriskportal.aon.com
 consultant.live.web.corebridgefinancial.com
 consumer.cardservices.bank
@@ -2546,7 +2549,6 @@ dashregtech.com
 dashtradedesk.com
 data-catalog.deere.com
 data-specialist.com.au
-data-sync.deere.com
 data.electricalsystems.myremotecare.abb.com.cn
 data.gallileo-frankfurt.com
 data.gov
@@ -2616,7 +2618,6 @@ dealeridp.deere.com
 dealerlocator.deere.com
 dealers-staging.harvestprofit.com
 dealers.harvestprofit.com
-dealers.waratah.net
 dealriskmonitor.com
 dealscope.co.uk
 dealscope.com
@@ -2646,12 +2647,14 @@ delta.app
 dem037781.de.abb.com
 demb.cl.iongroup.com
 demo-admin.openmage.com
+demo-warehouse.nonprod.tenna.com
 demo.arkoselabs.com
 demo.cbreesi.com
 demo.dynamic.xyz
 demo.fareharbor.com
 demo.gallileo-frankfurt.com
 demo.latentzero.com
+demo.nonprod.tenna.com
 demo.openmage.org
 demo.plaid.com
 demo.sdk.picsart.io
@@ -2816,7 +2819,6 @@ digitaldashboard.gov
 digitalfactory.robotics.abb.com
 digitalgov.gov
 digitalpartners.mtn.co.za
-digitalparts.deere.com
 dima.abb.com
 direct-demo.currencycloud.com
 direct.playstation.com
@@ -2941,6 +2943,10 @@ dtfapi.deere.com
 dungeonofdoomkemah.com
 duplo-chocnut.de
 dust.tt
+dv2-warehouse.nonprod.tenna.com
+dv2.nonprod.tenna.com
+dv3-warehouse.nonprod.tenna.com
+dv3.nonprod.tenna.com
 dvc-lightcycle-api.wdprapps.disney.com
 dw.gallileo-frankfurt.com
 dx-demo.deriv.com
@@ -2981,7 +2987,6 @@ east-proxy.businesstrack.com
 east-vpn3.safelnk.net
 east-www.safelnk.net
 easternbank-icm.fiservapps.com
-easyadjust.monosem.com
 easycustoms.abb.com.cn
 easyproweb.abb.com
 ebadge.abb.com
@@ -3005,7 +3010,6 @@ ecg-web-dmz-prd-vip.it.hpe.com
 ecneulfnoc.oportun.com
 ecodesign.drivesmotors.abb.com
 ecomm-bin.fiserv.com.br
-ecommerce-product-experience-cert.cps-johndeerestore-cert-vpn3.us.e32.c01.johndeerecloud.com
 ecommerce.aon.co.nz
 ecommerce.industrialsolutions.abb.com
 econfigure.abb.com.cn
@@ -3082,6 +3086,7 @@ elc-clglobal-us-qa.elcompanies.com
 elcompanies.co.uk
 elcompanies.com
 elcuscare.abb.com.cn
+eld.tenna.com
 eleai.cloudintegration.abb.com
 elearning.gallileo-frankfurt.com
 electrical-distribution-control-system.abb.com.cn
@@ -3489,7 +3494,6 @@ finance.dtbsa.co.za
 finance.gsa.gov
 finance.ocfo.gsa.gov
 financeacademy.abb.com
-financecenter-api.deere.com
 financecenter.deere.com
 financeconnect-core.alfa2-prod-floating.eu.e10.c01.johndeerecloud.com
 financeconnect-pos.alfa2-prod-floating.eu.e10.c01.johndeerecloud.com
@@ -3539,6 +3543,7 @@ fldmyarvb01.mtn.co.za
 fldmyarvb02.mtn.co.za
 fleet.fas.gsa.gov
 fleet.gsa.gov
+fleet.tenna.com
 fleetb.gsa.gov
 fleetboard.com
 fleeteur.fas.gsa.gov
@@ -3567,7 +3572,6 @@ fonzies.it
 fonziescontest.it
 ford.ca
 forestry.deere.com
-forgotpass.johndeere.com
 form.digitalcapture.elcompanies.com
 formant.dev.bearflagrobotics.com
 formassembly.com
@@ -3748,7 +3752,6 @@ geo.cn.mybuildings.abb.com
 geo.eu.mybuildings.abb.com
 geocode-beta.bykea.net
 geodemographics.com.au
-geofence-manager.deere.com
 geofilters.snapchat.com
 geoinview.com
 georisk.com.au
@@ -3850,6 +3853,7 @@ go.geneva-staging.com
 go.insideplus.abb.com
 go.insideplus.playground.abb.com
 go.stripchat.com
+go.tenna.com
 goaeis.com
 goasp.it
 gobrightspeed.net
@@ -3990,6 +3994,7 @@ handel.fi
 handelsregister-auskunft.info
 handelsregisterauskunft.info
 handheld-scanners.us.abb.com
+hank.tenna.com
 hanlimips.com
 hannaandersson.fr
 harbor.csde.caci.com
@@ -4061,6 +4066,7 @@ heartbeat.cbreesi.com
 heartland-uat.hepsiian.com
 heberlehelmferguson.com
 hec.esm.abb.com
+helm.cloud.tenna.com
 help-jp.krisp.ai
 help.agrisync.com
 help.aiven.io
@@ -4083,6 +4089,7 @@ help.service.motion.abb.com.cn
 help.sketchfab.com
 help.starlingbank.com
 help.steampowered.com
+help.tenna.com
 help.twilio.com
 help.ui.com
 help.unikrn.com
@@ -4360,7 +4367,6 @@ iii-net.us
 iii-pluto.com
 iiivega.com
 iiot.automation.abb.com
-iis-ff-service.gsec-iam-ii-devl-vpn.us.e21.c01.johndeerecloud.com
 ikoma-cs.net
 il.abb.com
 ilafcu.org
@@ -4499,6 +4505,14 @@ infostore.com
 infostore.us
 infra-oss.moov.io
 ingest.clairvoyance.indrive.tech
+ingestion-azu-prd.tmp-prd.tenna.com
+ingestion-gms-prd.tmp-prd.tenna.com
+ingestion-gms-stg.tmp-prd.tenna.com
+ingestion-tfa-demo.tmp-prd.tenna.com
+ingestion-tfa-dv3.tmp-nonprd.tenna.com
+ingestion-tfa-prd.tmp-prd.tenna.com
+ingestion-tfa-qa1.tmp-nonprd.tenna.com
+ingestion-tfa-stg.tmp-prd.tenna.com
 ingestion.electrification.iot.ability.abb.com.cn
 ingoodco.com.au
 ingramoasis.com
@@ -4567,7 +4581,6 @@ installed-environments-srvc-prd-lb-ext.it.hpe.com
 installed-environments-ui-itg-ext.it.hpe.com
 installed-environments-ui-prd-ext.it.hpe.com
 installs.sentera.com
-installsdev.sentera.com
 installsprod.sentera.com
 installsstaging.sentera.com
 installsstaging2.sentera.com
@@ -4658,7 +4671,6 @@ investshop.com.br
 invisionapp.com
 invisionu.education
 invite.ayoba.me
-invoice.deere.com
 invoices.razorpay.com
 invoices.vn.abb.com
 ioadfs.thinkesi.com
@@ -4975,8 +4987,6 @@ jdarcgisdrtwo.deere.com
 jdbulletins.deere.com
 jdcpyum.deere.com
 jddirectory.deere.com
-jdf-adv-eng.deere.com
-jdf-credit-delivery-integrator-api-devl.deere.com
 jdfp2-experienceapi-prod.deere.com
 jdfy-cert.deere.com
 jdfy.deere.com
@@ -4993,7 +5003,6 @@ jdpsproductdatawstc.deere.com
 jdquote2.deere.com
 jdset.deere.com
 jdsn-cart-qual.deere.com
-jdsn-creditmemo.deere.com
 jdsn-tcs.deere.com
 jdsn.deere.com
 jduetc.deere.com
@@ -5032,7 +5041,6 @@ jocca.it
 johndeere.archivea.com
 johndeere.invisionapp.com
 johndeere.service-now.com
-johndeerelearning.deere.com
 johndeeretimberskills.com
 johnhancock-uat.hepsiian.com
 join.marriott.com
@@ -5194,7 +5202,6 @@ lan-54-250.usequities.com
 lan-54-251.usequities.com
 lan-54-252.usequities.com
 lan-54-253.usequities.com
-landing-page.ghns-sre-prod-vpn.us.e00.c01.johndeerecloud.com
 lando.services.mozilla.com
 landscapes.abb.com
 lanfairfcu.com
@@ -5227,6 +5234,7 @@ leads.dtbsa.co.za
 leaflet-map.bykea.net
 leanoffice.pl.abb.com
 learn.harvestprofit.com
+learn.tenna.com
 learnconnectgrowday.events.abb.com
 learning.deere.com
 learning.raicescyberacademy.org
@@ -5322,6 +5330,7 @@ login.rei.com
 login.ro.co
 login.staging-zakelijk.aonverzekeringen.nl
 login.starbucks.co.jp
+login.tenna.com
 login.wellhive.com
 login.www.vaxvacationaccess.com
 login2.fiservapp.com
@@ -5633,7 +5642,6 @@ metabase-wa.myvirtualsuper.com
 metabase.harvestprofit.com
 metabase.myvirtualsuper.com
 metadata-devl.deere.com
-metadata.deere.com
 metadata.vectranetworks.com
 metahuman.unrealengine.com
 metamask.github.io
@@ -5771,6 +5779,12 @@ moneybird.com
 moneybirdstorage.com
 monitor.gallileo-frankfurt.com
 monitor.is.motion.abb.com.cn
+monitor.k8s.us-east-1.public.demo.cloud.tenna.com
+monitor.k8s.us-east-1.public.dv3.cloud.tenna.com
+monitor.k8s.us-east-1.public.prd.cloud.tenna.com
+monitor.k8s.us-east-1.public.stg.cloud.tenna.com
+monitor.k8s.us-east-2.public.dv2.cloud.tenna.com
+monitor.k8s.us-east-2.public.qa1.cloud.tenna.com
 monitor.lichess.ovh
 monitor.mozilla.org
 monitoring.gallileo-frankfurt.com
@@ -6471,6 +6485,12 @@ offsite.omise.co
 offtheeatenpathsnacks.com
 ofr.mtn.com
 oi-grafana.bluerivertech.com
+oidc.demo.cloud.tenna.com
+oidc.dv2.cloud.tenna.com
+oidc.dv3.cloud.tenna.com
+oidc.prd.cloud.tenna.com
+oidc.qa1.cloud.tenna.com
+oidc.stg.cloud.tenna.com
 oilspace.net
 olb.gscu.org
 olb.guardianscu.coop
@@ -6635,6 +6655,7 @@ origin-xvkbf60trh-ete.abb.com.cn
 orosaiwa.it
 osao.bankunited.com
 oss.moov.io
+ots.technology.tenna.com
 outage.logitech.com
 outage.regulations.gov
 outagehistory.logitech.com
@@ -6647,6 +6668,7 @@ owa.gslb.cbre.eu
 owa.marriott.com
 owa.pitch.se
 owncloud.gallileo-frankfurt.com
+ownersupport.deere.com
 oymyakon.indriver.io
 p.gallileo-frankfurt.com
 p.grabtaxi.com
@@ -6705,7 +6727,6 @@ partnerships.aon.com
 partrelease.deere.com
 parts.deere.africa
 partsadvisor.deere.com
-partscatalog.deere.com
 partscheckout.deere.com
 partsdesk.deere.com
 pass.cniib-supplysynergy.abb.com.cn
@@ -6721,7 +6742,6 @@ pathways.fiservapps.com
 patient.propellerhealth.biz
 patsystems.com
 pattex.com.cn
-pay-qual.deere.com
 pay-sandbox.gocardless.com
 pay.8x8.com
 pay.gallileo-frankfurt.com
@@ -6808,7 +6828,6 @@ perfectsnacks.com
 performanceresults.deere.com
 permcrop.sentera.com
 permcropdev.sentera.com
-permcropstaging.sentera.com
 permcropstaging2.sentera.com
 perseus.firstdata.com.au
 personnalite.com.br
@@ -7106,7 +7125,6 @@ press.porsche.com
 press.priceline.com
 prestamos.oca.com.uy
 prestigeportraits.com
-preventasjohndeere.com
 preview.dig.deere.com
 preview.gallileo-frankfurt.com
 price-a-bond.com
@@ -7197,7 +7215,6 @@ propertyvaluesms.com
 propertyvaluesms.com.au
 propiedades.cbre.cl
 proservice.deere.com
-prospectivesupplier-api.deere.com
 prospectivesupplier.deere.com
 prospectshop.com.au
 protectionfraudeparcheques.com
@@ -7219,11 +7236,7 @@ proxy-ssl.webflow.com
 proxy.ayoba.me
 proxy.businesstrack.com
 proxy.momoapi.mtn.com
-proxy.sentera.com
-proxydev.sentera.com
 proxyhosting.com
-proxystaging.sentera.com
-proxystaging2.sentera.com
 prq.st
 prs.appslatam.com
 ps5.np.playstation.net
@@ -7321,6 +7334,8 @@ qa.hm.com
 qa.rewards.deere.com
 qa1-api.rewards.deere.com
 qa1-cms.onepeloton.com
+qa1-warehouse.nonprod.tenna.com
+qa1.nonprod.tenna.com
 qa1.rewards.deere.com
 qa1.secureinternetbank.com
 qa2.secureinternetbank.com
@@ -7347,6 +7362,7 @@ qmastor.net
 qmlservices.com
 qmlservices.net
 qms.lmg.motion.abb.com.cn
+qr-generator.prod.tenna.com
 qrcode.motion.abb.com.cn
 qrcodeelo-mtls.softwareexpress.com.br
 qrp-uat.elcompanies.com
@@ -7549,7 +7565,6 @@ registry.latentzero.com
 regulations.gov
 rei.com
 reknetetopisni.milka.cz
-relay-service-qual.deere.com
 relay.cbreesi.com
 relay.firefox.com
 relay.playcanvas.com
@@ -8089,6 +8104,13 @@ servicecenter.deere.com
 servicemanagement-accp.mendixcloud.com
 services-test.gyft.com
 services.aig.co.il
+services.api.demo.cloud.tenna.com
+services.api.dv2.cloud.tenna.com
+services.api.dv3.cloud.tenna.com
+services.api.prd.cloud.tenna.com
+services.api.qa1.cloud.tenna.com
+services.api.stg.cloud.tenna.com
+services.api.us-east-1.public.prd.cloud.tenna.com
 services.gallileo-frankfurt.com
 services.gyft.com
 services.oportun.com
@@ -8142,7 +8164,6 @@ shop.judge.me
 shop.oreo.com
 shop.porsche.com
 shop.resmed.com
-shop.sentera.com
 shop.thecompanystore.asia
 shop.thecompanystore.com.my
 shop.thecompanystore.com.sg
@@ -8228,7 +8249,6 @@ sit.latentzero.com
 sit01.tops.cbre.co.in
 sit02.tops.cbre.co.in
 site.gallileo-frankfurt.com
-site.marksman.surepointag.com
 site.rewire.com
 site.staging.marksman.surefireag.com
 site.staging.marksman.surepointag.com
@@ -8250,7 +8270,6 @@ sitemap.gallileo-frankfurt.com
 sites.bluerivertech.com
 sites.fareharbor.com
 sitesupport.cbre.com
-siteunavailable.deere.com
 sixdegreesofcitation.com
 sixpad.fr
 sjokoladehus.no
@@ -8284,8 +8303,6 @@ slqa.elcompanies.com
 smagenafguld.marabou.dk
 smarterplanet.com
 smarterplanet.net
-smartfarmbrasil.com.br
-smartfarmlatam.com
 smartfood.com
 smartix-qc.aon.com
 smartlabel.mondelez.info
@@ -8551,33 +8568,23 @@ staging.kidswebservices.com
 staging.magisto.com
 staging.marksman.surefireag.com
 staging.marksman.surepointag.com
-staging.pixel-patch.sentera.com
 staging.polismap.aonverzekeringen.nl
 staging.ppms.gov
 staging.quickdraw.surefireag.com
 staging.regulations.gov
 staging.spark.ai
 staging.spoonflower.com
-staging.stand-qa.sentera.com
 staging.toolbox.mbs-navigator.com
 staging2.gallileo-frankfurt.com
-staging2.pixel-patch.sentera.com
-staging2.stand-qa.sentera.com
 staking-api.polygon.technology
 staking.consensys.io
 staking.polygon.technology
-stand-qa-api.sentera.com
-stand-qa-apidev.sentera.com
-stand-qa-apistaging.sentera.com
-stand-qa-apistaging2.sentera.com
-stand-qa.sentera.com
 standard-application-connection-demo.cert.us.e01.c01.johndeerecloud.com
 standard-application-connection-demo.prod.us.e01.c01.johndeerecloud.com
 standard-application-connection-demo.qual.us.e01.c01.johndeerecloud.com
 standard.paystack.co
 stanleyaccess.com
 starbucks.az
-starfirenetwork.com
 starling-ttp.lemon8-app.us
 starr.lichess.ovh
 start.gallileo-frankfurt.com
@@ -8611,7 +8618,9 @@ stentra.com
 steunjouwvereniging.be
 stg-aonhumancapitalin13.apac-stg.aon.com
 stg-api.rewards.deere.com
+stg-warehouse.nonprod.tenna.com
 stg.gallileo-frankfurt.com
+stg.nonprod.tenna.com
 stg.rewards.deere.com
 stgcef2r.somnoware.com
 stichjs.com
@@ -8731,7 +8740,6 @@ support.mozilla.org
 support.nextcloud.com
 support.nutanix.com
 support.rockstargames.com
-support.sentera.com
 support.senterasensors.com
 support.steampowered.com
 support.surefireag.com
@@ -8820,7 +8828,8 @@ teamsadconnect.aon.com
 teamsites-stage.ext.us.baesystems.com
 teamsites.ext.us.baesystems.com
 teamwork.mbs-navigator.com
-techpubs.deere.com
+techinfo-omview.apps-prod-vpn.us.e06.c01.johndeerecloud.com
+technology.tenna.com
 tele2-se.staging.pms-ou.aon.com
 tele2asp.iongroup.com
 tele2drasp.iongroup.com
@@ -8839,6 +8848,7 @@ tenant-mail01.orl01.cymycloud.com
 tenant-svc-fw-01.orl01.cymycloud.com
 tenantgw01.orl01.cymycloud.com
 tenants-contents.insurance.aon.co.uk
+tenna.com
 tequila.kiwi.com
 terminal-api.prod.ip.aon.comindex.html
 terms.kreiselelectric.com
@@ -8873,6 +8883,7 @@ test.firsthorizonsignaturerewards.com
 test.gallileo-frankfurt.com
 test.gsa.gov
 test.harvestprofit.com
+test.marketingportal.deere.com
 test.nucleussec.com
 test.payanyone2tst.com
 test.paysecure.acculynk.net
@@ -9022,6 +9033,7 @@ transact.playstation.com
 transfer.drs.com
 translate.badoo.com
 travel.reporting.gov
+travel.tenna.com
 traveler.marriott.com
 treasura.com
 treasuracash.com
@@ -9058,6 +9070,7 @@ triplepointtechnologyblog.com
 trovatacash.com
 truck-api.eu-east-1.indriverapp.com
 try.discourse.org
+try.tenna.com
 ts.gallileo-frankfurt.com
 tscportal.fas.gsa.gov
 tsd.cl.iongroup.com
@@ -9298,10 +9311,6 @@ vdp.deere.com
 vdp.kahootz.com
 vec.gsa.gov
 veco.com.ph
-vector.sentera.com
-vectordev.sentera.com
-vectorstaging.sentera.com
-vectorstaging2.sentera.com
 vectra.ai
 veda.co.nz
 veda.com.au
@@ -9411,7 +9420,6 @@ vplanjvm.deere.com
 vpmo.act-corp.com
 vpn-mli.starfirenetwork.com
 vpn.ayoba.me
-vpn.deere.com
 vpn.dev.bearflagrobotics.com
 vpn.drakeneurope.network
 vpn.elevi.net
@@ -9428,7 +9436,6 @@ vpn01.facilitysource.com
 vpn02.facilitysource.com
 vpn1.bluerivertech.com
 vpn1.globalinfotek.com
-vpn1.sentera.com
 vpn2.bluerivertech.com
 vpnchertsey.drumgrange.com
 vpnportland.drumgrange.com
@@ -9476,6 +9483,7 @@ wap.unimil.com.br
 wapa.gallileo-frankfurt.com
 ward.aon.com
 wardinc.com
+warehouse.tenna.com
 was.itss.gsa.gov
 watchapp-test.aboitizpower.com
 watchapp.aboitizpower.com
@@ -9535,11 +9543,7 @@ webdisk.monosemusa.com
 webdr.allpartsstore.com
 webform.philadelphia.com.mx
 webgateway.koho.ca
-webhook.sentera.com
-webhookdev.sentera.com
 webhooks.booking.com
-webhookstaging.sentera.com
-webhookstaging2.sentera.com
 webmail.5-starworldwide.com
 webmail.92mountainview.com
 webmail.caci.com
@@ -9790,7 +9794,6 @@ www.bitwala.com
 www.blueapron.com
 www.blueriver.ai
 www.bluerivert.com
-www.bluerivertech.com
 www.blueskytours.com
 www.bolsasymercados.es
 www.bookabach.co.nz
@@ -10043,7 +10046,6 @@ www.griffithsandarmour.com
 www.grubhub.com
 www.gussag.com
 www.hackerone.com
-www.hagie.com
 www.havelockone.com
 www.healthnet.com
 www.highstreet.cbre.es
@@ -10280,7 +10282,6 @@ www.saphotonics.com
 www.schlage.com
 www.sdx.com
 www.seamless.com
-www.sentera.com
 www.senterasensors.com
 www.sequentra.eu
 www.sequentra.org
@@ -10310,10 +10311,10 @@ www.startupschool.org
 www.stayz.com.au
 www.stephensonstellar.org
 www.store.surefireag.com
+www.store.tenna.com
 www.streak.com
 www.stripe.partners
 www.supernovas.indrive.com
-www.surefireag.com
 www.surepointelectronics.com
 www.swiftcapital.com
 www.swiftfinancial.com
@@ -10326,6 +10327,7 @@ www.telescope.aon.it
 www.telos.com
 www.temp-aonweb-seguros.aon.com
 www.temu.com
+www.tenna.com
 www.test-highstreet.cbre.es
 www.tgoyemek.com
 www.thecompanystore.com.hk
@@ -10533,6 +10535,7 @@ zeusfts.usgcns.net
 zh.gallileo-frankfurt.com
 zona-i-uat.itau.co
 zona-i.itau.co
+zone-marketingportal.deere.com
 zooplus.net
 zta.nube.53.com
 ztc.nube.53.com
