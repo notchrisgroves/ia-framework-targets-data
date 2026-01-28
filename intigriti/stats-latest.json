@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-01-28T16:32:18.300Z",
+  "total_programs": 140,
+  "by_status": {
+    "Closed": 81,
+    "Suspended": 56,
+    "Unknown": 3
+  },
+  "by_confidentiality": {
+    "Private": 135,
+    "Public": 5
+  },
+  "by_program_type": {
+    "Responsible disclosure": 54,
+    "Bug bounty program": 86
+  },
+  "with_bounties": 86,
+  "with_tac_required": 4,
+  "with_2fa_required": 3,
+  "total_targets": 1179,
+  "in_scope_targets": 721,
+  "out_of_scope_targets": 458,
+  "by_asset_type": {
+    "website": 502,
+    "other": 134,
+    "android": 26,
+    "ios": 26,
+    "ip": 33
+  },
+  "by_tier": {
+    "No Bounty": 273,
+    "Tier 2": 246,
+    "Tier 3": 86,
+    "Tier 1": 116
+  },
+  "programs_with_targets": 81,
+  "avg_targets_per_program": 15,
+  "min_bounty_range": {
+    "min": 5,
+    "max": 1000
+  },
+  "max_bounty_range": {
+    "min": 500,
+    "max": 100000
+  }
+}
