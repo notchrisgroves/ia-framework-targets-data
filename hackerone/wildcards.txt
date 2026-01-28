@@ -1,6 +1,3 @@
-(*).endlessgroup.org
-(*).itsendless.org
-(*).theendlessweb.com
 * IPv4 addresses
 * IPv6 addresses
 *-api-*.acronis.com
@@ -9,7 +6,6 @@
 *-noneu.truecaller.com
 *-vpn.8x8.com
 *.1688.com
-*.18f.gov
 *.1integrations.com
 *.21st.com
 *.2go.com
@@ -33,7 +29,6 @@
 *.9apps.com
 *.AMERICA.GOV
 *.DEVTESTFAN1.GOV
-*.Daraz.com
 *.ELGUARDIA.NET
 *.FAN.GOV
 *.FSGB.GOV
@@ -51,7 +46,6 @@
 *.USEMBASSY.GOV
 *.USMISSION.GOV
 *.a.exodus.io
-*.abb
 *.abb.at
 *.abb.ca
 *.abb.ch
@@ -76,11 +70,9 @@
 *.abritel.fr
 *.academyofhairsalon.com
 *.acceptance.cloud.8x8.com
-*.accessibility.gov
 *.accountscore.co.uk
 *.accountscore.com
 *.accountscore.net
-*.acquisition.gov
 *.acrobat.adobe.com
 *.acronis.com
 *.acronis.work
@@ -116,16 +108,13 @@
 *.algosys.com
 *.alibaba-inc.com
 *.alibaba.com
-*.alibabacloud.com
 *.alibabagroup.com
 *.alibabapictures.com
 *.aliexpress.com
-*.aliexpress.ru
 *.aligames.com
 *.alimama.com
 *.alios.cn
 *.alisports.com
-*.aliyun-inc.com
 *.aliyun.com
 *.allegion.com
 *.allegionengage.com
@@ -262,7 +251,6 @@
 *.backupify.com
 *.bae.cf.iongroup.com
 *.baedr.cf.iongroup.com
-*.bancobmg.com.br
 *.bancointer.com.br
 *.banfield.com
 *.banfieldassets.com
@@ -313,7 +301,6 @@
 *.blueinsurance.ie
 *.bluepearlvet.com
 *.bluetarp.com
-*.bmgconsig.com.br
 *.bmggranito.com.br
 *.boardkingsgame.com
 *.boavistascpc.com.br
@@ -346,7 +333,6 @@
 *.britishpeawards.com
 *.britishprivateequityawards.com
 *.britvic.asp.iongroup.com
-*.btasp.iongroup.com
 *.btaspdr.iongroup.com
 *.bubly.com
 *.buddypress.org,bbpress.org,profiles.wordpress.org
@@ -355,12 +341,10 @@
 *.busch-jaeger.*
 *.busch-jaeger.at
 *.busch-jaeger.nu
-*.businessusa.gov
 *.butterfinger.com
 *.buut.com
 *.bux.com
 *.bux2b.com
-*.buyamerican.gov
 *.bvsnet.com.br
 *.byairbnb.com
 *.bybit.com
@@ -375,7 +359,6 @@
 *.cainiao.com
 *.call-control.ie
 *.canusacps.com
-*.cao.gov
 *.capitalone.ca
 *.capitalone.co.uk
 *.capitalone.com
@@ -395,7 +378,6 @@
 *.cceng.8x8.com
 *.ccpview.com
 *.cdcorpltd.com
-*.cdo.gov
 *.cedacri.mobi
 *.cedacrigroup.com
 *.cedacrinternational.com
@@ -416,7 +398,6 @@
 *.cfeuasp2dr.iongroup.com
 *.cfeuaws1.iongroup.com
 *.cfeuaws1dr.iongroup.com
-*.cfo.gov
 *.cfusasp.iongroup.com
 *.cfusasp2.iongroup.com
 *.cfusasp2dr.iongroup.com
@@ -432,10 +413,8 @@
 *.cibil.com
 *.cibilcreditreport.in
 *.cima.asp.iongroup.com
+*.cimsec.at
 *.cirrus.abb.com
-*.cirrusinsight.com
-*.cirruspath.com
-*.citizenscience.gov
 *.citrixworkspacesapi.net
 *.cityfinancials.com
 *.claritymoney.com
@@ -443,7 +422,6 @@
 *.clo-i.com
 *.clomaster.com
 *.cloud-effem.com
-*.cloud.gov
 *.cloud.malwarebytes.com
 *.cloud.vimeo.com
 *.cloudendure.com
@@ -454,7 +432,6 @@
 *.cn.abb.com
 *.coalfirefederal.com
 *.coda.io
-*.code.gov
 *.cogencysoft.com
 *.cognitiveperformer.com
 *.coinbase-corp.com
@@ -465,18 +442,13 @@
 *.colorsmithco.ca
 *.combatbugs.com
 *.commoditymanagementblog.com
-*.companyhub.com
 *.comperemedia.com
 *.concorsi.loctite-consumer.it
 *.connectit.com
 *.consensusviews.com
 *.consumer.worldcoin.org
-*.consumeraction.gov
-*.contractdirectory.gov
 *.corcoran.com
 *.corebridgefinancial.com
-*.cornershop.io/*
-*.cornershopapp.com/*
 *.corning.asp.iongroup.com
 *.corning.it2net.iongroup.com
 *.corningit2net.wallstreetsystems.com
@@ -511,7 +483,6 @@
 *.cryptography.io
 *.cs-nri.com
 *.cs.barracudafx.com
-*.ct0.app
 *.cto-si.zebra.com
 *.cubicmotion.com
 *.cvsasp.wallstreetsystems.com
@@ -545,7 +516,6 @@
 *.dashfinancial.xxx
 *.dashregtech.com
 *.dashtradedesk.com
-*.data.gov
 *.datacredito.com
 *.datacredito.com.do
 *.datacredito.info
@@ -581,6 +551,7 @@
 *.derivws.com
 *.dese.com
 *.deskjs.com
+*.detergente-mas.com
 *.deutschelpcongress.com
 *.deutschepecongress.com
 *.deutscheunquote.com
@@ -596,7 +567,6 @@
 *.dialprofessional.com
 *.dibz.co.uk
 *.dicom.cl
-*.digital.gov
 *.dingtalk.com
 *.district.in
 *.divvy.co
@@ -618,6 +588,7 @@
 *.dssmithdr.iongroup.com
 *.duckduckgo.com
 *.duplo.de
+*.dylon.se
 *.e2ro.com
 *.ean.com
 *.earlywarning.com
@@ -628,7 +599,6 @@
 *.ebookers.com
 *.ecash.wallstreetsystems.com
 *.ecashtest.wallstreetsystems.com
-*.ecpic.gov
 *.edition.in
 *.eero.com
 *.effem.com
@@ -701,8 +671,6 @@
 *.extractlatam.com
 *.extractresearch.com
 *.extragum.com
-*.facadatabase.gov
-*.fai.gov
 *.fallguys.com
 *.famousamos.com
 *.fanbox.cc
@@ -718,11 +686,11 @@
 *.fasttrack.it
 *.fax.plus
 *.fdbox.net
-*.fedrooms.gov
 *.ferrero-kuesschen.de
 *.ferrero.com
 *.ferreropromo.it
 *.ferrerorocher.com
+*.fester.com.mx
 *.fetchcore-cloud.com
 *.fetlife.com
 *.fewo-direkt.de
@@ -747,7 +715,6 @@
 *.findroyalcanin.com
 *.finmark.com
 *.finra.org
-*.firstgov.gov
 *.fl-vr.com
 *.flamecontrol.com
 *.flexport.com
@@ -777,10 +744,6 @@
 *.fortnite.com
 *.found.io
 *.foundedbyher.org
-*.fpc.gov
-*.fpds.gov
-*.fpki-lab.gov
-*.fpki.gov
 *.franceunquote.com
 *.fraudday.com
 *.freightliner.com
@@ -789,7 +752,6 @@
 *.fritolayvarietypacks.com
 *.fritos.com
 *.fromspotify.com
-*.fsd.gov
 *.ft-remark.com
 *.ftremark.com
 *.fulfilnutrition.com
@@ -808,7 +770,6 @@
 *.gbglab.it
 *.gbglab.net
 *.gbglab.org
-*.gener8ads.com
 *.germanpeforum.com
 *.getbux.com
 *.gethypr.com
@@ -821,6 +782,7 @@
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
+*.glemvital.at
 *.gliss.com
 *.global-liquidity.gs.com
 *.gluh.co
@@ -863,8 +825,6 @@
 *.gs-mosaic.qa.gs.com
 *.gs.com
 *.gs.de
-*.gsa.gov
-*.gsaadvantage.gov
 *.gsam.com
 *.gslb.openlink.com
 *.gspublishing.com
@@ -874,7 +834,7 @@
 *.gwk.latentzero.com
 *.gymshark.com
 *.gymshark.io
-*.hackyholidays.h1ctf.com
+*.hairshop.hr
 *.hanuta.de
 *.happening.dev
 *.harmonixmusic.com
@@ -887,16 +847,18 @@
 *.healthwarrior.com
 *.hedcor.com
 *.hellorory.com
-*.help.com.br
 *.henkel-adhesives.cn
 *.henkel-adhesives.com
+*.henkel-cashback.de
 *.henkel-consumer-brands.cn
 *.henkel-loctite.bg
 *.henkel-researchers-world.cn
+*.henkel-researchers-world.kr
 *.henkel.cn
 *.henkel.com
 *.henkelgroup.cloud
 *.henkelgroup.net
+*.henkelhomecare.co.kr
 *.henkelna.com
 *.hertz.com
 *.hey.com
@@ -943,8 +905,6 @@
 *.i9advantage.com
 *.i9anywhere.com
 *.idagent.com
-*.identitysandbox.gov
-*.idmanagement.gov
 *.idwatchdog.com
 *.ihbnext-ads-rescue.mobile.cedacri.it
 *.ihbnext-ads.mobile.cedacri.it
@@ -985,8 +945,6 @@
 *.ionp.cl.fonterra.com
 *.iovation.com
 *.ipodatabase.com
-*.irccloud-cdn.com
-*.irccloud.com
 *.ishares.com
 *.isharesonline.com
 *.isif.asia
@@ -1015,7 +973,6 @@
 *.joypepsico.com
 *.jpmc.reflexisinc.com
 *.juniper.net
-*.kartpay.com
 *.kaseya.com
 *.kaseya.net
 *.kaseyacloud.com
@@ -1024,6 +981,7 @@
 *.kb-staging.barracudafx.com
 *.kb.barracudafx.com
 *.keebler.com
+*.kenraprofessional.com
 *.key.com
 *.key2businesscard.com
 *.keyapsolutions.com
@@ -1065,18 +1023,12 @@
 *.lemonsqueezy.com
 *.lepagecertifiedinstaller.com
 *.lepainquotidienme.com
-*.liberapay.com
 *.lifelast.com
 *.lifetouch.com
 *.lifewtr.com
 *.lightroom.adobe.com
 *.lightstep.com
 *.lincoln.com
-*.line-apps.com
-*.line.biz
-*.line.me
-*.line.naver.jp
-*.linecorp.com
 *.link.co
 *.liptonicedtea.com
 *.liquidpoint.com
@@ -1101,7 +1053,9 @@
 *.livecolour.com
 *.liveconnect.me
 *.livestream.com
+*.lizardskin.com
 *.loanrunner.com
+*.loctite-automotriz.com
 *.loctite-consommateur.be
 *.loctite-consommateur.fr
 *.loctite-consument.be
@@ -1147,7 +1101,6 @@
 *.loctitesuperlepak.rs
 *.logi.com
 *.logicool.co.jp
-*.login.gov
 *.logitech-channel-marketing.com
 *.logitech.com
 *.logitech.io
@@ -1173,6 +1126,7 @@
 *.magiceden.workers.dev
 *.magisto.com
 *.mailchimp.com
+*.makroflex.ee
 *.makroflex.lt
 *.malaysianpeforum2016.com
 *.malwarebytes.com
@@ -1271,8 +1225,6 @@
 *.moneymarketauction.net
 *.mongodb.com/*
 *.monopoly-poker.com
-*.mooch.rip
-*.moochirp.io
 *.moonpay.com
 *.moonpaycloud.com
 *.moresmileswitheverybite.com
@@ -1310,6 +1262,7 @@
 *.my-mobilekey.com
 *.mycat2vet.my
 *.mycbdesk.com
+*.mydentitycolor.com
 *.myharmony.com
 *.myinsights.io
 *.myndr.net
@@ -1354,6 +1307,7 @@
 *.nic.uk
 *.njmva00n44ki.wpeproxy.com
 *.nnip.com
+*.nomasclavos.cl
 *.nominet.org.uk
 *.nominet.uk
 *.nordiclpcongress.com
@@ -1396,7 +1350,6 @@
 *.on.com
 *.oncatapult.com
 *.onegraph.com
-*.onezerobank.com
 *.online.iongroup.com
 *.open-link.com
 *.openlinkdevtest.com
@@ -1413,6 +1366,7 @@
 *.ops.netlify.com
 *.orbitgum.com
 *.orbitz.com
+*.osiatlowes.com
 *.oslo.io
 *.otherside.xyz
 *.ourtesco.com/*
@@ -1428,7 +1382,6 @@
 *.pagerduty.com
 *.pagocartoes.com.br
 *.pagoportal.com.br
-*.panther.com
 *.pantryshop.com
 *.papercrane.io
 *.parinsight.com
@@ -1449,7 +1402,6 @@
 *.paystackintegrations.com
 *.pbsg.com
 *.pci.shopifyinc.com
-*.pcscotus.gov
 *.pdc.abb.com
 *.pearlmillingcompany.com
 *.pedigree.com
@@ -1476,6 +1428,7 @@
 *.perwoll.*
 *.perwoll.de
 *.pfchangsme.com
+*.phenion.com
 *.photoccino.com
 *.pi-ecminsight.com
 *.pi-navigator.com
@@ -1504,6 +1457,7 @@
 *.pontualreports.net
 *.popcorners.com
 *.portal.tpt.com
+*.portalehenkel.it
 *.portalgranito.com.br
 *.porttoplant.com
 *.porttoplant.net
@@ -1545,7 +1499,6 @@
 *.prudential.com
 *.psynet.gg
 *.psyonix.com
-*.ptt.gov
 *.pttpro.zebra.com
 *.pubg.com
 *.pubgesports.com
@@ -1575,9 +1528,6 @@
 *.rcjapan.jp
 *.rcpracownik.pl
 *.realogy.com
-*.rebellion.dev
-*.rebelliondefence.com
-*.rebelliondefense.com
 *.recko.io
 *.reckoproduction.com
 *.reckostaging.com
@@ -1590,11 +1540,12 @@
 *.redeverdeamarela.com.br
 *.reflexisinc.com
 *.refreshthenrecycle.com
-*.reginfo.gov
 *.registry.latentzero.com
 *.remarkeurope.com
 *.rentalcars.com
 *.reposify.com
+*.researchatelm.com
+*.resistol.com.mx
 *.reuters.com
 *.rhapollo.net
 *.rhinternal.net
@@ -1603,7 +1554,6 @@
 *.robinhood.com
 *.robinhood.net
 *.roblox.com
-*.rocis.gov
 *.rocketball.com
 *.rocketcyber.com
 *.rocketleague.com
@@ -1665,15 +1615,12 @@
 *.rubson.com
 *.ruffles.com
 *.runnr.in
-*.runpanther.com
-*.runpanther.io
 *.s02.callsign.com
 *.sa.aws.dev
 *.sabadellproteccion.com
 *.sabra.com
 *.safeathomeohio.gov
 *.salonory.com
-*.sam.gov
 *.santitas.com
 *.satismeter.com
 *.say.rocks
@@ -1685,7 +1632,6 @@
 *.sbgservices.com
 *.sbgtest.net
 *.sbs.shutterfly.com
-*.sbst.gov
 *.sc-core.net
 *.sc-corp.net
 *.scatec.io
@@ -1707,9 +1653,6 @@
 *.seaboardtestit2net.iongroup.com
 *.sealforlife.com
 *.seamless.com
-*.search.gov
-*.secnews.gr
-*.section508.gov
 *.securecircle.com
 *.securegatewayaccess.com
 *.securityservices.io
@@ -1738,7 +1681,6 @@
 *.setra.de
 *.sexyhair.com
 *.sf-cdn.com
-*.sftool.gov
 *.sftp.allegrodevelopment.com
 *.shakeshack.co.uk
 *.shaya.com.tr
@@ -1765,6 +1707,7 @@
 *.simplyfritolay.com
 *.singspacegame.com
 *.sip.*.twilio.com
+*.sista-selladores.com
 *.sit.latentzero.com
 *.sketchfab.com
 *.skittles.com
@@ -1790,11 +1733,12 @@
 *.smartfood.com
 *.smartshelf.henkel.cn
 *.sms3d.net
-*.smule.com
 *.snaboitiz.com
 *.snacks.com
 *.snapfish.com
 *.snooguts.net
+*.snuggle.ca
+*.snuggle.com
 *.sobe.com
 *.soft-mar.com
 *.softmar.co.za
@@ -1810,7 +1754,6 @@
 *.southerneuropeunquote.com
 *.spanning.com
 *.spanningbackup.com
-*.spell.run
 *.spiketrap.io
 *.spinaway.com
 *.splittypay.com
@@ -1840,6 +1783,7 @@
 *.stmntgrooming.de
 *.stopaq.*
 *.stopaq.com
+*.stopdregmei.lt
 *.stratus.abb.com
 *.streamlabs.com
 *.streamlabscharity.com
@@ -1847,14 +1791,14 @@
 *.stripchat.com
 *.stripe.com
 *.stubbornsoda.com
+*.sublimic.jp
 *.sunchips.com
+*.sunlightcanada.ca
 *.superbet.com
 *.superbet.pl
 *.superbet.ro
 *.superbet.rs
 *.superhuman.com
-*.superpal.com/*
-*.superpal.io/*
 *.supplier.alshaya.com
 *.support-staging.barracudafx.com
 *.support.tpt.com
@@ -1868,6 +1812,7 @@
 *.talx.com
 *.tamanna.com
 *.tangit.*
+*.tangit.at
 *.taobao.com
 *.tapingo.com
 *.tastemade.com
@@ -1898,6 +1843,7 @@
 *.tekzone.me
 *.tele2asp.iongroup.com
 *.tele2drasp.iongroup.com
+*.temperkote.com
 *.teroson-bautechnik.com
 *.teroson.*
 *.tesco-europe.com/*
@@ -2048,6 +1994,7 @@
 *.tsucarc.cl.iongroup.com
 *.tsuqmastor.cl.iongroup.com
 *.ttrus.com
+*.tucasaclub.com
 *.tucowsdomains.com
 *.tudou.com
 *.tui.transunion.com
@@ -2066,8 +2013,6 @@
 *.uc.cn
 *.ucverse.com
 *.ucweb.com
-*.ud.wtf
-*.udimg.com
 *.uesmartradio.com
 *.ui.com
 *.uisp.com
@@ -2090,24 +2035,12 @@
 *.ups-mi.com
 *.ups-tms.com
 *.ups.com
-*.upserve.com
-*.urbandictionary.biz
-*.urbandictionary.blog
-*.urbandictionary.com
-*.urbandictionary.net
-*.urbandictionary.org
-*.urbandictionary.store
-*.urbanup.com
 *.us-east-1.gui.latentzero.com
-*.us.gov
-*.usa.gov
-*.usagov.gov
 *.usend.com
 *.usendbrazil.com
 *.userede.com.br
 *.usindentures.com
 *.usprospectus.com
-*.ussm.gov
 *.ustraveldocs.com
 *.usvisascheduling.com
 *.valic.com
@@ -2120,6 +2053,7 @@
 *.vectra.ai
 *.veeam.com
 *.veeamgov.com
+*.velunkkezdodik.hu
 *.vendasta-internal.com
 *.venmo.com
 *.vennhypotheken.nl
@@ -2146,7 +2080,6 @@
 *.vodafoneaspdr.iongroup.com
 *.vodafonedr.cf.iongroup.com
 *.vorexlogin.com
-*.vote.gov
 *.vote.ohio.gov
 *.voteohio.gov
 *.vpn.hackerone.net
@@ -2255,7 +2188,6 @@
 *.xupservicing.com
 *.xupsupport.com
 *.yachak.com
-*.ycombinator.com
 *.yelp-support.com
 *.yelp.com
 *.yelpwifi.com
@@ -2427,10 +2359,6 @@ cht-gw-cf.*.aws.indriverapp.com
 co-cf.*.aws.indriverapp.com
 co-gw-cf.*.aws.indriverapp.com
 co-in-gw-cf.*.aws.indriverapp.com
-com.smule.autorap.*
-com.smule.magicpiano.*
-com.smule.sing.*
-com.smule.singandroid.*
 courier-cf.*.aws.indriverapp.com
 dcfgateway*.marriott.com
 dev.epicgames.com/*
@@ -2447,7 +2375,6 @@ fe-gw-cf.*.aws.indriverapp.com
 g2-cf.*.aws.indriverapp.com
 g2-gw-cf.*.aws.indriverapp.com
 gateway*.marriott.com
-github.com/cornershop/*
 gt-cf.*.aws.indriverapp.com
 gt-gw-cf.*.aws.indriverapp.com
 gvt-cf.*.aws.indriverapp.com
@@ -2525,13 +2452,11 @@ https://app.ring.com/*
 https://billing.ring.com/*
 https://ews.qa.finra.org/*
 https://fw.ring.com/*
-https://github.com/EdOverflow/*
 https://github.com/Shopify/*
 https://github.com/awslabs/*
 https://github.com/brave/*, https://github.com/brave-intl/*
 https://github.com/dailypay/*
 https://github.com/kiwicom/*
-https://github.com/securitytxt/*
 https://github.com/tomtom-international/*
 https://googleplace*.bykea.net
 https://kronos*.bykea.net
