@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-01-28T16:32:18.300Z",
+  "timestamp": "2026-01-28T17:34:10.950Z",
   "total_programs": 140,
   "by_status": {
-    "Closed": 81,
-    "Suspended": 56,
-    "Unknown": 3
+    "Closed": 130,
+    "Suspended": 9,
+    "Unknown": 1
   },
   "by_confidentiality": {
     "Private": 135,
@@ -17,24 +17,24 @@
   "with_bounties": 86,
   "with_tac_required": 4,
   "with_2fa_required": 3,
-  "total_targets": 1179,
-  "in_scope_targets": 721,
-  "out_of_scope_targets": 458,
+  "total_targets": 1851,
+  "in_scope_targets": 1233,
+  "out_of_scope_targets": 618,
   "by_asset_type": {
-    "website": 502,
-    "other": 134,
-    "android": 26,
-    "ios": 26,
-    "ip": 33
+    "website": 955,
+    "other": 154,
+    "android": 44,
+    "ios": 42,
+    "ip": 38
   },
   "by_tier": {
-    "No Bounty": 273,
-    "Tier 2": 246,
-    "Tier 3": 86,
-    "Tier 1": 116
+    "No Bounty": 354,
+    "Tier 2": 525,
+    "Tier 3": 172,
+    "Tier 1": 182
   },
-  "programs_with_targets": 81,
-  "avg_targets_per_program": 15,
+  "programs_with_targets": 130,
+  "avg_targets_per_program": 14,
   "min_bounty_range": {
     "min": 5,
     "max": 1000
