@@ -1,39 +1,38 @@
 {
-  "timestamp": "2026-01-24T21:18:32.373Z",
-  "total_programs": 590,
+  "timestamp": "2026-01-28T16:18:49.485Z",
+  "total_programs": 461,
   "by_state": {
-    "public_mode": 590
+    "public_mode": 461
   },
   "by_submission_state": {
-    "open": 464,
-    "paused": 126
+    "open": 461
   },
-  "with_bounties": 297,
+  "with_bounties": 237,
   "managed_programs": 0,
-  "triage_active": 331,
-  "total_targets": 19542,
-  "in_scope_targets": 16876,
-  "out_of_scope_targets": 2666,
+  "triage_active": 324,
+  "total_targets": 18089,
+  "in_scope_targets": 15744,
+  "out_of_scope_targets": 2345,
   "by_asset_type": {
-    "website": 13298,
-    "other": 1321,
-    "network": 142,
-    "source_code": 457,
+    "website": 12434,
+    "other": 1279,
+    "network": 141,
+    "source_code": 323,
     "ai_model": 5,
-    "ios": 468,
-    "android": 508,
-    "executable": 217,
-    "windows": 8,
+    "ios": 432,
+    "android": 467,
+    "windows": 7,
+    "executable": 212,
     "smart_contract": 19,
-    "api": 32,
-    "hardware": 146,
-    "other_apk": 34,
-    "testflight": 5,
-    "ip_address": 213,
-    "other_ipa": 3
+    "api": 30,
+    "hardware": 145,
+    "other_apk": 33,
+    "testflight": 4,
+    "ip_address": 212,
+    "other_ipa": 1
   },
-  "with_metrics": 590,
+  "with_metrics": 461,
   "avg_response_efficiency": null,
-  "programs_with_reward_tiers": 280,
-  "programs_with_scope_descriptions": 320
+  "programs_with_reward_tiers": 235,
+  "programs_with_scope_descriptions": 271
 }
