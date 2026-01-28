@@ -46,7 +46,6 @@
 *.USEMBASSY.GOV
 *.USMISSION.GOV
 *.a.exodus.io
-*.abb
 *.abb.at
 *.abb.ca
 *.abb.ch
@@ -915,7 +914,6 @@
 *.ihbnext-col.mobile.cedacri.it
 *.ihbnext-mig.cedacri.it
 *.impendulo.com
-*.in.abb.com
 *.in2tel.ie
 *.individualis.com
 *.indola.*
