@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-29T06:48:32.790Z",
+  "timestamp": "2026-01-29T07:18:38.455Z",
   "total_programs": 460,
   "by_state": {
     "public_mode": 460
@@ -21,8 +21,8 @@
     "ai_model": 5,
     "ios": 432,
     "android": 467,
-    "windows": 7,
     "executable": 212,
+    "windows": 7,
     "smart_contract": 19,
     "api": 30,
     "hardware": 145,
