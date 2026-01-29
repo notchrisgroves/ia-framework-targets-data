@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-29T13:48:53.939Z",
+  "timestamp": "2026-01-29T14:18:53.618Z",
   "total_programs": 459,
   "by_state": {
     "public_mode": 459
@@ -11,11 +11,11 @@
   "managed_programs": 0,
   "triage_active": 323,
   "total_targets": 18087,
-  "in_scope_targets": 15747,
-  "out_of_scope_targets": 2340,
+  "in_scope_targets": 15746,
+  "out_of_scope_targets": 2341,
   "by_asset_type": {
-    "website": 12438,
-    "other": 1278,
+    "website": 12436,
+    "other": 1279,
     "network": 141,
     "source_code": 323,
     "ai_model": 5,
