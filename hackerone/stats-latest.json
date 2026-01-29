@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-28T23:48:40.248Z",
+  "timestamp": "2026-01-29T00:18:41.425Z",
   "total_programs": 461,
   "by_state": {
     "public_mode": 461
@@ -11,18 +11,18 @@
   "managed_programs": 0,
   "triage_active": 324,
   "total_targets": 18089,
-  "in_scope_targets": 15745,
-  "out_of_scope_targets": 2344,
+  "in_scope_targets": 15744,
+  "out_of_scope_targets": 2345,
   "by_asset_type": {
-    "website": 12436,
-    "other": 1278,
+    "website": 12434,
+    "other": 1279,
     "network": 141,
     "source_code": 323,
     "ai_model": 5,
     "ios": 432,
     "android": 467,
-    "executable": 212,
     "windows": 7,
+    "executable": 212,
     "smart_contract": 19,
     "api": 30,
     "hardware": 145,
