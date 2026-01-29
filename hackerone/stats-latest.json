@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-29T03:48:39.099Z",
+  "timestamp": "2026-01-29T04:18:50.403Z",
   "total_programs": 460,
   "by_state": {
     "public_mode": 460
@@ -14,13 +14,13 @@
   "in_scope_targets": 15743,
   "out_of_scope_targets": 2342,
   "by_asset_type": {
-    "website": 12432,
+    "website": 12433,
     "other": 1279,
     "network": 141,
     "source_code": 323,
     "ai_model": 5,
     "ios": 432,
-    "android": 468,
+    "android": 467,
     "executable": 212,
     "windows": 7,
     "smart_contract": 19,
