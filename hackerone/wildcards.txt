@@ -1790,6 +1790,7 @@
 *.stopaq.*
 *.stopaq.com
 *.stopdregmei.lt
+*.stopvlaga.si
 *.stratus.abb.com
 *.streamlabs.com
 *.streamlabscharity.com
