@@ -6967,7 +6967,7 @@
     },
     "industry": "Manufacturing Consumer",
     "last_updated": 1762880012,
-    "last_submission": 1769687585
+    "last_submission": 1769688675
   },
   {
     "name": "Driessen Vulnerability Disclosure Program",
@@ -13988,7 +13988,7 @@
     },
     "industry": "Leisure and Hospitality",
     "last_updated": 1765387498,
-    "last_submission": 1768575137
+    "last_submission": 1769689050
   },
   {
     "name": "WP Engine VDP",
@@ -19817,7 +19817,7 @@
     },
     "industry": "Manufacturing Consumer",
     "last_updated": 1751289845,
-    "last_submission": 1769687244
+    "last_submission": 1769690292
   },
   {
     "name": "Speakap Responsible Disclosure",
@@ -25577,6 +25577,6 @@
     },
     "industry": "Media and Entertainment",
     "last_updated": 1769601648,
-    "last_submission": 1769647581
+    "last_submission": 1769688175
   }
 ]
