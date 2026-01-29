@@ -1,20 +1,20 @@
 {
-  "timestamp": "2026-01-29T10:18:47.980Z",
-  "total_programs": 459,
+  "timestamp": "2026-01-29T10:48:46.035Z",
+  "total_programs": 460,
   "by_state": {
-    "public_mode": 459
+    "public_mode": 460
   },
   "by_submission_state": {
-    "open": 459
+    "open": 460
   },
   "with_bounties": 237,
   "managed_programs": 0,
-  "triage_active": 322,
-  "total_targets": 18061,
-  "in_scope_targets": 15719,
+  "triage_active": 323,
+  "total_targets": 18085,
+  "in_scope_targets": 15743,
   "out_of_scope_targets": 2342,
   "by_asset_type": {
-    "website": 12408,
+    "website": 12432,
     "other": 1279,
     "network": 141,
     "source_code": 323,
@@ -31,7 +31,7 @@
     "ip_address": 212,
     "other_ipa": 1
   },
-  "with_metrics": 459,
+  "with_metrics": 460,
   "avg_response_efficiency": null,
   "programs_with_reward_tiers": 235,
   "programs_with_scope_descriptions": 271
