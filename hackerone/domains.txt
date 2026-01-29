@@ -27,6 +27,8 @@
 22f3edd8-87d1-4a29-a79d-7f5951ca28a2.prod.reverse.svc.fleetboard.com
 235pine.com
 250cityroadlettings.com
+2dehands.be
+2ememain.be
 3.basecamp.com
 3.gallileo-frankfurt.com
 33cf3452-c7f8-4507-8691-8ae16b52b738.prod.reverse.svc.fleetboard.com
@@ -237,6 +239,7 @@ adb.nba.com
 addons.allizom.org
 addons.mozilla.org
 addons.opera.com
+adevinta.com
 adfs.gallileo-frankfurt.com
 adfs.valkyrie.com
 adm.cloud.com
@@ -2390,6 +2393,7 @@ dataprivacy.mendixcloud.com
 dataroom.cbre.com
 dataspecialist.com.au
 datasulpro.unimil.com.br
+datavenues.com
 dator.cbre.se
 db-20181127.luna.cbre.de
 db-20181211.luna.cbre.de
@@ -3291,6 +3295,7 @@ forum.playcanvas.com
 forum.sketchfab.com
 forums.malwarebytes.com
 forums.newworld.com
+fotocasa.pro
 foundedbyher.org
 fountainbridgesouth.net
 fp-sg.tiktokv.com
@@ -3646,6 +3651,7 @@ h22260.www2.hpe.com
 h22260.www2.it.hpe.com
 h22261.www2.hpe.com
 h22261.www2.it.hpe.com
+habitaclia.com
 haccountcat.fdecs.com
 hack.whocoronavirus.org
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -4141,6 +4147,7 @@ infodefender.ca
 infohub-devl.deere.com
 infohub-qual.deere.com
 infohub.deere.com
+infojobs.it
 infolearning.co.uk
 infolearning.com
 infoportal.clienttestmatrix.com
@@ -4662,6 +4669,8 @@ jitsi.gallileo-frankfurt.com
 jlf.cniib-supplysynergy.abb.com.cn
 jn.dev.myvirtualsuper.com
 job.ryadom.kz
+jobisjob.es
+jobmarketinsights.com
 jobs.abb.com
 jobs.hackthebox.com
 jobs.kiwi.com
@@ -4733,6 +4742,8 @@ kibana.infra.prod.westeurope.api.mtn.com
 kidneytransplant.ca
 kids.kinder.ro
 kidswebservices.com
+kijiji.ca
+kijijiautos.ca
 kinder.com
 kinder.somese.lv
 kinder.whitecat.ro
@@ -5118,6 +5129,7 @@ marketplaceadmin.mendixcloud.com
 marketsizes.mintel.com
 marksman.surefireag.com
 marksman.surepointag.com
+marktplaats.nl
 marquee.gs.com
 marriottfranchisetransactions.marriott.com
 marrtool.com
@@ -5415,6 +5427,7 @@ motors-cmms.pl.abb.com
 motors-ecocalculator.it.abb.com
 motors.equipmentmanagement.abb.com
 motorswechat.abb.com.cn
+motos.net
 mountaindew.com
 moveit.caci.com
 movemoney.cashedge.com
@@ -5662,6 +5675,7 @@ mtnzambia.co.zm
 muer.com
 multi.somese.lv
 multidatabasesearch.motion.abb.com
+multigestionale.com
 multiplayer.dev
 munchiessnacks.com
 mus1.badoo.com
@@ -5929,6 +5943,7 @@ norlandapps.com
 norlandbuild.com
 norrd.abb.com
 norsk.zebra.com
+nostromo.epreselec.com
 notary.aven.com
 notification.billing.appservices.mendix.com
 notification.icare.abb.com.cn
@@ -5958,6 +5973,7 @@ ntcusa.com
 ntd.net.au
 ntrip-admin.starfirenetwork.com
 ntrip-ws.starfirenetwork.com
+null-leasing.com
 nummus.robinhood.com
 nutanix.com
 nutella.com
@@ -8047,6 +8063,7 @@ stumble.fr
 stumbleupon.fr
 sub.gallileo-frankfurt.com
 subicenerzone.com
+subito.it
 subktemp.caci.com
 submission.apnic.net
 suchard.es
@@ -9047,6 +9064,7 @@ www.astrogaming.com
 www.ausloc.com
 www.authorize.net
 www.authy.com
+www.automobile.it
 www.awseducate.com
 www.axasecurity.com
 www.ayoba.me
@@ -9150,6 +9168,7 @@ www.citycentertroy.com
 www.clienteitau.co
 www.cmmtortowheatonresearch.com
 www.coalfirefederal.com
+www.coches.net
 www.cocubes.com
 www.coinhako.com
 www.coinspot.com.au
@@ -9272,6 +9291,7 @@ www.fmpilot.net
 www.fmpilot.org
 www.forescout.com
 www.formassembly.com
+www.fotocasa.es
 www.fountainbridgesouth.net
 www.fraedom.com
 www.fshlocking.com.au
@@ -9318,6 +9338,7 @@ www.idtec.com
 www.ikoma-cs.net
 www.immo.cbre.fr
 www.imobile.cbre.ro
+www.infojobs.net
 www.innovac.es
 www.instacart.com
 www.insulet.com
@@ -9348,6 +9369,7 @@ www.kiwi.com
 www.kkresg.com
 www.kkrfunds.com
 www.kkrreit.com
+www.kleinanzeigen.de
 www.knmvverzekeringen.nl
 www.koho.ca
 www.kpharmacyllc.com
@@ -9408,9 +9430,11 @@ www.mercedes-benz-bus.hu
 www.miitauviajes.co
 www.mijndpm.nl
 www.mijnvga.nl
+www.milanuncios.com
 www.milka.com
 www.mimeridian.com
 www.mintel.com
+www.mobile.de
 www.momondo.com
 www.monarchmoney.com
 www.moncheri.de
