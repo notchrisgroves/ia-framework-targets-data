@@ -628,7 +628,6 @@ api.creditkarma.com
 api.custody.coinbase.com
 api.dailypay.com
 api.daimlertruck.com
-api.dashlane.com
 api.deposits.oaknorth.co.uk
 api.deriv.com
 api.dev.csgna.csg.daimlertruck.com
@@ -815,7 +814,6 @@ app.bitrise.io
 app.blueskytravelvietnam.com
 app.circle.com
 app.citushealth.ca
-app.dashlane.com
 app.deriv.com
 app.divvy.co
 app.dynamic-preprod.xyz
@@ -938,7 +936,6 @@ asb.cbreesi.com
 ascc-portal.abb.com
 ascc.abb.com
 ascc.abb.com.cn
-asccenhancement.motion.abb.com
 ascp.mtn.com
 asdabusiness.com
 ashvpn.telos.com
@@ -1772,6 +1769,7 @@ chenosisza-prod-cd-6qbqld53nwicqaof.edge.tenants.mtn.auth0.com
 chesterandella.cbresi.com.au
 china.airasiago.com
 chinamergers.net
+chinaservice.abb.com.cn
 chipsahoyscan.com
 chipsmoregaming.twistandmake.com
 cho-gp.signaturescience.com
@@ -1860,6 +1858,7 @@ cloud.pomapps01.it.abb.com
 cloud.sequentra.net
 cloud8.8x8.com
 cloudapps01.abb.com
+cloudapps02.abb.com.cn
 cloudconnect.havelockone.com
 clouddrive.abb.com.cn
 clouddrives.abb.com.cn
@@ -1917,9 +1916,9 @@ cnabbpeks0001.abb.com.cn
 cnabbpeks0002.abb.com.cn
 cnb-clent.fiservapps.com
 cnbjs-zgw0.cn.abb.com
-cndmx-equipment.abb.com.cn
 cndmx-pm.abb.com.cn
 cndmx-ssm.abb.com.cn
+cndmx-tsol.abb.com.cn
 cniib-lims.cn.abb.com
 cniib-supplysynergy.abb.com.cn
 cniiq-qms.abb.com.cn
@@ -2043,7 +2042,6 @@ consensys.io
 console-stage.neon.build
 console.ar.magic-mirror.cn
 console.circle.com
-console.dashlane.com
 console.gallileo-frankfurt.com
 console.neon.tech
 console.ort-one-pingone.com
@@ -2072,6 +2070,7 @@ contenthub.apac-stg.aon.com
 contentportal.marriott.com
 contentportalauth.marriott.com
 contest.deere.com
+conteudo.loja.br.abb.com
 contractor-safety.ch.abb.com
 contributor.mendixcloud.com
 contributor.stock.adobe.com
@@ -2413,6 +2412,7 @@ de.forescout.cloud
 de.gallileo-frankfurt.com
 de.inside.abb.com
 de.philadelphia.ch
+de.shop.abb.com
 de.smartcampus.abb.com
 dealer-api-wrapper.mfg-sd-branch-and-parts-devl-vpn.us.e11.c01.johndeerecloud.com
 dealer-api.mfg-sd-branch-and-parts-qual-vpn.us.e11.c01.johndeerecloud.com
@@ -2744,6 +2744,7 @@ dynamic-cdn.cms.ayoba.me
 dz.inside.abb.com
 dzyne.com
 e-mobility-capitalmarketsday.events.abb.com
+e-mobility.abb.com
 e-process.abb.com.cn
 e.5-starworldwide.com
 e.92mountainview.com
@@ -3402,6 +3403,7 @@ gate.aon.com
 gate2.kleemann.info
 gatemanager.abb.com
 gateway-prod.reverse.svc.fleetboard.com
+gateway.baldor.abb.com
 gateway.econfigure.abb.com
 gateway.geneva-staging.chat
 gateway.geneva-staging.com
@@ -3415,6 +3417,7 @@ gateway.yianyouxuan.com
 gatewaydsapdev2.marriott.com
 gatewaydsaptst1.marriott.com
 gatewaydsaptst2.marriott.com
+gatewaytest.baldor.abb.com
 gatorade.com
 gb.abb.com
 gbr-rgw-crw-nhwbvqmjjt.dynamic-m.com
@@ -4737,6 +4740,7 @@ keywords-translation.net
 keywords-translation.nl
 kf.gallileo-frankfurt.com
 kf.ingestion.newenergy.abb.com.cn
+kf.newenergy.abb.com.cn
 kibana.infra.prod.westeurope.api.mtn.com
 kidneytransplant.ca
 kids.kinder.ro
@@ -4972,7 +4976,6 @@ logitech.zendesk.com
 logitechg.com.cn
 logitechgchallenge.com
 logmastre.mantech.com
-logs.dashlane.com
 logs.nextcloud.com
 logstash-props.devicecloud.acceptance.forescoutcloud.net
 logstash-props.devicecloud.production.forescoutcloud.net
@@ -5047,11 +5050,8 @@ magiceden.io
 magicinfo.ca.abb.com
 magisto.com,www.magisto.com
 magnolia.jetblue.com
-mail-powertalk.referral.abb.com
 mail.5-starworldwide.com
 mail.92mountainview.com
-mail.abb.com
-mail.au.abb.com
 mail.buildingconsultancy.com
 mail.cartonspleins.fr
 mail.cbre-charlottesville.com
@@ -5097,10 +5097,8 @@ mailhost.gallileo-frankfurt.com
 mailpoet.com
 mailserver.gallileo-frankfurt.com
 main.gallileo-frankfurt.com
-main.online.cn.abb.com
 mainapp.icare.abb.com.cn
 maintenance.logitech.com
-maintenancedata.motion.abb.com
 mall.aig.com.cn
 mall.gallileo-frankfurt.com
 manage-cdn.recreation.gov
@@ -5117,8 +5115,6 @@ manage.gallileo-frankfurt.com
 manage.grab.co
 manage.nba.com
 manage.recreation.gov
-management.buildinglicense.abb.com
-management.multiscan.abb.com
 management.particlehealth.com
 manager.gallileo-frankfurt.com
 manistiquefederal.com
@@ -8940,7 +8936,6 @@ wp.gallileo-frankfurt.com
 ws-support-itg.wip.it.hpe.com
 ws.ft.cashedge.com
 ws.sorare.com
-ws1.dashlane.com
 wsconsultatrn.softwareexpress.com.br
 wsconsultatrnla.softwareexpress.com
 wsde260n-1.info53.com
@@ -9208,7 +9203,6 @@ www.cvs.com
 www.cybersource.com
 www.daimler-ag.sh
 www.dashboard.gatekeepers.co.in
-www.dashlane.com
 www.davaolight.com
 www.daylightsolutions.com
 www.ddfcontent.com
