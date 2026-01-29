@@ -937,6 +937,7 @@ asb.cbreesi.com
 ascc-portal.abb.com
 ascc.abb.com
 ascc.abb.com.cn
+asccenhancement.motion.abb.com
 ascp.mtn.com
 asdabusiness.com
 ashvpn.telos.com
@@ -1917,6 +1918,7 @@ cnabbpeks0001.abb.com.cn
 cnabbpeks0002.abb.com.cn
 cnb-clent.fiservapps.com
 cnbjs-zgw0.cn.abb.com
+cndmx-equipment.abb.com.cn
 cndmx-pm.abb.com.cn
 cndmx-ssm.abb.com.cn
 cniib-lims.cn.abb.com
@@ -5107,7 +5109,6 @@ manistiquefederal.com
 manttest.cbre.com.es
 manual-content-devl.deere.com
 manual-library.deere.com
-manufacturingservices.drives.abb.com
 map.fleetboard.com
 map.gallileo-frankfurt.com
 map.snapchat.com
@@ -5115,7 +5116,6 @@ mapp.abb.com.cn
 mapptst.abb.com.cn
 maps.bykea.net
 marabou.com
-marcom.de.abb.com
 mariadb.org
 mark8.syfe.com
 market.gallileo-frankfurt.com
