@@ -46,7 +46,6 @@
 *.USEMBASSY.GOV
 *.USMISSION.GOV
 *.a.exodus.io
-*.abb
 *.abb.at
 *.abb.ca
 *.abb.ch
