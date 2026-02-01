@@ -3,7 +3,6 @@
 **Automated scraping of bug bounty program scopes from major platforms.**
 
 **Last Updated:** Auto-updated every 30 minutes
-**Source:** https://github.com/notchrisgroves/ia-framework-private (private)
 
 ---
 
