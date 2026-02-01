@@ -1,0 +1,2645 @@
+[
+  {
+    "platform": "federacy",
+    "name": "Federacy",
+    "url": "https://www.federacy.com/federacy",
+    "id": "955a3f33-3ca7-42b1-acf5-84da28d4c08c",
+    "program_name": "Federacy",
+    "slug": "federacy",
+    "company": "",
+    "website": "www.federacy.com",
+    "tagline": "Security testing, by humans",
+    "public": true,
+    "managed": false,
+    "assessment": false,
+    "award_critical": 150000,
+    "award_high": 90000,
+    "award_medium": 30000,
+    "award_low": 10000,
+    "created_at": "2018-07-27T02:29:36.516Z",
+    "overview": "## Guidelines\n\nTo encourage vulnerability research and to avoid any confusion between legitimate research and malicious attack, we ask that you attempt, in good faith, to:\n\n* **Play by the rules.** Adhere to this policy and any other relevant agreements, e.g., Terms of Service;\n* Report any vulnerability you’ve discovered promptly;\n* Avoid violating the privacy of others, disrupting our systems, destroying data, and/or harming user experience;\n* Use only the Official Channels to discuss vulnerability information with us;\n* Handle the confidentiality of details of any discovered vulnerabilities according to our Disclosure Policy;\n* Perform testing only on in-scope systems, and respect systems and activities which are out-of-scope;\n* If a vulnerability provides unintended access to user data, such as Personally Identifiable Information (PII), Personal Healthcare Information (PHI), credit card data, or proprietary information: Cease testing and submit a report immediately;\n* Only interact with accounts you own unless given explicit permission by the account holder;\n* Do not engage in extortion.\n* Be clear and succinct—a short proof-of-concept link is invaluable;\n* Never attempt non-technical attacks—such as social engineering, phishing, or physical attacks—against our employees, users, or infrastructure; and\n* Do not view, alter, save, store, transfer, or otherwise access our data or the data of our users without explicit permission.\n\nWe may modify the terms or terminate this program at any time.\n\n## Safe Harbor\n\nWhen conducting vulnerability research according to this policy, we consider the research conducted under this policy to be:\n\n* Authorized in view of any applicable anti-hacking laws, and we will not initiate or support legal action against you for accidental, good faith violations of this policy;\n* Authorized in view of relevant anti-circumvention laws, and we will not bring a claim against you for circumvention of technology controls;\n* Exempt from restrictions in our Acceptable Usage Policy that would interfere with conducting security research, and we waive those restrictions on a limited basis; and\n* Lawful, helpful to the overall security of the Internet, and conducted in good faith.\n\nYou are expected, as always, to comply with all applicable laws. If legal action is initiated by a third party against you, and you have complied with this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.\n\nIf at any time you have concerns or are uncertain whether your security research is consistent with this policy, please submit a report before going any further.",
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "www.federacy.com",
+          "id": "9fb8392f-cfa4-45d9-b14a-c0cf6c7d2f1a",
+          "identifier": "www.federacy.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": "money",
+          "impact": "high",
+          "identifier_type": null,
+          "program_id": "955a3f33-3ca7-42b1-acf5-84da28d4c08c"
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "website",
+          "target": "help.federacy.com",
+          "id": "9746d46a-3cf4-458c-8169-f7d9946c3814",
+          "identifier": "help.federacy.com",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "955a3f33-3ca7-42b1-acf5-84da28d4c08c"
+        },
+        {
+          "type": "website",
+          "target": "securedevelopment.com",
+          "id": "0a8fa25c-1b9c-4f54-bc0d-f0741d725fae",
+          "identifier": "securedevelopment.com",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "955a3f33-3ca7-42b1-acf5-84da28d4c08c"
+        },
+        {
+          "type": "website",
+          "target": "federacy.org",
+          "id": "8af48781-fc1a-4a56-9397-bb29dbc22f5f",
+          "identifier": "federacy.org",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "955a3f33-3ca7-42b1-acf5-84da28d4c08c"
+        },
+        {
+          "type": "website",
+          "target": "federacy.com",
+          "id": "16610240-89bf-4ef8-90f2-b6178acefe95",
+          "identifier": "federacy.com",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "955a3f33-3ca7-42b1-acf5-84da28d4c08c"
+        }
+      ]
+    },
+    "last_updated": "2026-02-01T07:53:59.488Z"
+  },
+  {
+    "platform": "federacy",
+    "name": "Upfort",
+    "url": "https://www.federacy.com/upfort",
+    "id": "20050f10-e3a0-4d3e-8a62-7ae28c3b4ad0",
+    "program_name": "Upfort",
+    "slug": "upfort",
+    "company": "",
+    "website": "www.meetpaladin.com",
+    "tagline": "Enterprise grade protection made easy for growing businesses",
+    "public": true,
+    "managed": false,
+    "assessment": false,
+    "award_critical": 100000,
+    "award_high": 50000,
+    "award_medium": 20000,
+    "award_low": 10000,
+    "created_at": "2019-01-08T21:31:44.653Z",
+    "overview": "## Guidelines for investigating and reporting bugs\n\n* Be clear and succinct, a short proof-of-concept link is invaluable. Visit    the Bug Hunter University articles to learn more about sending good    vulnerability reports.\n* Be respectful of our existing applications. Respect their Terms of Service    and avoid scanning techniques that are likely to cause degradation of    service to other customers.\n* Do not access or modify our data or our users' data, without explicit    permission of the owner. Only interact with your own accounts or test    accounts for security research purposes.\n* Contact us immediately if you do inadvertently encounter user data. Do not    view, alter, save, store, transfer, or otherwise access the data, and    immediately purge any local information upon reporting the vulnerability.\n* Act in good faith to avoid privacy violations, destruction of data, and    interruption or degradation of our services (including denial of service).\n* **Otherwise comply with all applicable laws.**\n\n## Disclosure\n\nWe would very much like to highlight the incredible work that external\n  researchers do for us and one way we can do that is to publicly disclose\n  vulnerabilities in a timely manner with proper attribution. To facilitate\n  this, please:\n\n* Share the security issue with us in detail\n* Give us a reasonable time to remediate the issue before making any    information about it public.\n* When we have remediated the issue, remain in communication to coordinate    public disclosure timelines.\n\n## Consequences of Complying with This Policy\n\nWe will not pursue civil action or initiate a complaint to law enforcement for accidental, good faith violations of this policy.\n\nWe consider activities conducted consistent with this policy to constitute 'authorized' conduct under the Computer Fraud and Abuse Act.\n\nTo the extent your activities are inconsistent with certain restrictions in our Acceptable Use Policy, we waive those restrictions for the limited purpose of permitting security research under this policy.\n\nWe will not bring a DMCA claim against you for circumventing the technological measures we have used to protect the applications in scope.\n\nIf legal action is initiated by a third party against you and you have complied with this policy policy, we will take steps to make it known that your actions were conducted in compliance with this policy.\n\nPlease submit a report to us before engaging in conduct that may be inconsistent with or unaddressed by this policy.\n\n## Security Vulnerabilities vs Business Logic Flaws\n\nThe Paladin Cyber Bug Bounty Program is focused on technical security vulnerabilities, for example: software flaws that result in access to our systems or disclosure of sensitive information about our users. \n\nReports relating to business logic or general best practices will not be awarded.\n\n## The Fine Print\n\nThis is not a competition, but rather an experimental and discretionary rewards program. We may modify the terms of this program, terminate this program at any time, or not pay a reward entirely at our discretion.\n\nWe won't apply any changes we make to these program terms retroactively. Reports from individuals who we are prohibited by law from paying are ineligible for rewards. You are responsible for paying any taxes associated with rewards. Any rewards that are unclaimed after 12 months will be donated to a charity of our choosing.\n\n## Official Channels\n\nAny vulnerability deemed to be in-scope, according to this policy, should be reported directly to this program through the Federacy platform. All communications between the researcher and program team regarding any reported vulnerability should be confined to the comments section of the corresponding report.\n\n",
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "app.upfort.com",
+          "id": "e4bd0d9c-c7ed-4a28-b6af-b869c7aa8494",
+          "identifier": "app.upfort.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": "money",
+          "impact": "medium",
+          "identifier_type": null,
+          "program_id": "20050f10-e3a0-4d3e-8a62-7ae28c3b4ad0"
+        },
+        {
+          "type": "website",
+          "target": "www.upfort.com",
+          "id": "19240bbf-f450-4784-8c75-ae209696ea55",
+          "identifier": "www.upfort.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": "swag",
+          "impact": "low",
+          "identifier_type": null,
+          "program_id": "20050f10-e3a0-4d3e-8a62-7ae28c3b4ad0"
+        },
+        {
+          "type": "api",
+          "target": "backend-v2.us.prod.api.upfort.com",
+          "id": "53962449-ce32-4d68-ade5-22e7a75a308f",
+          "identifier": "backend-v2.us.prod.api.upfort.com",
+          "scope_type": "api",
+          "in_scope": true,
+          "bounty": "money",
+          "impact": "critical",
+          "identifier_type": null,
+          "program_id": "20050f10-e3a0-4d3e-8a62-7ae28c3b4ad0"
+        },
+        {
+          "type": "website",
+          "target": "dashboard.upfort.com",
+          "id": "fba22815-41dc-4bf3-ae71-02f1216ba3bc",
+          "identifier": "dashboard.upfort.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "20050f10-e3a0-4d3e-8a62-7ae28c3b4ad0"
+        }
+      ],
+      "out_of_scope": []
+    },
+    "last_updated": "2026-02-01T07:53:59.488Z"
+  },
+  {
+    "platform": "federacy",
+    "name": "RenoFi",
+    "url": "https://www.federacy.com/renofi",
+    "id": "719923b7-a527-4e28-ac8d-3950f182f051",
+    "program_name": "RenoFi",
+    "slug": "renofi",
+    "company": "",
+    "website": null,
+    "tagline": "RenoFi is a financial technology company helping make home renovations possible.",
+    "public": true,
+    "managed": false,
+    "assessment": false,
+    "award_critical": 100000,
+    "award_high": 75000,
+    "award_medium": 25000,
+    "award_low": 7500,
+    "created_at": "2019-02-14T05:28:40.203Z",
+    "overview": "Keeping user information safe and secure is of the utmost importance and a\n  core company value, and we can't feasibly accomplish that without the help of\n  external security researchers. Consequently, we have formalized a\n  vulnerability disclosure policy and reward program in order to be able to show\n  appreciation for their effort, skill and dedication.\n\n## Rewards\n\nWe provide rewards to vulnerability reporters at our discretion. In order to\n  be eligible for a bounty, your submission must be accepted as valid.\n\nThe guidelines we use to determine the validity of requests and the reward\n  compensation offered are listed in our awards table.\n\n### Reproducibility\n\nOur engineers must be able to reproduce the vulnerability you have reported.\n  Reports that include clearly written explanations and a working proof of\n  concept are more likely to receive awards.\n\n### Severity and Priority\n\nOur focuses for security research are listed as 'in-scope' with their priority\n  indicated. More impactful bugs will be receive larger awards.\n\n### Rewards\n\nReward amounts may vary depending upon the severity of the vulnerability\n  reported and quality of the report. If we receive multiple reports of the same\n  vulnerability, the first clear, reproducible report will be rewarded.\n\nWe may decide to pay higher rewards for clever or severe vulnerabilities,\n  decide to pay lower rewards for vulnerabilities that require unusual user\n  interaction, decide that a single report constitutes multiple bugs, or that\n  multiple reports are so closely related that they only warrant a single\n  reward.\n\n## Disclosure\n\nWe would very much like to highlight the incredible work that external\n  researchers do for us and one way we can do that is to publicly disclose\n  vulnerabilities in a timely manner with proper attribution. To facilitate\n  this, please:\n\n* Share the security issue with us in detail\n* Give us a reasonable time to remediate the issue before making any    information about it public.\n* When we have remediated the issue, remain in communication to coordinate    public disclosure timelines.\n\n## Guidelines for investigating and reporting bugs\n\n* Be clear and succinct, a short proof-of-concept link is invaluable. Visit    the Bug Hunter University articles to learn more about sending good    vulnerability reports.\n* Be respectful of our existing applications. Respect their Terms of Service    and avoid scanning techniques that are likely to cause degradation of    service to other customers.\n* Do not access or modify our data or our users' data, without explicit    permission of the owner. Only interact with your own accounts or test    accounts for security research purposes.\n* Contact us immediately if you do inadvertently encounter user data. Do not    view, alter, save, store, transfer, or otherwise access the data, and    immediately purge any local information upon reporting the vulnerability.\n* Act in good faith to avoid privacy violations, destruction of data, and    interruption or degradation of our services (including denial of service).\n* **Otherwise comply with all applicable laws.**\n\n## In Scope\n\nThe applications listed under 'in-scope' are explicitly eligible for the bounty program.\n\nAny design or implementation issue that substantially affects the confidentiality or integrity of user data is likely to be in scope for the program. Common examples include:\n\n* Cross-site scripting.\n* Cross-site request forgery.\n* Mixed-content scripts.\n* Authentication or authorization flaws.\n* Server-side code execution bugs.\n* Circumvention of our permissions model.\n* SQL injection.\n* XML external entity Attacks.\n\nWhile this list represents our primary focus for security research, we are  interested in reports for all of our software and dependencies especially if when it impacts reasonably sensitive user data. This can include any open source libraries, software, or third-party components. At our discretion, we will issue rewards for reports not included in the in-scope list.\n\n## Out of Scope\n\nThe applications listed under 'out of scope' are explicitly ineligible. We will not disclose vulnerabilities reported regarding out of scope applications, nor will we issue rewards for them.\n\nIn addition, the following issues are outside of the scope of our rewards program:\n\n* Policies on presence/absence of SPF/DMARC records.\n* Password, email and account policies, such as email id verification, reset    link expiration, and password complexity.\n* Logout cross-site request forgery.\n* Attacks requiring physical access to a user's device.\n* XSS on any site other than those listed as 'in scope'.\n* Attacks that require attacker app to have the permission to overlay on top of our app (e.g., tapjacking).\n* Vulnerabilities that require a potential victim to install non-standard software or otherwise take active steps to make themselves be susceptible.\n* Vulnerabilities affecting users of outdated browsers or platforms.\n* Social engineering of our employees or contractors.\n* Any physical attempts against our property or data centers.\n* Presence of autocomplete attribute on web forms.\n* Missing cookie flags on non-sensitive cookies.\n* Any access to data where the targeted user needs to be operating a rooted    mobile device.\n\nThe following issues are outside the scope of our rewards program unless they are accompanied by evidence of exploitability:\n\n* Use of a known-vulnerable library.\n* Missing best practices.\n* Insecure SSL/TLS ciphers.\n* Missing security headers which do not lead directly to a vulnerability.\n* Lack of CSRF tokens (unless there is evidence of actual, sensitive user action not protected by a token).\n* Host header injections.\n* Reports from automated tools or scans that haven't been manually validated.\n* Presence of banner or version information unless correlated with a vulnerable version.\n\nFor more additional information about issues that are commonly out of scope, refer to Google Bughunter University.\n\n## Known Issues\n\nAny issues already known to us will be published as a Known Issues list. These vulnerabilities are considered out of scope, but additional reports of them may qualify for awards if they are new instances which were not previously observed.\n\n## Consequences of Complying with This Policy\n\nWe will not pursue civil action or initiate a complaint to law enforcement for accidental, good faith violations of this policy.\n\nWe consider activities conducted consistent with this policy to constitute 'authorized' conduct under the Computer Fraud and Abuse Act.\n\nTo the extent your activities are inconsistent with certain restrictions in our Acceptable Use Policy, we waive those restrictions for the limited purpose of permitting security research under this policy.\n\nWe will not bring a DMCA claim against you for circumventing the technological measures we have used to protect the applications in scope.\n\nIf legal action is initiated by a third party against you and you have complied with this policy policy, we will take steps to make it known that your actions were conducted in compliance with this policy.\n\nPlease submit a report to us before engaging in conduct that may be inconsistent with or unaddressed by this policy.\n\n## The Fine Print\n\nThis is not a competition, but rather an experimental and discretionary rewards program. We may modify the terms of this program, terminate this program at any time, or not pay a reward entirely at our discretion.\n\nWe won't apply any changes we make to these program terms retroactively. Reports from individuals who we are prohibited by law from paying are ineligible for rewards. You are responsible for paying any taxes associated with rewards. Any rewards that are unclaimed after 12 months will be donated to a charity of our choosing.",
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "renofi.com",
+          "id": "ffb6240a-f04b-45bd-8089-26963ae13993",
+          "identifier": "renofi.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "719923b7-a527-4e28-ac8d-3950f182f051"
+        },
+        {
+          "type": "website",
+          "target": "qualify.renofi.com",
+          "id": "e4cd3cbf-fb6c-400c-804f-84ad87682480",
+          "identifier": "qualify.renofi.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "719923b7-a527-4e28-ac8d-3950f182f051"
+        },
+        {
+          "type": "website",
+          "target": "login.renofi.com",
+          "id": "7a3f0bec-8243-4547-8b02-72d45ebdb943",
+          "identifier": "login.renofi.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "719923b7-a527-4e28-ac8d-3950f182f051"
+        },
+        {
+          "type": "website",
+          "target": "secure.renofi.com",
+          "id": "5083d6d8-b256-48af-8190-729161e9cd36",
+          "identifier": "secure.renofi.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "719923b7-a527-4e28-ac8d-3950f182f051"
+        },
+        {
+          "type": "website",
+          "target": "calculator.renofi.com",
+          "id": "57695d54-642e-4dca-9951-fb5258cf90f0",
+          "identifier": "calculator.renofi.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "719923b7-a527-4e28-ac8d-3950f182f051"
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "website",
+          "target": "other subdomains of renofi.com that aren't listed in scope - these may be apps that are currently under development; feel free to contact us at security@renofi.com with any questions",
+          "id": "68de0a34-8734-4776-b335-f35af6f48038",
+          "identifier": "other subdomains of renofi.com that aren't listed in scope - these may be apps that are currently under development; feel free to contact us at security@renofi.com with any questions",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "719923b7-a527-4e28-ac8d-3950f182f051"
+        }
+      ]
+    },
+    "last_updated": "2026-02-01T07:53:59.488Z"
+  },
+  {
+    "platform": "federacy",
+    "name": "delight-im",
+    "url": "https://www.federacy.com/delight-im",
+    "id": "cff743df-3c9f-4fd7-a6f2-38595eaad188",
+    "program_name": "delight-im",
+    "slug": "delight-im",
+    "company": "",
+    "website": null,
+    "tagline": "",
+    "public": true,
+    "managed": false,
+    "assessment": false,
+    "award_critical": 300000,
+    "award_high": 60000,
+    "award_medium": 12000,
+    "award_low": 2400,
+    "created_at": "2019-02-21T01:29:59.962Z",
+    "overview": "Keeping user information safe and secure is of the utmost importance and a\n  core company value, and we can't feasibly accomplish that without the help of\n  external security researchers. Consequently, we have formalized a\n  vulnerability disclosure policy and reward program in order to be able to show\n  appreciation for their effort, skill and dedication.\n\n## Rewards\n\nWe provide rewards to vulnerability reporters at our discretion. In order to\n  be eligible for a bounty, your submission must be accepted as valid.\n\nThe guidelines we use to determine the validity of requests and the reward\n  compensation offered are listed in our awards table.\n\n### Reproducibility\n\nOur engineers must be able to reproduce the vulnerability you have reported.\n  Reports that include clearly written explanations and a working proof of\n  concept are more likely to receive awards.\n\n### Severity and Priority\n\nOur focuses for security research are listed as 'in-scope' with their priority\n  indicated. More impactful bugs will be receive larger awards.\n\n### Rewards\n\nReward amounts may vary depending upon the severity of the vulnerability\n  reported and quality of the report. If we receive multiple reports of the same\n  vulnerability, the first clear, reproducible report will be rewarded.\n\nWe may decide to pay higher rewards for clever or severe vulnerabilities,\n  decide to pay lower rewards for vulnerabilities that require unusual user\n  interaction, decide that a single report constitutes multiple bugs, or that\n  multiple reports are so closely related that they only warrant a single\n  reward.\n\n## Disclosure\n\nWe would very much like to highlight the incredible work that external\n  researchers do for us and one way we can do that is to publicly disclose\n  vulnerabilities in a timely manner with proper attribution. To facilitate\n  this, please:\n\n* Share the security issue with us in detail\n* Give us a reasonable time to remediate the issue before making any    information about it public.\n* When we have remediated the issue, remain in communication to coordinate    public disclosure timelines.\n\n## Guidelines for investigating and reporting bugs\n\n* Be clear and succinct, a short proof-of-concept link is invaluable. Visit    the Bug Hunter University articles to learn more about sending good    vulnerability reports.\n* Be respectful of our existing applications. Respect their Terms of Service    and avoid scanning techniques that are likely to cause degradation of    service to other customers.\n* Do not access or modify our data or our users' data, without explicit    permission of the owner. Only interact with your own accounts or test    accounts for security research purposes.\n* Contact us immediately if you do inadvertently encounter user data. Do not    view, alter, save, store, transfer, or otherwise access the data, and    immediately purge any local information upon reporting the vulnerability.\n* Act in good faith to avoid privacy violations, destruction of data, and    interruption or degradation of our services (including denial of service).\n* **Otherwise comply with all applicable laws.**\n\n## In Scope\n\nThe applications listed under 'in-scope' are explicitly eligible for the bounty program.\n\nAny design or implementation issue that substantially affects the confidentiality or integrity of user data is likely to be in scope for the program. Common examples include:\n\n* Cross-site scripting.\n* Cross-site request forgery.\n* Mixed-content scripts.\n* Authentication or authorization flaws.\n* Server-side code execution bugs.\n* Circumvention of our permissions model.\n* SQL injection.\n* XML external entity Attacks.\n\nWhile this list represents our primary focus for security research, we are  interested in reports for all of our software and dependencies especially if when it impacts reasonably sensitive user data. This can include any open source libraries, software, or third-party components. At our discretion, we will issue rewards for reports not included in the in-scope list.\n\n## Out of Scope\n\nThe applications listed under 'out of scope' are explicitly ineligible. We will not disclose vulnerabilities reported regarding out of scope applications, nor will we issue rewards for them.\n\nIn addition, the following issues are outside of the scope of our rewards program:\n\n* Policies on presence/absence of SPF/DMARC records.\n* Password, email and account policies, such as email id verification, reset    link expiration, and password complexity.\n* Logout cross-site request forgery.\n* Attacks requiring physical access to a user's device.\n* XSS on any site other than those listed as 'in scope'.\n* Attacks that require attacker app to have the permission to overlay on top of our app (e.g., tapjacking).\n* Vulnerabilities that require a potential victim to install non-standard software or otherwise take active steps to make themselves be susceptible.\n* Vulnerabilities affecting users of outdated browsers or platforms.\n* Social engineering of our employees or contractors.\n* Any physical attempts against our property or data centers.\n* Presence of autocomplete attribute on web forms.\n* Missing cookie flags on non-sensitive cookies.\n* Any access to data where the targeted user needs to be operating a rooted    mobile device.\n\nThe following issues are outside the scope of our rewards program unless they are accompanied by evidence of exploitability:\n\n* Use of a known-vulnerable library.\n* Missing best practices.\n* Insecure SSL/TLS ciphers.\n* Missing security headers which do not lead directly to a vulnerability.\n* Lack of CSRF tokens (unless there is evidence of actual, sensitive user action not protected by a token).\n* Host header injections.\n* Reports from automated tools or scans that haven't been manually validated.\n* Presence of banner or version information unless correlated with a vulnerable version.\n\nFor more additional information about issues that are commonly out of scope, refer to Google Bughunter University.\n\n## Known Issues\n\nAny issues already known to us will be published as a Known Issues list. These vulnerabilities are considered out of scope, but additional reports of them may qualify for awards if they are new instances which were not previously observed.\n\n## Consequences of Complying with This Policy\n\nWe will not pursue civil action or initiate a complaint to law enforcement for accidental, good faith violations of this policy.\n\nWe consider activities conducted consistent with this policy to constitute 'authorized' conduct under the Computer Fraud and Abuse Act.\n\nTo the extent your activities are inconsistent with certain restrictions in our Acceptable Use Policy, we waive those restrictions for the limited purpose of permitting security research under this policy.\n\nWe will not bring a DMCA claim against you for circumventing the technological measures we have used to protect the applications in scope.\n\nIf legal action is initiated by a third party against you and you have complied with this policy policy, we will take steps to make it known that your actions were conducted in compliance with this policy.\n\nPlease submit a report to us before engaging in conduct that may be inconsistent with or unaddressed by this policy.\n\n## The Fine Print\n\nThis is not a competition, but rather an experimental and discretionary rewards program. We may modify the terms of this program, terminate this program at any time, or not pay a reward entirely at our discretion.\n\nWe won't apply any changes we make to these program terms retroactively. Reports from individuals who we are prohibited by law from paying are ineligible for rewards. You are responsible for paying any taxes associated with rewards. Any rewards that are unclaimed after 12 months will be donated to a charity of our choosing.",
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "briefe.io",
+          "id": "0c23ff71-c435-44f7-a5fd-cc5ac79eb6bf",
+          "identifier": "briefe.io",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "cff743df-3c9f-4fd7-a6f2-38595eaad188"
+        },
+        {
+          "type": "website",
+          "target": "moviecontentfilter.com",
+          "id": "92660c5f-fd5e-4555-9719-a1943e184b5c",
+          "identifier": "moviecontentfilter.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "cff743df-3c9f-4fd7-a6f2-38595eaad188"
+        },
+        {
+          "type": "website",
+          "target": "undoze.com",
+          "id": "6093045c-db84-44d7-b104-361789cd0a90",
+          "identifier": "undoze.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "cff743df-3c9f-4fd7-a6f2-38595eaad188"
+        },
+        {
+          "type": "website",
+          "target": "delight.im",
+          "id": "a0841053-330f-4783-8f3d-4d35dcd2e966",
+          "identifier": "delight.im",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "cff743df-3c9f-4fd7-a6f2-38595eaad188"
+        }
+      ],
+      "out_of_scope": []
+    },
+    "last_updated": "2026-02-01T07:53:59.488Z"
+  },
+  {
+    "platform": "federacy",
+    "name": "Check",
+    "url": "https://www.federacy.com/check",
+    "id": "06917452-797f-404f-bc2d-eabbed3de45d",
+    "program_name": "Check",
+    "slug": "check",
+    "company": "",
+    "website": null,
+    "tagline": "All-in-one software platform for building payroll products",
+    "public": true,
+    "managed": false,
+    "assessment": false,
+    "award_critical": 100000,
+    "award_high": 60000,
+    "award_medium": 20000,
+    "award_low": 6000,
+    "created_at": "2020-03-02T18:43:25.215Z",
+    "overview": "Security is core to our values, and we appreciate the input of security researchers acting in good-faith to help us maintain a high standard for the security and privacy of our users, which includes encouraging responsible vulnerability research and disclosure. This policy sets out our definition of good-faith in the context of finding and reporting vulnerabilities, as well as what you can expect from us in return.\n\n## Expectations\n\nWhen working with us, according to this policy, you can expect us to:\n\n* Extend Safe Harbor for your vulnerability research that is related to this policy;\n* Work with you to understand and validate your report, including a timely initial response to the submission; and\n* Work to remediate discovered vulnerabilities in a timely manner.\n\n## Official Channels\n\nAny vulnerability deemed to be in-scope, according to this policy, should be reported directly to this program through the Federacy platform. All communications between the researcher and program team regarding any reported vulnerability should be confined to the comments section of the corresponding report.",
+    "targets": {
+      "in_scope": [
+        {
+          "type": "api",
+          "target": "sandbox.checkhq.com",
+          "id": "f68218ef-8493-4a77-a946-67626365c259",
+          "identifier": "sandbox.checkhq.com",
+          "scope_type": "api",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "06917452-797f-404f-bc2d-eabbed3de45d"
+        },
+        {
+          "type": "website",
+          "target": "console.checkhq.com",
+          "id": "fb73d6cf-8815-4376-9a34-ee4233528912",
+          "identifier": "console.checkhq.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "06917452-797f-404f-bc2d-eabbed3de45d"
+        },
+        {
+          "type": "api",
+          "target": "onboard.checkhq.com",
+          "id": "ce407081-6c13-4036-8b50-9c34a2a4fdb0",
+          "identifier": "onboard.checkhq.com",
+          "scope_type": "api",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "06917452-797f-404f-bc2d-eabbed3de45d"
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "api",
+          "target": "api.checkhq.com",
+          "id": "e840ce6f-e78d-4acf-ae6d-469aa11727ce",
+          "identifier": "api.checkhq.com",
+          "scope_type": "api",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "06917452-797f-404f-bc2d-eabbed3de45d"
+        },
+        {
+          "type": "website",
+          "target": "docs.checkhq.com",
+          "id": "31bef253-bf3e-4de2-a94f-3a41cc8412e8",
+          "identifier": "docs.checkhq.com",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "06917452-797f-404f-bc2d-eabbed3de45d"
+        },
+        {
+          "type": "website",
+          "target": "checkhq.com",
+          "id": "69448f16-1dfa-485e-aea4-cad28b4d276b",
+          "identifier": "checkhq.com",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "06917452-797f-404f-bc2d-eabbed3de45d"
+        },
+        {
+          "type": "website",
+          "target": "*.checkhq.com",
+          "id": "8ef5313f-cbca-41f1-a926-52baf550b170",
+          "identifier": "*.checkhq.com",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "06917452-797f-404f-bc2d-eabbed3de45d"
+        }
+      ]
+    },
+    "last_updated": "2026-02-01T07:53:59.488Z"
+  },
+  {
+    "platform": "federacy",
+    "name": "Sylaps",
+    "url": "https://www.federacy.com/sylaps",
+    "id": "303b7e1c-9cd1-4999-ab37-5a66801d7490",
+    "program_name": "Sylaps",
+    "slug": "sylaps",
+    "company": "",
+    "website": null,
+    "tagline": "Meet with anyone. Now.",
+    "public": true,
+    "managed": false,
+    "assessment": false,
+    "award_critical": null,
+    "award_high": null,
+    "award_medium": null,
+    "award_low": null,
+    "created_at": "2020-05-13T18:37:53.134Z",
+    "overview": "## Guidelines\n\nTo encourage vulnerability research and to avoid any confusion between legitimate research and malicious attack, we ask that you attempt, in good faith, to:\n\n* **Play by the rules.** Adhere to this policy and any other relevant agreements, e.g., Terms of Service;\n* Report any vulnerability you’ve discovered promptly;\n* Avoid violating the privacy of others, disrupting our systems, destroying data, and/or harming user experience;\n* Use only the Official Channels to discuss vulnerability information with us;\n* Handle the confidentiality of details of any discovered vulnerabilities according to our Disclosure Policy;\n* Perform testing only on in-scope systems, and respect systems and activities which are out-of-scope;\n* If a vulnerability provides unintended access to user data, such as Personally Identifiable Information (PII), Personal Healthcare Information (PHI), credit card data, or proprietary information: Cease testing and submit a report immediately;\n* Only interact with accounts you own unless given explicit permission by the account holder;\n* Do not engage in extortion.\n* Be clear and succinct—a short proof-of-concept link is invaluable;\n* Never attempt non-technical attacks—such as social engineering, phishing, or physical attacks—against our employees, users, or infrastructure; and\n* Do not view, alter, save, store, transfer, or otherwise access our data or the data of our users without explicit permission.\n* Please dont try for testing rate limiting without prior notice.\n\nWe may modify the terms or terminate this program at any time.\n\n## Safe Harbor\n\nWhen conducting vulnerability research according to this policy, we consider the research conducted under this policy to be:\n\n* Authorized in view of any applicable anti-hacking laws, and we will not initiate or support legal action against you for accidental, good faith violations of this policy;\n* Authorized in view of relevant anti-circumvention laws, and we will not bring a claim against you for circumvention of technology controls;\n* Exempt from restrictions in our Acceptable Usage Policy that would interfere with conducting security research, and we waive those restrictions on a limited basis; and\n* Lawful, helpful to the overall security of the Internet, and conducted in good faith.\n\nYou are expected, as always, to comply with all applicable laws. If legal action is initiated by a third party against you, and you have complied with this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.\n\nIf at any time you have concerns or are uncertain whether your security research is consistent with this policy, please submit a report before going any further.",
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "sylaps.com",
+          "id": "166bed41-8621-4ee4-b5a4-f7fb2db21852",
+          "identifier": "sylaps.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "303b7e1c-9cd1-4999-ab37-5a66801d7490"
+        }
+      ],
+      "out_of_scope": []
+    },
+    "last_updated": "2026-02-01T07:53:59.488Z"
+  },
+  {
+    "platform": "federacy",
+    "name": "SupportBee",
+    "url": "https://www.federacy.com/supportbee",
+    "id": "35147876-3271-4262-a644-f383383fed4b",
+    "program_name": "SupportBee",
+    "slug": "supportbee",
+    "company": "",
+    "website": null,
+    "tagline": "Customer support software for collaborative teams",
+    "public": true,
+    "managed": false,
+    "assessment": false,
+    "award_critical": 50000,
+    "award_high": 10000,
+    "award_medium": 5000,
+    "award_low": 2500,
+    "created_at": "2020-06-25T10:05:47.299Z",
+    "overview": "## Guidelines\n\nTo encourage vulnerability research and to avoid any confusion between legitimate research and malicious attack, we ask that you attempt, in good faith, to:\n\n* **Play by the rules.** Adhere to this policy and any other relevant agreements, e.g., Terms of Service;\n* Report any vulnerability you’ve discovered promptly;\n* Avoid violating the privacy of others, disrupting our systems, destroying data, and/or harming user experience;\n* Use only the Official Channels to discuss vulnerability information with us;\n* Handle the confidentiality of details of any discovered vulnerabilities according to our Disclosure Policy;\n* Perform testing only on in-scope systems, and respect systems and activities which are out-of-scope;\n* If a vulnerability provides unintended access to user data, such as Personally Identifiable Information (PII), Personal Healthcare Information (PHI), credit card data, or proprietary information: Cease testing and submit a report immediately;\n* Only interact with accounts you own unless given explicit permission by the account holder;\n* Do not engage in extortion.\n* Be clear and succinct—a short proof-of-concept link is invaluable;\n* Never attempt non-technical attacks—such as social engineering, phishing, or physical attacks—against our employees, users, or infrastructure; and\n* Do not view, alter, save, store, transfer, or otherwise access our data or the data of our users without explicit permission.\n\nWe may modify the terms or terminate this program at any time.\n\n## Safe Harbor\n\nWhen conducting vulnerability research according to this policy, we consider the research conducted under this policy to be:\n\n* Authorized in view of any applicable anti-hacking laws, and we will not initiate or support legal action against you for accidental, good faith violations of this policy;\n* Authorized in view of relevant anti-circumvention laws, and we will not bring a claim against you for circumvention of technology controls;\n* Exempt from restrictions in our Acceptable Usage Policy that would interfere with conducting security research, and we waive those restrictions on a limited basis; and\n* Lawful, helpful to the overall security of the Internet, and conducted in good faith.\n\nYou are expected, as always, to comply with all applicable laws. If legal action is initiated by a third party against you, and you have complied with this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.\n\nIf at any time you have concerns or are uncertain whether your security research is consistent with this policy, please submit a report before going any further.",
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "app.supportbee.com",
+          "id": "ad7def43-04c9-40dd-a2f5-a5146b5174c6",
+          "identifier": "app.supportbee.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "35147876-3271-4262-a644-f383383fed4b"
+        }
+      ],
+      "out_of_scope": []
+    },
+    "last_updated": "2026-02-01T07:53:59.488Z"
+  },
+  {
+    "platform": "federacy",
+    "name": "Convictional",
+    "url": "https://www.federacy.com/convictional",
+    "id": "9181cb85-f910-4acb-bf31-cde60636fa1a",
+    "program_name": "Convictional",
+    "slug": "convictional",
+    "company": "",
+    "website": null,
+    "tagline": "",
+    "public": true,
+    "managed": false,
+    "assessment": false,
+    "award_critical": null,
+    "award_high": null,
+    "award_medium": null,
+    "award_low": null,
+    "created_at": "2020-07-27T14:05:47.664Z",
+    "overview": "## Guidelines\n\nTo encourage vulnerability research and to avoid any confusion between legitimate research and malicious attack, we ask that you attempt, in good faith, to:\n\n* **Play by the rules.** Adhere to this policy and any other relevant agreements, e.g., Terms of Service;\n* Report any vulnerability you’ve discovered promptly;\n* Avoid violating the privacy of others, disrupting our systems, destroying data, and/or harming user experience;\n* Use only the Official Channels to discuss vulnerability information with us;\n* Handle the confidentiality of details of any discovered vulnerabilities according to our Disclosure Policy;\n* Perform testing only on in-scope systems, and respect systems and activities which are out-of-scope;\n* If a vulnerability provides unintended access to user data, such as Personally Identifiable Information (PII), Personal Healthcare Information (PHI), credit card data, or proprietary information: Cease testing and submit a report immediately;\n* Only interact with accounts you own unless given explicit permission by the account holder;\n* Do not engage in extortion.\n* Be clear and succinct—a short proof-of-concept link is invaluable;\n* Never attempt non-technical attacks—such as social engineering, phishing, or physical attacks—against our employees, users, or infrastructure; and\n* Do not view, alter, save, store, transfer, or otherwise access our data or the data of our users without explicit permission.\n\nWe may modify the terms or terminate this program at any time.\n\n## Safe Harbor\n\nWhen conducting vulnerability research according to this policy, we consider the research conducted under this policy to be:\n\n* Authorized in view of any applicable anti-hacking laws, and we will not initiate or support legal action against you for accidental, good faith violations of this policy;\n* Authorized in view of relevant anti-circumvention laws, and we will not bring a claim against you for circumvention of technology controls;\n* Exempt from restrictions in our Acceptable Usage Policy that would interfere with conducting security research, and we waive those restrictions on a limited basis; and\n* Lawful, helpful to the overall security of the Internet, and conducted in good faith.\n\nYou are expected, as always, to comply with all applicable laws. If legal action is initiated by a third party against you, and you have complied with this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.\n\nIf at any time you have concerns or are uncertain whether your security research is consistent with this policy, please submit a report before going any further.",
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "app.convictional.com",
+          "id": "bd04315d-ef9e-4e92-8c05-50b252f6fece",
+          "identifier": "app.convictional.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "9181cb85-f910-4acb-bf31-cde60636fa1a"
+        },
+        {
+          "type": "api",
+          "target": "api.convictional.com",
+          "id": "96824779-c126-441e-b744-0f7855d547d3",
+          "identifier": "api.convictional.com",
+          "scope_type": "api",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "9181cb85-f910-4acb-bf31-cde60636fa1a"
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "website",
+          "target": "www.convictional.com",
+          "id": "1fae7aeb-33b8-459b-a7f4-8555b532f792",
+          "identifier": "www.convictional.com",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "9181cb85-f910-4acb-bf31-cde60636fa1a"
+        },
+        {
+          "type": "website",
+          "target": "support.convictional.com",
+          "id": "12e1984f-c696-4384-bd2b-a16adc2cdf10",
+          "identifier": "support.convictional.com",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "9181cb85-f910-4acb-bf31-cde60636fa1a"
+        },
+        {
+          "type": "website",
+          "target": "developers.convictional.com",
+          "id": "cf469fa7-6a54-4e20-b999-f1d24f6c51ae",
+          "identifier": "developers.convictional.com",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "9181cb85-f910-4acb-bf31-cde60636fa1a"
+        },
+        {
+          "type": "website",
+          "target": "blog.convictional.com",
+          "id": "4a832c67-5167-4c9d-9dde-21c9b8b85501",
+          "identifier": "blog.convictional.com",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "9181cb85-f910-4acb-bf31-cde60636fa1a"
+        }
+      ]
+    },
+    "last_updated": "2026-02-01T07:53:59.488Z"
+  },
+  {
+    "platform": "federacy",
+    "name": "Nanonets",
+    "url": "https://www.federacy.com/nanonets",
+    "id": "6a44c70b-3dd5-4a0c-9eb2-d9b4565f9adf",
+    "program_name": "Nanonets",
+    "slug": "nanonets",
+    "company": "",
+    "website": null,
+    "tagline": "Machine Learning API",
+    "public": true,
+    "managed": false,
+    "assessment": false,
+    "award_critical": null,
+    "award_high": null,
+    "award_medium": null,
+    "award_low": null,
+    "created_at": "2020-12-04T13:32:11.680Z",
+    "overview": "## Guidelines\n\nTo encourage vulnerability research and to avoid any confusion between legitimate research and malicious attack, we ask that you attempt, in good faith, to:\n\n* **Play by the rules.** Adhere to this policy and any other relevant agreements, e.g., Terms of Service;\n* Report any vulnerability you’ve discovered promptly;\n* Avoid violating the privacy of others, disrupting our systems, destroying data, and/or harming user experience;\n* Use only the Official Channels to discuss vulnerability information with us;\n* Handle the confidentiality of details of any discovered vulnerabilities according to our Disclosure Policy;\n* Perform testing only on in-scope systems, and respect systems and activities which are out-of-scope;\n* If a vulnerability provides unintended access to user data, such as Personally Identifiable Information (PII), Personal Healthcare Information (PHI), credit card data, or proprietary information: Cease testing and submit a report immediately;\n* Only interact with accounts you own unless given explicit permission by the account holder;\n* Do not engage in extortion.\n* Be clear and succinct—a short proof-of-concept link is invaluable;\n* Never attempt non-technical attacks—such as social engineering, phishing, or physical attacks—against our employees, users, or infrastructure; and\n* Do not view, alter, save, store, transfer, or otherwise access our data or the data of our users without explicit permission.\n\nWe may modify the terms or terminate this program at any time.\n\n## Safe Harbor\n\nWhen conducting vulnerability research according to this policy, we consider the research conducted under this policy to be:\n\n* Authorized in view of any applicable anti-hacking laws, and we will not initiate or support legal action against you for accidental, good faith violations of this policy;\n* Authorized in view of relevant anti-circumvention laws, and we will not bring a claim against you for circumvention of technology controls;\n* Exempt from restrictions in our Acceptable Usage Policy that would interfere with conducting security research, and we waive those restrictions on a limited basis; and\n* Lawful, helpful to the overall security of the Internet, and conducted in good faith.\n\nYou are expected, as always, to comply with all applicable laws. If legal action is initiated by a third party against you, and you have complied with this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.\n\nIf at any time you have concerns or are uncertain whether your security research is consistent with this policy, please submit a report before going any further.",
+    "targets": {
+      "in_scope": [
+        {
+          "type": "api",
+          "target": "app.nanonets.com",
+          "id": "0f9d761c-120b-4d05-98f5-05fec74f6980",
+          "identifier": "app.nanonets.com",
+          "scope_type": "api",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "6a44c70b-3dd5-4a0c-9eb2-d9b4565f9adf"
+        },
+        {
+          "type": "website",
+          "target": "nanonets.com",
+          "id": "d2ebdda4-9613-4fb2-b0b0-c939c8084717",
+          "identifier": "nanonets.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "6a44c70b-3dd5-4a0c-9eb2-d9b4565f9adf"
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "website",
+          "target": "status.nanonets.com",
+          "id": "1b7d8049-a94e-4e9d-8b3f-e3bf644352c1",
+          "identifier": "status.nanonets.com",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "6a44c70b-3dd5-4a0c-9eb2-d9b4565f9adf"
+        }
+      ]
+    },
+    "last_updated": "2026-02-01T07:53:59.488Z"
+  },
+  {
+    "platform": "federacy",
+    "name": "Stacksi",
+    "url": "https://www.federacy.com/stacksi",
+    "id": "9855f947-9f1f-41b9-80cb-dcdac1e88c0b",
+    "program_name": "Stacksi",
+    "slug": "stacksi",
+    "company": "",
+    "website": null,
+    "tagline": "Painless Security Questionnaires",
+    "public": true,
+    "managed": false,
+    "assessment": false,
+    "award_critical": null,
+    "award_high": null,
+    "award_medium": null,
+    "award_low": null,
+    "created_at": "2021-01-19T12:45:33.613Z",
+    "overview": "## Guidelines\n\nTo encourage vulnerability research and to avoid any confusion between legitimate research and malicious attack, we ask that you attempt, in good faith, to:\n\n* **Play by the rules.** Adhere to this policy and any other relevant agreements, e.g., Terms of Service;\n* Report any vulnerability you’ve discovered promptly;\n* Avoid violating the privacy of others, disrupting our systems, destroying data, and/or harming user experience;\n* Use only the Official Channels to discuss vulnerability information with us;\n* Handle the confidentiality of details of any discovered vulnerabilities according to our Disclosure Policy;\n* Perform testing only on in-scope systems, and respect systems and activities which are out-of-scope;\n* If a vulnerability provides unintended access to user data, such as Personally Identifiable Information (PII), Personal Healthcare Information (PHI), credit card data, or proprietary information: Cease testing and submit a report immediately;\n* Only interact with accounts you own unless given explicit permission by the account holder;\n* Do not engage in extortion.\n* Be clear and succinct—a short proof-of-concept link is invaluable;\n* Never attempt non-technical attacks—such as social engineering, phishing, or physical attacks—against our employees, users, or infrastructure; and\n* Do not view, alter, save, store, transfer, or otherwise access our data or the data of our users without explicit permission.\n\nWe may modify the terms or terminate this program at any time.\n\n## Safe Harbor\n\nWhen conducting vulnerability research according to this policy, we consider the research conducted under this policy to be:\n\n* Authorized in view of any applicable anti-hacking laws, and we will not initiate or support legal action against you for accidental, good faith violations of this policy;\n* Authorized in view of relevant anti-circumvention laws, and we will not bring a claim against you for circumvention of technology controls;\n* Exempt from restrictions in our Acceptable Usage Policy that would interfere with conducting security research, and we waive those restrictions on a limited basis; and\n* Lawful, helpful to the overall security of the Internet, and conducted in good faith.\n\nYou are expected, as always, to comply with all applicable laws. If legal action is initiated by a third party against you, and you have complied with this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.\n\nIf at any time you have concerns or are uncertain whether your security research is consistent with this policy, please submit a report before going any further.",
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "app.stacksi.com",
+          "id": "b0f00734-e630-4f59-8b1b-5b8613791a1f",
+          "identifier": "app.stacksi.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "9855f947-9f1f-41b9-80cb-dcdac1e88c0b"
+        },
+        {
+          "type": "api",
+          "target": "api.stacksi.com",
+          "id": "6200d7cc-317e-4fcb-8448-900556155857",
+          "identifier": "api.stacksi.com",
+          "scope_type": "api",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "9855f947-9f1f-41b9-80cb-dcdac1e88c0b"
+        },
+        {
+          "type": "website",
+          "target": "admin.stacksi.com",
+          "id": "277ae156-f8d8-4d5a-8b8a-70dc53536197",
+          "identifier": "admin.stacksi.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "9855f947-9f1f-41b9-80cb-dcdac1e88c0b"
+        }
+      ],
+      "out_of_scope": []
+    },
+    "last_updated": "2026-02-01T07:53:59.488Z"
+  },
+  {
+    "platform": "federacy",
+    "name": "Spacelift",
+    "url": "https://www.federacy.com/spacelift",
+    "id": "8e06ff5d-e40f-4188-aab0-88f9db64eb28",
+    "program_name": "Spacelift",
+    "slug": "spacelift",
+    "company": "",
+    "website": null,
+    "tagline": "The most flexible Continuous Integration and Deployment for Infrastructure as Code",
+    "public": true,
+    "managed": false,
+    "assessment": false,
+    "award_critical": null,
+    "award_high": null,
+    "award_medium": null,
+    "award_low": null,
+    "created_at": "2021-03-09T23:07:33.683Z",
+    "overview": "## Guidelines\n\nTo encourage vulnerability research and to avoid any confusion between legitimate research and malicious attack, we ask that you attempt, in good faith, to:\n\n* **Play by the rules.** Adhere to this policy and any other relevant agreements, e.g., Terms of Service;\n* Report any vulnerability you’ve discovered promptly;\n* Avoid violating the privacy of others, disrupting our systems, destroying data, and/or harming user experience;\n* Use only the Official Channels to discuss vulnerability information with us;\n* Handle the confidentiality of details of any discovered vulnerabilities according to our Disclosure Policy;\n* Perform testing only on in-scope systems, and respect systems and activities which are out-of-scope;\n* If a vulnerability provides unintended access to user data, such as Personally Identifiable Information (PII), Personal Healthcare Information (PHI), credit card data, or proprietary information: Cease testing and submit a report immediately;\n* Only interact with accounts you own unless given explicit permission by the account holder;\n* Do not engage in extortion.\n* Be clear and succinct—a short proof-of-concept link is invaluable;\n* Never attempt non-technical attacks—such as social engineering, phishing, or physical attacks—against our employees, users, or infrastructure; and\n* Do not view, alter, save, store, transfer, or otherwise access our data or the data of our users without explicit permission.\n\nWe may modify the terms or terminate this program at any time.\n\n## Safe Harbor\n\nWhen conducting vulnerability research according to this policy, we consider the research conducted under this policy to be:\n\n* Authorized in view of any applicable anti-hacking laws, and we will not initiate or support legal action against you for accidental, good faith violations of this policy;\n* Authorized in view of relevant anti-circumvention laws, and we will not bring a claim against you for circumvention of technology controls;\n* Exempt from restrictions in our Acceptable Usage Policy that would interfere with conducting security research, and we waive those restrictions on a limited basis; and\n* Lawful, helpful to the overall security of the Internet, and conducted in good faith.\n\nYou are expected, as always, to comply with all applicable laws. If legal action is initiated by a third party against you, and you have complied with this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.\n\nIf at any time you have concerns or are uncertain whether your security research is consistent with this policy, please submit a report before going any further.",
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "app.spacelift.io",
+          "id": "50866576-cf39-4003-a80f-5774767b6f30",
+          "identifier": "app.spacelift.io",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "8e06ff5d-e40f-4188-aab0-88f9db64eb28"
+        }
+      ],
+      "out_of_scope": []
+    },
+    "last_updated": "2026-02-01T07:53:59.488Z"
+  },
+  {
+    "platform": "federacy",
+    "name": "LimaCharlie",
+    "url": "https://www.federacy.com/limacharlie",
+    "id": "2120f5cd-5644-42a3-923a-ab9b1c204a86",
+    "program_name": "LimaCharlie",
+    "slug": "limacharlie",
+    "company": "",
+    "website": null,
+    "tagline": "",
+    "public": true,
+    "managed": false,
+    "assessment": false,
+    "award_critical": null,
+    "award_high": null,
+    "award_medium": null,
+    "award_low": null,
+    "created_at": "2021-03-16T20:54:58.495Z",
+    "overview": "## Guidelines\n\nTo encourage vulnerability research and to avoid any confusion between legitimate research and malicious attack, we ask that you attempt, in good faith, to:\n\n* **Play by the rules.** Adhere to this policy and any other relevant agreements, e.g., Terms of Service;\n* Report any vulnerability you’ve discovered promptly;\n* Avoid violating the privacy of others, disrupting our systems, destroying data, and/or harming user experience;\n* Use only the Official Channels to discuss vulnerability information with us;\n* Handle the confidentiality of details of any discovered vulnerabilities according to our Disclosure Policy;\n* Perform testing only on in-scope systems, and respect systems and activities which are out-of-scope;\n* If a vulnerability provides unintended access to user data, such as Personally Identifiable Information (PII), Personal Healthcare Information (PHI), credit card data, or proprietary information: Cease testing and submit a report immediately;\n* Only interact with accounts you own unless given explicit permission by the account holder;\n* Do not engage in extortion.\n* Be clear and succinct—a short proof-of-concept link is invaluable;\n* Never attempt non-technical attacks—such as social engineering, phishing, or physical attacks—against our employees, users, or infrastructure; and\n* Do not view, alter, save, store, transfer, or otherwise access our data or the data of our users without explicit permission.\n\nWe may modify the terms or terminate this program at any time.\n\n## Safe Harbor\n\nWhen conducting vulnerability research according to this policy, we consider the research conducted under this policy to be:\n\n* Authorized in view of any applicable anti-hacking laws, and we will not initiate or support legal action against you for accidental, good faith violations of this policy;\n* Authorized in view of relevant anti-circumvention laws, and we will not bring a claim against you for circumvention of technology controls;\n* Exempt from restrictions in our Acceptable Usage Policy that would interfere with conducting security research, and we waive those restrictions on a limited basis; and\n* Lawful, helpful to the overall security of the Internet, and conducted in good faith.\n\nYou are expected, as always, to comply with all applicable laws. If legal action is initiated by a third party against you, and you have complied with this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.\n\nIf at any time you have concerns or are uncertain whether your security research is consistent with this policy, please submit a report before going any further.",
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "app.limacharlie.io",
+          "id": "c8408e7c-d6ed-4910-8657-6d03b0c5dab0",
+          "identifier": "app.limacharlie.io",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "2120f5cd-5644-42a3-923a-ab9b1c204a86"
+        },
+        {
+          "type": "api",
+          "target": "api.limacharlie.io",
+          "id": "612e1a2f-2243-470c-bd2d-565880ef7a94",
+          "identifier": "api.limacharlie.io",
+          "scope_type": "api",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "2120f5cd-5644-42a3-923a-ab9b1c204a86"
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "website",
+          "target": "www.limacharlie.io",
+          "id": "c34459f8-d121-4fde-8abe-f51a9549967d",
+          "identifier": "www.limacharlie.io",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "2120f5cd-5644-42a3-923a-ab9b1c204a86"
+        },
+        {
+          "type": "website",
+          "target": "edu.limacharlie.io",
+          "id": "b2662776-bb1e-43b0-b20a-57f493bec75c",
+          "identifier": "edu.limacharlie.io",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "2120f5cd-5644-42a3-923a-ab9b1c204a86"
+        }
+      ]
+    },
+    "last_updated": "2026-02-01T07:53:59.488Z"
+  },
+  {
+    "platform": "federacy",
+    "name": "Belvo Technologies Inc.",
+    "url": "https://www.federacy.com/belvo-technologies-inc",
+    "id": "a25fbd69-4564-46c3-a8fa-e902a586ca89",
+    "program_name": "Belvo Technologies Inc.",
+    "slug": "belvo-technologies-inc",
+    "company": "",
+    "website": null,
+    "tagline": "Financial API for Fintech Innovators",
+    "public": true,
+    "managed": false,
+    "assessment": false,
+    "award_critical": 120000,
+    "award_high": 80000,
+    "award_medium": 25000,
+    "award_low": 5000,
+    "created_at": "2021-03-26T12:28:36.412Z",
+    "overview": "## Guidelines\n\nTo encourage vulnerability research and to avoid any confusion between legitimate research and malicious attack, we ask that you attempt, in good faith, to:\n\n* **Play by the rules.** Adhere to this policy and any other relevant agreements, e.g., Terms of Service;\n* Bug disclosure communications with Belvo’s Security Team are to remain confidential;\n* Follow account creation requirements to be eligible for awards;\n* Automated scanning against Belvo properties is not permitted;\n* Threatening of any kind will automatically disqualify you from participating in the program;\n* If the same bug can be replicated in multiple places or environments, it will count as one bug;\n* It is Belvo’s decision to determine when and how bugs should be addressed and fixed;\n* Report any vulnerability you’ve discovered promptly;\n* Avoid violating the privacy of others, disrupting our systems, destroying data, and/or harming user experience;\n* Use only the Official Channels to discuss vulnerability information with us;\n* Handle the confidentiality of details of any discovered vulnerabilities according to our Disclosure Policy;\n* Perform testing only on in-scope systems, and respect systems and activities which are out-of-scope;\n* If a vulnerability provides unintended access to user data, such as Personally Identifiable Information (PII), Personal Healthcare Information (PHI), credit card data, or proprietary information: Cease testing and submit a report immediately;\n* Only interact with accounts you own unless given explicit permission by the account holder;\n* Do not engage in extortion.\n* Be clear and succinct—a short proof-of-concept link is invaluable;\n* Never attempt non-technical attacks—such as social engineering, phishing, or physical attacks—against our employees, users, or infrastructure; and\n* Do not view, alter, save, store, transfer, or otherwise access our data or the data of our users without explicit permission.\n\nViolation of any of the terms of this program, including guidelines around bounty submission formats, are grounds for removal from the bug bounty program.\n\nWe may modify the terms or terminate this program at any time.\n\n## Safe Harbor\n\nWhen conducting vulnerability research according to this policy, we consider the research conducted under this policy to be:\n\n* Authorized in view of any applicable anti-hacking laws, and we will not initiate or support legal action against you for accidental, good faith violations of this policy;\n* Authorized in view of relevant anti-circumvention laws, and we will not bring a claim against you for circumvention of technology controls;\n* Exempt from restrictions in our Acceptable Usage Policy that would interfere with conducting security research, and we waive those restrictions on a limited basis; and\n* Lawful, helpful to the overall security of the Internet, and conducted in good faith.\n\nYou are expected, as always, to comply with all applicable laws. If legal action is initiated by a third party against you, and you have complied with this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.\n\nIf at any time you have concerns or are uncertain whether your security research is consistent with this policy, please submit a report before going any further.",
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "dashboard.belvo.com",
+          "id": "06fe2e52-0f18-424a-9848-586152b0c374",
+          "identifier": "dashboard.belvo.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "a25fbd69-4564-46c3-a8fa-e902a586ca89"
+        },
+        {
+          "type": "api",
+          "target": "api.belvo.com",
+          "id": "67df59ae-c1c7-4562-962e-a2d3bdf62c28",
+          "identifier": "api.belvo.com",
+          "scope_type": "api",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "a25fbd69-4564-46c3-a8fa-e902a586ca89"
+        },
+        {
+          "type": "website",
+          "target": "belvo.com",
+          "id": "5dfe0cf3-8ade-4923-b449-f40e04dc91e1",
+          "identifier": "belvo.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "a25fbd69-4564-46c3-a8fa-e902a586ca89"
+        },
+        {
+          "type": "api",
+          "target": "sandbox.belvo.com",
+          "id": "9281b1dd-fcfa-4408-9402-c353c7a656e6",
+          "identifier": "sandbox.belvo.com",
+          "scope_type": "api",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "a25fbd69-4564-46c3-a8fa-e902a586ca89"
+        },
+        {
+          "type": "api",
+          "target": "development.belvo.com",
+          "id": "e2aef44c-ce90-4fcf-9fbd-dfe1441b7c5a",
+          "identifier": "development.belvo.com",
+          "scope_type": "api",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "a25fbd69-4564-46c3-a8fa-e902a586ca89"
+        },
+        {
+          "type": "api",
+          "target": "identity.belvo.com",
+          "id": "c506e8da-ef6e-4b34-985c-8248b5975b86",
+          "identifier": "identity.belvo.com",
+          "scope_type": "api",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "a25fbd69-4564-46c3-a8fa-e902a586ca89"
+        },
+        {
+          "type": "website",
+          "target": "portal.sandbox.directdebit.belvo.com",
+          "id": "1198239c-3f6a-4b05-a9c3-e4a64b2e6bde",
+          "identifier": "portal.sandbox.directdebit.belvo.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "a25fbd69-4564-46c3-a8fa-e902a586ca89"
+        },
+        {
+          "type": "api",
+          "target": "api.sandbox.directdebit.belvo.com",
+          "id": "b09c6d0d-4ff9-45e3-a729-8054e315f6d6",
+          "identifier": "api.sandbox.directdebit.belvo.com",
+          "scope_type": "api",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "a25fbd69-4564-46c3-a8fa-e902a586ca89"
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "website",
+          "target": "https://developers.belvo.com ",
+          "id": "2c029904-ef39-4915-a001-92e964f8420a",
+          "identifier": "https://developers.belvo.com ",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "a25fbd69-4564-46c3-a8fa-e902a586ca89"
+        },
+        {
+          "type": "website",
+          "target": "https://status.belvo.com ",
+          "id": "66c6aea8-11e0-4a46-b7ca-8b2d20446d90",
+          "identifier": "https://status.belvo.com ",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "a25fbd69-4564-46c3-a8fa-e902a586ca89"
+        },
+        {
+          "type": "website",
+          "target": "https://support.belvo.com",
+          "id": "3d3c8763-0a0f-4f91-864c-953020124479",
+          "identifier": "https://support.belvo.com",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "a25fbd69-4564-46c3-a8fa-e902a586ca89"
+        },
+        {
+          "type": "website",
+          "target": "https://institutions.belvo.com",
+          "id": "f4d15825-857a-4822-a599-57f1d81ff436",
+          "identifier": "https://institutions.belvo.com",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "a25fbd69-4564-46c3-a8fa-e902a586ca89"
+        }
+      ]
+    },
+    "last_updated": "2026-02-01T07:53:59.488Z"
+  },
+  {
+    "platform": "federacy",
+    "name": "crowdai",
+    "url": "https://www.federacy.com/crowdai",
+    "id": "edb6c026-79e1-496b-a572-3715e16d4e40",
+    "program_name": "crowdai",
+    "slug": "crowdai",
+    "company": "",
+    "website": null,
+    "tagline": "",
+    "public": true,
+    "managed": false,
+    "assessment": false,
+    "award_critical": null,
+    "award_high": null,
+    "award_medium": null,
+    "award_low": null,
+    "created_at": "2021-04-21T06:20:14.401Z",
+    "overview": "## Guidelines\n\nTo encourage vulnerability research and to avoid any confusion between legitimate research and malicious attack, we ask that you attempt, in good faith, to:\n\n* **Play by the rules.** Adhere to this policy and any other relevant agreements, e.g., Terms of Service;\n* Report any vulnerability you’ve discovered promptly;\n* Avoid violating the privacy of others, disrupting our systems, destroying data, and/or harming user experience;\n* Use only the Official Channels to discuss vulnerability information with us;\n* Handle the confidentiality of details of any discovered vulnerabilities according to our Disclosure Policy;\n* Perform testing only on in-scope systems, and respect systems and activities which are out-of-scope;\n* If a vulnerability provides unintended access to user data, such as Personally Identifiable Information (PII), Personal Healthcare Information (PHI), credit card data, or proprietary information: Cease testing and submit a report immediately;\n* Only interact with accounts you own unless given explicit permission by the account holder;\n* Do not engage in extortion.\n* Be clear and succinct—a short proof-of-concept link is invaluable;\n* Never attempt non-technical attacks—such as social engineering, phishing, or physical attacks—against our employees, users, or infrastructure; and\n* Do not view, alter, save, store, transfer, or otherwise access our data or the data of our users without explicit permission.\n\nWe may modify the terms or terminate this program at any time.\n\n## Safe Harbor\n\nWhen conducting vulnerability research according to this policy, we consider the research conducted under this policy to be:\n\n* Authorized in view of any applicable anti-hacking laws, and we will not initiate or support legal action against you for accidental, good faith violations of this policy;\n* Authorized in view of relevant anti-circumvention laws, and we will not bring a claim against you for circumvention of technology controls;\n* Exempt from restrictions in our Acceptable Usage Policy that would interfere with conducting security research, and we waive those restrictions on a limited basis; and\n* Lawful, helpful to the overall security of the Internet, and conducted in good faith.\n\nYou are expected, as always, to comply with all applicable laws. If legal action is initiated by a third party against you, and you have complied with this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.\n\nIf at any time you have concerns or are uncertain whether your security research is consistent with this policy, please submit a report before going any further.",
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "app.crowdai.com",
+          "id": "d51ca879-12c9-49af-9115-4e209d719635",
+          "identifier": "app.crowdai.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "edb6c026-79e1-496b-a572-3715e16d4e40"
+        }
+      ],
+      "out_of_scope": []
+    },
+    "last_updated": "2026-02-01T07:53:59.488Z"
+  },
+  {
+    "platform": "federacy",
+    "name": "Tuple",
+    "url": "https://www.federacy.com/tuple",
+    "id": "3d783032-0f77-4585-9ac2-0da29e180ed1",
+    "program_name": "Tuple",
+    "slug": "tuple",
+    "company": "",
+    "website": null,
+    "tagline": "The best remote pair programming app on macOS",
+    "public": true,
+    "managed": true,
+    "assessment": false,
+    "award_critical": 2500000,
+    "award_high": 90000,
+    "award_medium": 30000,
+    "award_low": 10000,
+    "created_at": "2021-05-01T01:29:45.648Z",
+    "overview": "## Guidelines\n\nTo encourage vulnerability research and to avoid any confusion between legitimate research and malicious attack, we ask that you attempt, in good faith, to:\n\n* **Play by the rules.** Adhere to this policy and any other relevant agreements, e.g., Terms of Service;\n* Report any vulnerability you’ve discovered promptly;\n* Avoid violating the privacy of others, disrupting our systems, destroying data, and/or harming user experience;\n* Use only the Official Channels to discuss vulnerability information with us;\n* Handle the confidentiality of details of any discovered vulnerabilities according to our Disclosure Policy;\n* Perform testing only on in-scope systems, and respect systems and activities which are out-of-scope;\n* If a vulnerability provides unintended access to user data, such as Personally Identifiable Information (PII), Personal Healthcare Information (PHI), credit card data, or proprietary information: Cease testing and submit a report immediately;\n* Only interact with accounts you own unless given explicit permission by the account holder;\n* Do not engage in extortion.\n* Be clear and succinct—a short proof-of-concept link is invaluable;\n* Never attempt non-technical attacks—such as social engineering, phishing, or physical attacks—against our employees, users, or infrastructure; and\n* Do not view, alter, save, store, transfer, or otherwise access our data or the data of our users without explicit permission.\n\nWe may modify the terms or terminate this program at any time.\n\n## Safe Harbor\n\nWhen conducting vulnerability research according to this policy, we consider the research conducted under this policy to be:\n\n* Authorized in view of any applicable anti-hacking laws, and we will not initiate or support legal action against you for accidental, good faith violations of this policy;\n* Authorized in view of relevant anti-circumvention laws, and we will not bring a claim against you for circumvention of technology controls;\n* Exempt from restrictions in our Acceptable Usage Policy that would interfere with conducting security research, and we waive those restrictions on a limited basis; and\n* Lawful, helpful to the overall security of the Internet, and conducted in good faith.\n\nYou are expected, as always, to comply with all applicable laws. If legal action is initiated by a third party against you, and you have complied with this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.\n\nIf at any time you have concerns or are uncertain whether your security research is consistent with this policy, please submit a report before going any further.",
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "staging.tuple.app",
+          "id": "5df4106d-9078-4ccb-8818-ac67070c9ca0",
+          "identifier": "staging.tuple.app",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "3d783032-0f77-4585-9ac2-0da29e180ed1"
+        },
+        {
+          "type": "other",
+          "target": "Tuple MacOS Application",
+          "id": "309bfd8b-44b1-4ca6-b429-79bc58d443ad",
+          "identifier": "Tuple MacOS Application",
+          "scope_type": "desktop",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "3d783032-0f77-4585-9ac2-0da29e180ed1"
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "website",
+          "target": "tuple.app",
+          "id": "0f984d4c-b8d4-477e-ace7-77be44af40e4",
+          "identifier": "tuple.app",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "3d783032-0f77-4585-9ac2-0da29e180ed1"
+        },
+        {
+          "type": "website",
+          "target": "production.tuple.app",
+          "id": "9ccc4325-d683-4266-925c-3173fa8cd1d0",
+          "identifier": "production.tuple.app",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "3d783032-0f77-4585-9ac2-0da29e180ed1"
+        }
+      ]
+    },
+    "last_updated": "2026-02-01T07:53:59.488Z"
+  },
+  {
+    "platform": "federacy",
+    "name": "biorender",
+    "url": "https://www.federacy.com/biorender",
+    "id": "f64c1102-f861-4b3d-be99-3f286bd0644b",
+    "program_name": "biorender",
+    "slug": "biorender",
+    "company": "",
+    "website": null,
+    "tagline": "To empower the world to learn and communicate science faster through visuals.",
+    "public": true,
+    "managed": false,
+    "assessment": false,
+    "award_critical": null,
+    "award_high": null,
+    "award_medium": null,
+    "award_low": null,
+    "created_at": "2021-05-10T16:55:13.555Z",
+    "overview": "## Guidelines\n\nTo encourage vulnerability research and to avoid any confusion between legitimate research and malicious attack, we ask that you attempt, in good faith, to:\n\n* **Play by the rules.** Adhere to this policy and any other relevant agreements, e.g., Terms of Service;\n* Report any vulnerability you’ve discovered promptly;\n* Avoid violating the privacy of others, disrupting our systems, destroying data, and/or harming user experience;\n* Use only the Official Channels to discuss vulnerability information with us;\n* Handle the confidentiality of details of any discovered vulnerabilities according to our Disclosure Policy;\n* Perform testing only on in-scope systems, and respect systems and activities which are out-of-scope;\n* If a vulnerability provides unintended access to user data, such as Personally Identifiable Information (PII), Personal Healthcare Information (PHI), credit card data, or proprietary information: Cease testing and submit a report immediately;\n* Only interact with accounts you own unless given explicit permission by the account holder;\n* Do not engage in extortion.\n* Be clear and succinct—a short proof-of-concept link is invaluable;\n* Never attempt non-technical attacks—such as social engineering, phishing, or physical attacks—against our employees, users, or infrastructure; and\n* Do not view, alter, save, store, transfer, or otherwise access our data or the data of our users without explicit permission.\n\nWe may modify the terms or terminate this program at any time.\n\n## Safe Harbor\n\nWhen conducting vulnerability research according to this policy, we consider the research conducted under this policy to be:\n\n* Authorized in view of any applicable anti-hacking laws, and we will not initiate or support legal action against you for accidental, good faith violations of this policy;\n* Authorized in view of relevant anti-circumvention laws, and we will not bring a claim against you for circumvention of technology controls;\n* Exempt from restrictions in our Acceptable Usage Policy that would interfere with conducting security research, and we waive those restrictions on a limited basis; and\n* Lawful, helpful to the overall security of the Internet, and conducted in good faith.\n\nYou are expected, as always, to comply with all applicable laws. If legal action is initiated by a third party against you, and you have complied with this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.\n\nIf at any time you have concerns or are uncertain whether your security research is consistent with this policy, please submit a report before going any further.",
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "app.biorender.com",
+          "id": "977c928f-4125-4eb5-8662-6d3a071d8769",
+          "identifier": "app.biorender.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "f64c1102-f861-4b3d-be99-3f286bd0644b"
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "website",
+          "target": "biorender.com",
+          "id": "0d13ea26-eeb5-47cb-9637-265756bb082a",
+          "identifier": "biorender.com",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "f64c1102-f861-4b3d-be99-3f286bd0644b"
+        }
+      ]
+    },
+    "last_updated": "2026-02-01T07:53:59.488Z"
+  },
+  {
+    "platform": "federacy",
+    "name": "Level365",
+    "url": "https://www.federacy.com/level365",
+    "id": "33788ad0-95c0-4f53-90e5-669334c98800",
+    "program_name": "Level365",
+    "slug": "level365",
+    "company": "",
+    "website": null,
+    "tagline": "Level365 UC Platform Services",
+    "public": true,
+    "managed": false,
+    "assessment": false,
+    "award_critical": null,
+    "award_high": null,
+    "award_medium": null,
+    "award_low": null,
+    "created_at": "2021-06-29T17:34:19.255Z",
+    "overview": "## Guidelines\n\nTo encourage vulnerability research and to avoid any confusion between legitimate research and malicious attack, we ask that you attempt, in good faith, to:\n\n* **Play by the rules.** Adhere to this policy and any other relevant agreements, e.g., Terms of Service;\n* Report any vulnerability you’ve discovered promptly;\n* Avoid violating the privacy of others, disrupting our systems, destroying data, and/or harming user experience;\n* Use only the Official Channels to discuss vulnerability information with us;\n* Handle the confidentiality of details of any discovered vulnerabilities according to our Disclosure Policy;\n* Perform testing only on in-scope systems, and respect systems and activities which are out-of-scope;\n* If a vulnerability provides unintended access to user data, such as Personally Identifiable Information (PII), Personal Healthcare Information (PHI), credit card data, or proprietary information: Cease testing and submit a report immediately;\n* Only interact with accounts you own unless given explicit permission by the account holder;\n* Do not engage in extortion.\n* Be clear and succinct—a short proof-of-concept link is invaluable;\n* Never attempt non-technical attacks—such as social engineering, phishing, or physical attacks—against our employees, users, or infrastructure; and\n* Do not view, alter, save, store, transfer, or otherwise access our data or the data of our users without explicit permission.\n\nWe may modify the terms or terminate this program at any time.\n\n## Safe Harbor\n\nWhen conducting vulnerability research according to this policy, we consider the research conducted under this policy to be:\n\n* Authorized in view of any applicable anti-hacking laws, and we will not initiate or support legal action against you for accidental, good faith violations of this policy;\n* Authorized in view of relevant anti-circumvention laws, and we will not bring a claim against you for circumvention of technology controls;\n* Exempt from restrictions in our Acceptable Usage Policy that would interfere with conducting security research, and we waive those restrictions on a limited basis; and\n* Lawful, helpful to the overall security of the Internet, and conducted in good faith.\n\nYou are expected, as always, to comply with all applicable laws. If legal action is initiated by a third party against you, and you have complied with this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.\n\nIf at any time you have concerns or are uncertain whether your security research is consistent with this policy, please submit a report before going any further.",
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "ind-core1.365sip.com",
+          "id": "55e42736-4101-43c3-90e9-67f9d8bdc73d",
+          "identifier": "ind-core1.365sip.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "33788ad0-95c0-4f53-90e5-669334c98800"
+        },
+        {
+          "type": "api",
+          "target": "ind-core1.365sip.com",
+          "id": "f7bbb03f-2ab6-4602-ae26-228ca7a60fcb",
+          "identifier": "ind-core1.365sip.com",
+          "scope_type": "api",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "33788ad0-95c0-4f53-90e5-669334c98800"
+        },
+        {
+          "type": "website",
+          "target": "app.level365.com",
+          "id": "765d2a37-02d2-4d2b-ad83-d33c87850f46",
+          "identifier": "app.level365.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "33788ad0-95c0-4f53-90e5-669334c98800"
+        },
+        {
+          "type": "api",
+          "target": "ind-core4.365sip.com",
+          "id": "ff260ead-e311-4f03-8b65-14632bda7147",
+          "identifier": "ind-core4.365sip.com",
+          "scope_type": "api",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "33788ad0-95c0-4f53-90e5-669334c98800"
+        },
+        {
+          "type": "api",
+          "target": "ind-core3.365sip.com",
+          "id": "dea18f7f-89fb-43b1-ac20-40c752ec124c",
+          "identifier": "ind-core3.365sip.com",
+          "scope_type": "api",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "33788ad0-95c0-4f53-90e5-669334c98800"
+        },
+        {
+          "type": "website",
+          "target": "ind-core2.365sip.com",
+          "id": "01d4fcc2-e79b-4a43-88fb-e160a028ccc5",
+          "identifier": "ind-core2.365sip.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "33788ad0-95c0-4f53-90e5-669334c98800"
+        },
+        {
+          "type": "website",
+          "target": "ind-core3.365sip.com",
+          "id": "60552d74-545b-404c-bf25-a0947384a4d2",
+          "identifier": "ind-core3.365sip.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "33788ad0-95c0-4f53-90e5-669334c98800"
+        },
+        {
+          "type": "website",
+          "target": "ind-core4.365sip.com",
+          "id": "aa0e22a3-ba25-4b04-a6b0-a5bb8f7e6127",
+          "identifier": "ind-core4.365sip.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "33788ad0-95c0-4f53-90e5-669334c98800"
+        },
+        {
+          "type": "api",
+          "target": "ind-core2.365sip.com",
+          "id": "03319296-662f-43af-9b86-da5f9e496e89",
+          "identifier": "ind-core2.365sip.com",
+          "scope_type": "api",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "33788ad0-95c0-4f53-90e5-669334c98800"
+        },
+        {
+          "type": "website",
+          "target": "ind-ndp1.365sip.com",
+          "id": "2fe7613d-eff6-45f3-a1fa-c04bcb7707fd",
+          "identifier": "ind-ndp1.365sip.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "33788ad0-95c0-4f53-90e5-669334c98800"
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "website",
+          "target": "*.365sip.com",
+          "id": "dc589022-d5aa-4aa8-b234-a5e2806cd99f",
+          "identifier": "*.365sip.com",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "33788ad0-95c0-4f53-90e5-669334c98800"
+        },
+        {
+          "type": "website",
+          "target": "*.level365.com",
+          "id": "b76b3e33-f16c-4c87-bc40-12f53b5a5b28",
+          "identifier": "*.level365.com",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "33788ad0-95c0-4f53-90e5-669334c98800"
+        }
+      ]
+    },
+    "last_updated": "2026-02-01T07:53:59.488Z"
+  },
+  {
+    "platform": "federacy",
+    "name": "Vertex",
+    "url": "https://www.federacy.com/vertex",
+    "id": "81d3d25a-603c-44ca-a73b-49ae756e8525",
+    "program_name": "Vertex",
+    "slug": "vertex",
+    "company": "",
+    "website": null,
+    "tagline": "Vertex works in the development of the most advanced platforms for crypto actives",
+    "public": true,
+    "managed": false,
+    "assessment": false,
+    "award_critical": null,
+    "award_high": null,
+    "award_medium": null,
+    "award_low": null,
+    "created_at": "2021-07-02T16:03:48.860Z",
+    "overview": "## Guidelines\n\nWe require that all researchers: \n\n* Make every effort to avoid privacy violations, degradation of user experience, disruption to production systems, and destruction of data during security testing. Only interact with accounts you own or with the explicit permission of the account holder. \n* Perform research only within the scope set out below. \n* Use the identified communication channels to report vulnerability information to us. \n* Keep information about any vulnerabilities you have discovered confidential between yourself and Vertex. \n* Disclosure of any discovered vulnerabilities is not allowed, this is a private program and any publication is prohibited, which may result in legal persecution. For example, you are not allowed to disclose to the public on your blog (or any other media) about your findings, regardless of how long it has been since the discovery or whether the vulnerability has been fixed or not. \n\nIf you follow these guidelines when reporting an issue to us, we commit to: \n\n* Not pursue or support any legal action related to your research (aka \"Safe Harbor\") \n* Work with you to understand and resolve the issue quickly (including an initial confirmation of your report within 72 hours of submission) \n\n## Safe Harbor\n\nWhen conducting vulnerability research according to this policy, we consider the research conducted under this policy to be:\n\n* Authorized in view of any applicable anti-hacking laws, and we will not initiate or support legal action against you for accidental, good faith violations of this policy;\n* Authorized in view of relevant anti-circumvention laws, and we will not bring a claim against you for circumvention of technology controls;\n* Exempt from restrictions in our Acceptable Usage Policy that would interfere with conducting security research, and we waive those restrictions on a limited basis; and\n* Lawful, helpful to the overall security of the Internet, and conducted in good faith.\n\nYou are expected, as always, to comply with all applicable laws. If legal action is initiated by a third party against you, and you have complied with this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.\n\nIf at any time you have concerns or are uncertain whether your security research is consistent with this policy, please submit a report before going any further.",
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "vectorcrypto.com",
+          "id": "2a01a20c-2320-41c4-b182-e93f85a3ace8",
+          "identifier": "vectorcrypto.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "81d3d25a-603c-44ca-a73b-49ae756e8525"
+        },
+        {
+          "type": "api",
+          "target": "gateway.vertexcrypto.com.br",
+          "id": "a32c3ac3-8763-4118-aaa3-3f3c7259cc3f",
+          "identifier": "gateway.vertexcrypto.com.br",
+          "scope_type": "api",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "81d3d25a-603c-44ca-a73b-49ae756e8525"
+        },
+        {
+          "type": "other",
+          "target": "https://play.google.com/store/apps/details?id=profitchartandroid.nelogica.com.profitchartandroid.vertex",
+          "id": "50ab0ca4-665c-4cbd-9d3c-85f11f362cc1",
+          "identifier": "https://play.google.com/store/apps/details?id=profitchartandroid.nelogica.com.profitchartandroid.vertex",
+          "scope_type": "mobile",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "81d3d25a-603c-44ca-a73b-49ae756e8525"
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "website",
+          "target": "*.vectorcrypto.com",
+          "id": "d3a6455e-c6f7-47ea-bdec-2448c45df1f5",
+          "identifier": "*.vectorcrypto.com",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "81d3d25a-603c-44ca-a73b-49ae756e8525"
+        },
+        {
+          "type": "website",
+          "target": "*.vectorcrypto.com.br",
+          "id": "c12196bb-06d3-43b0-89d2-37c330cbec36",
+          "identifier": "*.vectorcrypto.com.br",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "81d3d25a-603c-44ca-a73b-49ae756e8525"
+        },
+        {
+          "type": "website",
+          "target": "*.nelogica.com",
+          "id": "ab8dc5f4-1cf4-42e4-bd01-7825800e561c",
+          "identifier": "*.nelogica.com",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "81d3d25a-603c-44ca-a73b-49ae756e8525"
+        },
+        {
+          "type": "other",
+          "target": "https://apps.apple.com/br/app/vector/id1525104712",
+          "id": "366d6606-8aae-4ea9-833d-361923575818",
+          "identifier": "https://apps.apple.com/br/app/vector/id1525104712",
+          "scope_type": "mobile",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "81d3d25a-603c-44ca-a73b-49ae756e8525"
+        },
+        {
+          "type": "website",
+          "target": "*.vertexcrypto.com",
+          "id": "37b5e868-975e-4779-96f5-5bf471f47fd1",
+          "identifier": "*.vertexcrypto.com",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "81d3d25a-603c-44ca-a73b-49ae756e8525"
+        },
+        {
+          "type": "website",
+          "target": "*.nelogica.com.br",
+          "id": "5b3305c0-d2b0-42c2-8edb-bf020e755a8c",
+          "identifier": "*.nelogica.com.br",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "81d3d25a-603c-44ca-a73b-49ae756e8525"
+        },
+        {
+          "type": "website",
+          "target": "*.vertexcrypto.com.br",
+          "id": "90c8f4fd-ad79-4189-9ebc-1e2a438e90f3",
+          "identifier": "*.vertexcrypto.com.br",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "81d3d25a-603c-44ca-a73b-49ae756e8525"
+        }
+      ]
+    },
+    "last_updated": "2026-02-01T07:53:59.488Z"
+  },
+  {
+    "platform": "federacy",
+    "name": "Officely",
+    "url": "https://www.federacy.com/officely",
+    "id": "69a23fad-f46d-4de9-88eb-8d7a0aff6a4c",
+    "program_name": "Officely",
+    "slug": "officely",
+    "company": "",
+    "website": null,
+    "tagline": "",
+    "public": true,
+    "managed": false,
+    "assessment": false,
+    "award_critical": null,
+    "award_high": null,
+    "award_medium": null,
+    "award_low": null,
+    "created_at": "2021-07-26T10:31:02.373Z",
+    "overview": "## Guidelines\n\nTo encourage vulnerability research and to avoid any confusion between legitimate research and malicious attack, we ask that you attempt, in good faith, to:\n\n* **Play by the rules.** Adhere to this policy and any other relevant agreements, e.g., Terms of Service;\n* Report any vulnerability you’ve discovered promptly;\n* Avoid violating the privacy of others, disrupting our systems, destroying data, and/or harming user experience;\n* Use only the Official Channels to discuss vulnerability information with us;\n* Handle the confidentiality of details of any discovered vulnerabilities according to our Disclosure Policy;\n* Perform testing only on in-scope systems, and respect systems and activities which are out-of-scope;\n* If a vulnerability provides unintended access to user data, such as Personally Identifiable Information (PII), Personal Healthcare Information (PHI), credit card data, or proprietary information: Cease testing and submit a report immediately;\n* Only interact with accounts you own unless given explicit permission by the account holder;\n* Do not engage in extortion.\n* Be clear and succinct—a short proof-of-concept link is invaluable;\n* Never attempt non-technical attacks—such as social engineering, phishing, or physical attacks—against our employees, users, or infrastructure; and\n* Do not view, alter, save, store, transfer, or otherwise access our data or the data of our users without explicit permission.\n\nWe may modify the terms or terminate this program at any time.\n\n## Safe Harbor\n\nWhen conducting vulnerability research according to this policy, we consider the research conducted under this policy to be:\n\n* Authorized in view of any applicable anti-hacking laws, and we will not initiate or support legal action against you for accidental, good faith violations of this policy;\n* Authorized in view of relevant anti-circumvention laws, and we will not bring a claim against you for circumvention of technology controls;\n* Exempt from restrictions in our Acceptable Usage Policy that would interfere with conducting security research, and we waive those restrictions on a limited basis; and\n* Lawful, helpful to the overall security of the Internet, and conducted in good faith.\n\nYou are expected, as always, to comply with all applicable laws. If legal action is initiated by a third party against you, and you have complied with this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.\n\nIf at any time you have concerns or are uncertain whether your security research is consistent with this policy, please submit a report before going any further.",
+    "targets": {
+      "in_scope": [
+        {
+          "type": "api",
+          "target": "slack.getofficely.com",
+          "id": "bed4ca9c-7c33-40e9-9833-f6f4285f43a3",
+          "identifier": "slack.getofficely.com",
+          "scope_type": "api",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "69a23fad-f46d-4de9-88eb-8d7a0aff6a4c"
+        },
+        {
+          "type": "website",
+          "target": "app.getofficely.com",
+          "id": "69a28309-a7a6-4659-8fca-78c873790438",
+          "identifier": "app.getofficely.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "69a23fad-f46d-4de9-88eb-8d7a0aff6a4c"
+        }
+      ],
+      "out_of_scope": []
+    },
+    "last_updated": "2026-02-01T07:53:59.488Z"
+  },
+  {
+    "platform": "federacy",
+    "name": "eqtble",
+    "url": "https://www.federacy.com/eqtble",
+    "id": "f7499878-7561-4d21-ac85-176ca797d5b1",
+    "program_name": "eqtble",
+    "slug": "eqtble",
+    "company": "",
+    "website": null,
+    "tagline": "",
+    "public": true,
+    "managed": false,
+    "assessment": false,
+    "award_critical": null,
+    "award_high": null,
+    "award_medium": null,
+    "award_low": null,
+    "created_at": "2021-08-18T19:55:45.141Z",
+    "overview": "## Guidelines\n\nTo encourage vulnerability research and to avoid any confusion between legitimate research and malicious attack, we ask that you attempt, in good faith, to:\n\n* **Play by the rules.** Adhere to this policy and any other relevant agreements, e.g., Terms of Service;\n* Report any vulnerability you’ve discovered promptly;\n* Avoid violating the privacy of others, disrupting our systems, destroying data, and/or harming user experience;\n* Use only the Official Channels to discuss vulnerability information with us;\n* Handle the confidentiality of details of any discovered vulnerabilities according to our Disclosure Policy;\n* Perform testing only on in-scope systems, and respect systems and activities which are out-of-scope;\n* If a vulnerability provides unintended access to user data, such as Personally Identifiable Information (PII), Personal Healthcare Information (PHI), credit card data, or proprietary information: Cease testing and submit a report immediately;\n* Only interact with accounts you own unless given explicit permission by the account holder;\n* Do not engage in extortion.\n* Be clear and succinct—a short proof-of-concept link is invaluable;\n* Never attempt non-technical attacks—such as social engineering, phishing, or physical attacks—against our employees, users, or infrastructure; and\n* Do not view, alter, save, store, transfer, or otherwise access our data or the data of our users without explicit permission.\n\nWe may modify the terms or terminate this program at any time.\n\n## Safe Harbor\n\nWhen conducting vulnerability research according to this policy, we consider the research conducted under this policy to be:\n\n* Authorized in view of any applicable anti-hacking laws, and we will not initiate or support legal action against you for accidental, good faith violations of this policy;\n* Authorized in view of relevant anti-circumvention laws, and we will not bring a claim against you for circumvention of technology controls;\n* Exempt from restrictions in our Acceptable Usage Policy that would interfere with conducting security research, and we waive those restrictions on a limited basis; and\n* Lawful, helpful to the overall security of the Internet, and conducted in good faith.\n\nYou are expected, as always, to comply with all applicable laws. If legal action is initiated by a third party against you, and you have complied with this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.\n\nIf at any time you have concerns or are uncertain whether your security research is consistent with this policy, please submit a report before going any further.",
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "app.eqtble.com",
+          "id": "fb131074-eae1-4845-afd6-7eded5e24d42",
+          "identifier": "app.eqtble.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "f7499878-7561-4d21-ac85-176ca797d5b1"
+        },
+        {
+          "type": "api",
+          "target": "api.eqtble.com",
+          "id": "de883511-2a31-4702-9afb-405c7311a606",
+          "identifier": "api.eqtble.com",
+          "scope_type": "api",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "f7499878-7561-4d21-ac85-176ca797d5b1"
+        }
+      ],
+      "out_of_scope": []
+    },
+    "last_updated": "2026-02-01T07:53:59.488Z"
+  },
+  {
+    "platform": "federacy",
+    "name": "Recidiviz",
+    "url": "https://www.federacy.com/recidiviz",
+    "id": "b232acf2-a28c-45cd-a47c-8d6b866d4114",
+    "program_name": "Recidiviz",
+    "slug": "recidiviz",
+    "company": "",
+    "website": null,
+    "tagline": "",
+    "public": true,
+    "managed": false,
+    "assessment": false,
+    "award_critical": null,
+    "award_high": null,
+    "award_medium": null,
+    "award_low": null,
+    "created_at": "2021-10-01T16:33:58.577Z",
+    "overview": "## Guidelines\n\nTo encourage vulnerability research and to avoid any confusion between legitimate research and malicious attack, we ask that you attempt, in good faith, to:\n\n\n- **Play by the rules**, including following this policy and any other relevant agreements. If there is any inconsistency between this policy and any other applicable terms, the terms of this policy will prevail;\n- Report any vulnerability you’ve discovered promptly;\n- Avoid violating the privacy of others, disrupting our systems, destroying data, and/or harming user experience;\n- Use only the Official Channels to discuss vulnerability information with us;\n- Provide us a reasonable amount of time (at least 90 days from the initial report) to resolve the issue before you disclose it to others outside of Recidiviz;\n- Perform testing only on in-scope systems, and respect systems and activities which are out-of-scope;\n- If a vulnerability provides unintended access to data: Limit the amount of data you access to the minimum required for effectively demonstrating a Proof of Concept; cease testing and submit a report immediately if you encounter any user data during testing, such as Personally Identifiable Information (PII), Criminal Justice Information (CJI), Personal Healthcare Information (PHI), credit card data, or proprietary information; and ensure that all data you have accessed is securely deleted from any system used in discovering the vulnerability.\n- You should only interact with test accounts you own or with explicit permission from the account holder; and\n- Do not engage in extortion, threats, or other bad-faith activities.\n\nWe may modify the terms or terminate this program at any time.\n\n## Safe Harbor\n\nWhen conducting vulnerability research, according to this policy, we consider this research conducted under this policy to be:\n\n- Authorized concerning any applicable anti-hacking laws, and we will not initiate or support legal action against you for accidental, good-faith violations of this policy;\n- Authorized concerning any relevant anti-circumvention laws, and we will not bring a claim against you for circumvention of technology controls;\n- Exempt from restrictions in our Terms of Service (TOS) and/or Acceptable Usage Policy (AUP) that would interfere with conducting security research, and we waive those restrictions on a limited basis; and\n- Lawful, helpful to the overall security of the Internet, and conducted in good faith.\n\nYou are expected, as always, to comply with all applicable laws. If legal action is initiated by a third party against you and you have complied with this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.\n\nIf at any time you have concerns or are uncertain whether your security research is consistent with this policy, please submit a report through one of our Official Channels before going any further.\n",
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "https://dashboard-demo.recidiviz.org/",
+          "id": "5821dfce-057e-4ecc-b1aa-670737aa26c9",
+          "identifier": "https://dashboard-demo.recidiviz.org/",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "b232acf2-a28c-45cd-a47c-8d6b866d4114"
+        },
+        {
+          "type": "website",
+          "target": "http://app-staging.recidiviz.org/",
+          "id": "416fb27f-a82a-473f-beb4-36f34ee354f0",
+          "identifier": "http://app-staging.recidiviz.org/",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "b232acf2-a28c-45cd-a47c-8d6b866d4114"
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "website",
+          "target": "https://dashboard.recidiviz.org/",
+          "id": "4f824255-f7b8-4fc9-86a9-d1b8d2860c10",
+          "identifier": "https://dashboard.recidiviz.org/",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "b232acf2-a28c-45cd-a47c-8d6b866d4114"
+        },
+        {
+          "type": "website",
+          "target": "https://app.recidiviz.org/",
+          "id": "54f3b6da-52c6-4929-852b-c34c289adf93",
+          "identifier": "https://app.recidiviz.org/",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "b232acf2-a28c-45cd-a47c-8d6b866d4114"
+        },
+        {
+          "type": "website",
+          "target": "https://www.recidiviz.org/",
+          "id": "e6174d91-1a85-4615-b5d8-241c9eef1d63",
+          "identifier": "https://www.recidiviz.org/",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "b232acf2-a28c-45cd-a47c-8d6b866d4114"
+        }
+      ]
+    },
+    "last_updated": "2026-02-01T07:53:59.488Z"
+  },
+  {
+    "platform": "federacy",
+    "name": "Nelogica",
+    "url": "https://www.federacy.com/nelogica",
+    "id": "7d159fd8-e2f8-4339-a2f4-cb3ebebecb9b",
+    "program_name": "Nelogica",
+    "slug": "nelogica",
+    "company": "",
+    "website": null,
+    "tagline": "NELOGICA WORKS WITH ADVANCED TOOLS FOR HIGH PERFORMANCE TRADING.",
+    "public": true,
+    "managed": false,
+    "assessment": false,
+    "award_critical": null,
+    "award_high": null,
+    "award_medium": null,
+    "award_low": null,
+    "created_at": "2021-12-08T13:20:10.629Z",
+    "overview": "## Guidelines\n\nWe require that all researchers:\n\nMake every effort to avoid privacy violations, degradation of user experience, disruption to production systems, and destruction of data during security testing. Only interact with accounts you own or with the explicit permission of the account holder.\n\nPerform research only within the scope set out below.\nUse the identified communication channels to report vulnerability information to us.\nKeep information about any vulnerabilities you have discovered confidential between yourself and Vertex.\n\nDisclosure of any discovered vulnerabilities is not allowed, this is a private program and any publication is prohibited, which may result in legal persecution. For example, you are not allowed to disclose to the public on your blog (or any other media) about your findings, regardless of how long it has been since the discovery or whether the vulnerability has been fixed or not.\n\nIf you follow these guidelines when reporting an issue to us, we commit to:\n\nNot pursue or support any legal action related to your research (aka \"Safe Harbor\")\nWork with you to understand and resolve the issue quickly (including an initial confirmation of your report within 72 hours of submission)\n\n## Safe Harbor\n\nWhen conducting vulnerability research according to this policy, we consider the research conducted under this policy to be:\n\n* Authorized in view of any applicable anti-hacking laws, and we will not initiate or support legal action against you for accidental, good faith violations of this policy;\n* Authorized in view of relevant anti-circumvention laws, and we will not bring a claim against you for circumvention of technology controls;\n* Exempt from restrictions in our Acceptable Usage Policy that would interfere with conducting security research, and we waive those restrictions on a limited basis; and\n* Lawful, helpful to the overall security of the Internet, and conducted in good faith.\n\nYou are expected, as always, to comply with all applicable laws. If legal action is initiated by a third party against you, and you have complied with this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.\n\nIf at any time you have concerns or are uncertain whether your security research is consistent with this policy, please submit a report before going any further.",
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "https://www.nelogica.com.br",
+          "id": "ce228922-5dab-4a0b-a9ed-c866ff416984",
+          "identifier": "https://www.nelogica.com.br",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "7d159fd8-e2f8-4339-a2f4-cb3ebebecb9b"
+        },
+        {
+          "type": "api",
+          "target": "https://gateway.nelogica.com.br",
+          "id": "dde92c73-efdb-43e3-ad0c-57914378cb3f",
+          "identifier": "https://gateway.nelogica.com.br",
+          "scope_type": "api",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "7d159fd8-e2f8-4339-a2f4-cb3ebebecb9b"
+        },
+        {
+          "type": "other",
+          "target": "https://apps.apple.com/br/app/profit-mobile/id1163760725",
+          "id": "1f7bb5fc-a8bb-4a90-8d26-3c1a4e0b6dcb",
+          "identifier": "https://apps.apple.com/br/app/profit-mobile/id1163760725",
+          "scope_type": "mobile",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "7d159fd8-e2f8-4339-a2f4-cb3ebebecb9b"
+        },
+        {
+          "type": "website",
+          "target": "https://hb-homolog.nelogica.com.br/vdp/",
+          "id": "5915eb8a-01f1-44e2-9e81-2200545f62fb",
+          "identifier": "https://hb-homolog.nelogica.com.br/vdp/",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "7d159fd8-e2f8-4339-a2f4-cb3ebebecb9b"
+        },
+        {
+          "type": "other",
+          "target": "https://www.nelogica.com.br/produtos/bin/profitchart/Profit.exe",
+          "id": "7222f15e-a57a-44d4-a50b-0c2922f2660e",
+          "identifier": "https://www.nelogica.com.br/produtos/bin/profitchart/Profit.exe",
+          "scope_type": "desktop",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "7d159fd8-e2f8-4339-a2f4-cb3ebebecb9b"
+        },
+        {
+          "type": "other",
+          "target": "https://play.google.com/store/apps/details?id=profitchartandroid.nelogica.com.profitchartandroid",
+          "id": "e4f21e74-7538-403f-8ebb-edf63756dcc7",
+          "identifier": "https://play.google.com/store/apps/details?id=profitchartandroid.nelogica.com.profitchartandroid",
+          "scope_type": "mobile",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "7d159fd8-e2f8-4339-a2f4-cb3ebebecb9b"
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "website",
+          "target": "*.nelogica.com.br",
+          "id": "57b9cc2a-a6db-43f2-948c-dd6d73d9b769",
+          "identifier": "*.nelogica.com.br",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "7d159fd8-e2f8-4339-a2f4-cb3ebebecb9b"
+        },
+        {
+          "type": "website",
+          "target": "*.nelogica.com",
+          "id": "5b0609e5-dc01-40f1-8465-385319a86cfe",
+          "identifier": "*.nelogica.com",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "7d159fd8-e2f8-4339-a2f4-cb3ebebecb9b"
+        }
+      ]
+    },
+    "last_updated": "2026-02-01T07:53:59.488Z"
+  },
+  {
+    "platform": "federacy",
+    "name": "MobileAction",
+    "url": "https://www.federacy.com/mobileaction",
+    "id": "f2e89926-609b-4e5d-9224-9c8a4fff2190",
+    "program_name": "MobileAction",
+    "slug": "mobileaction",
+    "company": "",
+    "website": null,
+    "tagline": "Mobile Action is the leading ASO and app marketing tool.",
+    "public": true,
+    "managed": false,
+    "assessment": false,
+    "award_critical": null,
+    "award_high": null,
+    "award_medium": null,
+    "award_low": null,
+    "created_at": "2021-12-20T13:42:01.326Z",
+    "overview": "## Guidelines\n\nTo encourage vulnerability research and to avoid any confusion between legitimate research and malicious attack, we ask that you attempt, in good faith, to:\n\n* **Play by the rules.** Adhere to this policy and any other relevant agreements, e.g., Terms of Service;\n* Report any vulnerability you’ve discovered promptly;\n* Avoid violating the privacy of others, disrupting our systems, destroying data, and/or harming user experience;\n* Use only the Official Channels to discuss vulnerability information with us;\n* Handle the confidentiality of details of any discovered vulnerabilities according to our Disclosure Policy;\n* Perform testing only on in-scope systems, and respect systems and activities which are out-of-scope;\n* If a vulnerability provides unintended access to user data, such as Personally Identifiable Information (PII), Personal Healthcare Information (PHI), credit card data, or proprietary information: Cease testing and submit a report immediately;\n* Only interact with accounts you own unless given explicit permission by the account holder;\n* Do not engage in extortion.\n* Be clear and succinct—a short proof-of-concept link is invaluable;\n* Never attempt non-technical attacks—such as social engineering, phishing, or physical attacks—against our employees, users, or infrastructure; and\n* Do not view, alter, save, store, transfer, or otherwise access our data or the data of our users without explicit permission.\n\nWe may modify the terms or terminate this program at any time.\n\n## Safe Harbor\n\nWhen conducting vulnerability research according to this policy, we consider the research conducted under this policy to be:\n\n* Authorized in view of any applicable anti-hacking laws, and we will not initiate or support legal action against you for accidental, good faith violations of this policy;\n* Authorized in view of relevant anti-circumvention laws, and we will not bring a claim against you for circumvention of technology controls;\n* Exempt from restrictions in our Acceptable Usage Policy that would interfere with conducting security research, and we waive those restrictions on a limited basis; and\n* Lawful, helpful to the overall security of the Internet, and conducted in good faith.\n\nYou are expected, as always, to comply with all applicable laws. If legal action is initiated by a third party against you, and you have complied with this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.\n\nIf at any time you have concerns or are uncertain whether your security research is consistent with this policy, please submit a report before going any further.",
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "mobileaction.co",
+          "id": "ae756d1f-d787-4784-b738-b0cb0b7bb656",
+          "identifier": "mobileaction.co",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "f2e89926-609b-4e5d-9224-9c8a4fff2190"
+        },
+        {
+          "type": "website",
+          "target": "insights.searchads.com",
+          "id": "65b4c8b3-e1b0-41e8-9830-2c26de9859ec",
+          "identifier": "insights.searchads.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "f2e89926-609b-4e5d-9224-9c8a4fff2190"
+        },
+        {
+          "type": "website",
+          "target": "insights.mobileaction.co",
+          "id": "d664ee90-0139-4bbf-85d0-eed25e3b7a64",
+          "identifier": "insights.mobileaction.co",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "f2e89926-609b-4e5d-9224-9c8a4fff2190"
+        },
+        {
+          "type": "website",
+          "target": "searchads.com",
+          "id": "d789ba0c-3c3b-49a7-b5f0-db908c9358b0",
+          "identifier": "searchads.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "f2e89926-609b-4e5d-9224-9c8a4fff2190"
+        },
+        {
+          "type": "api",
+          "target": "api.mobileaction.co",
+          "id": "39b52c5a-a7b3-4235-ae61-4839b8c979ae",
+          "identifier": "api.mobileaction.co",
+          "scope_type": "api",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "f2e89926-609b-4e5d-9224-9c8a4fff2190"
+        },
+        {
+          "type": "api",
+          "target": "gateway.mobileaction.co",
+          "id": "baf70ee8-14dc-4e5e-ae3c-b6feb6e3f10e",
+          "identifier": "gateway.mobileaction.co",
+          "scope_type": "api",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "f2e89926-609b-4e5d-9224-9c8a4fff2190"
+        }
+      ],
+      "out_of_scope": []
+    },
+    "last_updated": "2026-02-01T07:53:59.488Z"
+  },
+  {
+    "platform": "federacy",
+    "name": "okteto",
+    "url": "https://www.federacy.com/okteto",
+    "id": "5ce7ecf6-a0a2-4afd-b1c3-d0e54a5d30e5",
+    "program_name": "okteto",
+    "slug": "okteto",
+    "company": "",
+    "website": null,
+    "tagline": " Remote development environments, powered by Kubernetes",
+    "public": true,
+    "managed": false,
+    "assessment": false,
+    "award_critical": null,
+    "award_high": null,
+    "award_medium": null,
+    "award_low": null,
+    "created_at": "2022-01-04T00:03:40.139Z",
+    "overview": "## Guidelines\n\nTo encourage vulnerability research and to avoid any confusion between legitimate research and malicious attack, we ask that you attempt, in good faith, to:\n\n* **Play by the rules.** Adhere to this policy and any other relevant agreements, e.g., Terms of Service;\n* Report any vulnerability you’ve discovered promptly;\n* Avoid violating the privacy of others, disrupting our systems, destroying data, and/or harming user experience;\n* Use only the Official Channels to discuss vulnerability information with us;\n* Handle the confidentiality of details of any discovered vulnerabilities according to our Disclosure Policy;\n* Perform testing only on in-scope systems, and respect systems and activities which are out-of-scope;\n* If a vulnerability provides unintended access to user data, such as Personally Identifiable Information (PII), Personal Healthcare Information (PHI), credit card data, or proprietary information: Cease testing and submit a report immediately;\n* Only interact with accounts you own unless given explicit permission by the account holder;\n* Do not engage in extortion.\n* Be clear and succinct—a short proof-of-concept link is invaluable;\n* Never attempt non-technical attacks—such as social engineering, phishing, or physical attacks—against our employees, users, or infrastructure; and\n* Do not view, alter, save, store, transfer, or otherwise access our data or the data of our users without explicit permission.\n\nWe may modify the terms or terminate this program at any time.\n\n## Safe Harbor\n\nWhen conducting vulnerability research according to this policy, we consider the research conducted under this policy to be:\n\n* Authorized in view of any applicable anti-hacking laws, and we will not initiate or support legal action against you for accidental, good faith violations of this policy;\n* Authorized in view of relevant anti-circumvention laws, and we will not bring a claim against you for circumvention of technology controls;\n* Exempt from restrictions in our Acceptable Usage Policy that would interfere with conducting security research, and we waive those restrictions on a limited basis; and\n* Lawful, helpful to the overall security of the Internet, and conducted in good faith.\n\nYou are expected, as always, to comply with all applicable laws. If legal action is initiated by a third party against you, and you have complied with this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.\n\nIf at any time you have concerns or are uncertain whether your security research is consistent with this policy, please submit a report before going any further.",
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "https://okteto.com",
+          "id": "bddfa354-7157-4ea8-8361-9c3bde53e671",
+          "identifier": "https://okteto.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "5ce7ecf6-a0a2-4afd-b1c3-d0e54a5d30e5"
+        }
+      ],
+      "out_of_scope": []
+    },
+    "last_updated": "2026-02-01T07:53:59.488Z"
+  },
+  {
+    "platform": "federacy",
+    "name": "cooper",
+    "url": "https://www.federacy.com/cooper",
+    "id": "fb6cc44a-b2da-426b-90e1-18efacfdccc2",
+    "program_name": "cooper",
+    "slug": "cooper",
+    "company": "",
+    "website": null,
+    "tagline": "Cooper's Disclosure Program",
+    "public": true,
+    "managed": false,
+    "assessment": false,
+    "award_critical": null,
+    "award_high": null,
+    "award_medium": null,
+    "award_low": null,
+    "created_at": "2022-06-07T17:09:32.711Z",
+    "overview": "## Guidelines\n\nTo encourage vulnerability research and to avoid any confusion between legitimate research and malicious attack, we ask that you attempt, in good faith, to:\n\n* **Play by the rules.** Adhere to this policy and any other relevant agreements, e.g., Terms of Service;\n* Report any vulnerability you’ve discovered promptly;\n* Avoid violating the privacy of others, disrupting our systems, destroying data, and/or harming user experience;\n* Use only the Official Channels to discuss vulnerability information with us;\n* Handle the confidentiality of details of any discovered vulnerabilities according to our Disclosure Policy;\n* Perform testing only on in-scope systems, and respect systems and activities which are out-of-scope;\n* If a vulnerability provides unintended access to user data, such as Personally Identifiable Information (PII), Personal Healthcare Information (PHI), credit card data, or proprietary information: Cease testing and submit a report immediately;\n* Only interact with accounts you own unless given explicit permission by the account holder;\n* Do not engage in extortion.\n* Be clear and succinct—a short proof-of-concept link is invaluable;\n* Never attempt non-technical attacks—such as social engineering, phishing, or physical attacks—against our employees, users, or infrastructure; and\n* Do not view, alter, save, store, transfer, or otherwise access our data or the data of our users without explicit permission.\n\nWe may modify the terms or terminate this program at any time.\n\n## Safe Harbor\n\nWhen conducting vulnerability research according to this policy, we consider the research conducted under this policy to be:\n\n* Authorized in view of any applicable anti-hacking laws, and we will not initiate or support legal action against you for accidental, good faith violations of this policy;\n* Authorized in view of relevant anti-circumvention laws, and we will not bring a claim against you for circumvention of technology controls;\n* Exempt from restrictions in our Acceptable Usage Policy that would interfere with conducting security research, and we waive those restrictions on a limited basis; and\n* Lawful, helpful to the overall security of the Internet, and conducted in good faith.\n\nYou are expected, as always, to comply with all applicable laws. If legal action is initiated by a third party against you, and you have complied with this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.\n\nIf at any time you have concerns or are uncertain whether your security research is consistent with this policy, please submit a report before going any further.",
+    "targets": {
+      "in_scope": [
+        {
+          "type": "api",
+          "target": "api.cooper.chat",
+          "id": "9d8f049b-4097-4784-b67c-79e7789e85eb",
+          "identifier": "api.cooper.chat",
+          "scope_type": "api",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "fb6cc44a-b2da-426b-90e1-18efacfdccc2"
+        },
+        {
+          "type": "other",
+          "target": "chat.cooper.app",
+          "id": "ad7b43b0-dd6a-44f5-91af-b7364a40d900",
+          "identifier": "chat.cooper.app",
+          "scope_type": "mobile",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "fb6cc44a-b2da-426b-90e1-18efacfdccc2"
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "website",
+          "target": "https://cooper.chat",
+          "id": "e85e2441-a20b-4192-9132-310ce53adf2b",
+          "identifier": "https://cooper.chat",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "fb6cc44a-b2da-426b-90e1-18efacfdccc2"
+        }
+      ]
+    },
+    "last_updated": "2026-02-01T07:53:59.488Z"
+  },
+  {
+    "platform": "federacy",
+    "name": "Nucla",
+    "url": "https://www.federacy.com/nucla",
+    "id": "cfc7f4ed-5602-4f4a-b60e-86a02f228c34",
+    "program_name": "Nucla",
+    "slug": "nucla",
+    "company": "",
+    "website": null,
+    "tagline": "",
+    "public": true,
+    "managed": false,
+    "assessment": false,
+    "award_critical": null,
+    "award_high": null,
+    "award_medium": null,
+    "award_low": null,
+    "created_at": "2022-07-06T15:05:18.862Z",
+    "overview": "## Guidelines\n\nTo encourage vulnerability research and to avoid any confusion between legitimate research and malicious attack, we ask that you attempt, in good faith, to:\n\n* **Play by the rules.** Adhere to this policy and any other relevant agreements, e.g., Terms of Service;\n* Report any vulnerability you’ve discovered promptly;\n* Avoid violating the privacy of others, disrupting our systems, destroying data, and/or harming user experience;\n* Use only the Official Channels to discuss vulnerability information with us;\n* Handle the confidentiality of details of any discovered vulnerabilities according to our Disclosure Policy;\n* Perform testing only on in-scope systems, and respect systems and activities which are out-of-scope;\n* If a vulnerability provides unintended access to user data, such as Personally Identifiable Information (PII), Personal Healthcare Information (PHI), credit card data, or proprietary information: Cease testing and submit a report immediately;\n* Only interact with accounts you own unless given explicit permission by the account holder;\n* Do not engage in extortion.\n* Be clear and succinct—a short proof-of-concept link is invaluable;\n* Never attempt non-technical attacks—such as social engineering, phishing, or physical attacks—against our employees, users, or infrastructure; and\n* Do not view, alter, save, store, transfer, or otherwise access our data or the data of our users without explicit permission.\n\nWe may modify the terms or terminate this program at any time.\n\n## Safe Harbor\n\nWhen conducting vulnerability research according to this policy, we consider the research conducted under this policy to be:\n\n* Authorized in view of any applicable anti-hacking laws, and we will not initiate or support legal action against you for accidental, good faith violations of this policy;\n* Authorized in view of relevant anti-circumvention laws, and we will not bring a claim against you for circumvention of technology controls;\n* Exempt from restrictions in our Acceptable Usage Policy that would interfere with conducting security research, and we waive those restrictions on a limited basis; and\n* Lawful, helpful to the overall security of the Internet, and conducted in good faith.\n\nYou are expected, as always, to comply with all applicable laws. If legal action is initiated by a third party against you, and you have complied with this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.\n\nIf at any time you have concerns or are uncertain whether your security research is consistent with this policy, please submit a report before going any further.",
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "app.kitesrm.com",
+          "id": "04cd84d6-808e-4028-b50b-c5b098be2720",
+          "identifier": "app.kitesrm.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "cfc7f4ed-5602-4f4a-b60e-86a02f228c34"
+        },
+        {
+          "type": "api",
+          "target": "api.kitesrm.com",
+          "id": "c372142f-a888-4c1a-b07c-dd9a6d4a00bd",
+          "identifier": "api.kitesrm.com",
+          "scope_type": "api",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "cfc7f4ed-5602-4f4a-b60e-86a02f228c34"
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "website",
+          "target": "*.nucla.com",
+          "id": "2a3a26dd-ca00-49d3-b416-11513acf5724",
+          "identifier": "*.nucla.com",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "cfc7f4ed-5602-4f4a-b60e-86a02f228c34"
+        }
+      ]
+    },
+    "last_updated": "2026-02-01T07:53:59.488Z"
+  },
+  {
+    "platform": "federacy",
+    "name": "Prevu3D",
+    "url": "https://www.federacy.com/prevu3d",
+    "id": "64c97139-be64-4daf-a5ed-b1da79489ac1",
+    "program_name": "Prevu3D",
+    "slug": "prevu3d",
+    "company": "",
+    "website": null,
+    "tagline": "Responsible vulnerability disclosure for the Prevu3D SaaS platform",
+    "public": true,
+    "managed": false,
+    "assessment": false,
+    "award_critical": null,
+    "award_high": null,
+    "award_medium": null,
+    "award_low": null,
+    "created_at": "2022-07-06T17:52:14.661Z",
+    "overview": "## Guidelines\n\nTo encourage vulnerability research and to avoid any confusion between legitimate research and malicious attack, we ask that you attempt, in good faith, to:\n\n* **Play by the rules.** Adhere to this policy and any other relevant agreements, e.g., Terms of Service;\n* Report any vulnerability you’ve discovered promptly;\n* Avoid violating the privacy of others, disrupting our systems, destroying data, and/or harming user experience;\n* Use only the Official Channels to discuss vulnerability information with us;\n* Handle the confidentiality of details of any discovered vulnerabilities according to our Disclosure Policy;\n* Perform testing only on in-scope systems, and respect systems and activities which are out-of-scope;\n* If a vulnerability provides unintended access to user data, such as Personally Identifiable Information (PII), Personal Healthcare Information (PHI), credit card data, or proprietary information: Cease testing and submit a report immediately;\n* Only interact with accounts you own unless given explicit permission by the account holder;\n* Do not engage in extortion.\n* Be clear and succinct—a short proof-of-concept link is invaluable;\n* Never attempt non-technical attacks—such as social engineering, phishing, or physical attacks—against our employees, users, or infrastructure; and\n* Do not view, alter, save, store, transfer, or otherwise access our data or the data of our users without explicit permission.\n\nWe may modify the terms or terminate this program at any time.\n\n## Safe Harbor\n\nWhen conducting vulnerability research according to this policy, we consider the research conducted under this policy to be:\n\n* Authorized in view of any applicable anti-hacking laws, and we will not initiate or support legal action against you for accidental, good faith violations of this policy;\n* Authorized in view of relevant anti-circumvention laws, and we will not bring a claim against you for circumvention of technology controls;\n* Exempt from restrictions in our Acceptable Usage Policy that would interfere with conducting security research, and we waive those restrictions on a limited basis; and\n* Lawful, helpful to the overall security of the Internet, and conducted in good faith.\n\nYou are expected, as always, to comply with all applicable laws. If legal action is initiated by a third party against you, and you have complied with this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.\n\nIf at any time you have concerns or are uncertain whether your security research is consistent with this policy, please submit a report before going any further.",
+    "targets": {
+      "in_scope": [
+        {
+          "type": "api",
+          "target": "cloud-api.prevu3d.com",
+          "id": "bb6ed07d-2319-4683-a705-084af192b6af",
+          "identifier": "cloud-api.prevu3d.com",
+          "scope_type": "api",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "64c97139-be64-4daf-a5ed-b1da79489ac1"
+        },
+        {
+          "type": "website",
+          "target": "prevu3d.com",
+          "id": "c80d72d7-3f05-4eed-b796-168c3927014c",
+          "identifier": "prevu3d.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "64c97139-be64-4daf-a5ed-b1da79489ac1"
+        },
+        {
+          "type": "website",
+          "target": "cloud.prevu3d.com",
+          "id": "7e23e08a-09b0-417a-81fa-66ffc85901ac",
+          "identifier": "cloud.prevu3d.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "64c97139-be64-4daf-a5ed-b1da79489ac1"
+        },
+        {
+          "type": "website",
+          "target": "embed.prevu3d.com",
+          "id": "344bef71-9473-4a2f-a9a1-32f3f5a043f9",
+          "identifier": "embed.prevu3d.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "64c97139-be64-4daf-a5ed-b1da79489ac1"
+        },
+        {
+          "type": "website",
+          "target": "assets-cloud.prevu3d.com",
+          "id": "ce97e111-7d55-4cd5-85f2-b7df07b3a198",
+          "identifier": "assets-cloud.prevu3d.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "64c97139-be64-4daf-a5ed-b1da79489ac1"
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "website",
+          "target": "*.prevu3d-int.com",
+          "id": "4117168e-7480-4587-84e3-f1c400da9256",
+          "identifier": "*.prevu3d-int.com",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "64c97139-be64-4daf-a5ed-b1da79489ac1"
+        }
+      ]
+    },
+    "last_updated": "2026-02-01T07:53:59.488Z"
+  },
+  {
+    "platform": "federacy",
+    "name": "Rally",
+    "url": "https://www.federacy.com/rally",
+    "id": "8cda7b00-2818-463c-ae27-c23e9c0e2e7c",
+    "program_name": "Rally",
+    "slug": "rally",
+    "company": "",
+    "website": null,
+    "tagline": "",
+    "public": true,
+    "managed": false,
+    "assessment": false,
+    "award_critical": null,
+    "award_high": null,
+    "award_medium": null,
+    "award_low": null,
+    "created_at": "2022-11-03T01:38:55.827Z",
+    "overview": "## Guidelines\n\nTo encourage vulnerability research and to avoid any confusion between legitimate research and malicious attack, we ask that you attempt, in good faith, to:\n\n* **Play by the rules.** Adhere to this policy and any other relevant agreements, e.g., Terms of Service;\n* Report any vulnerability you’ve discovered promptly;\n* Avoid violating the privacy of others, disrupting our systems, destroying data, and/or harming user experience;\n* Use only the Official Channels to discuss vulnerability information with us;\n* Handle the confidentiality of details of any discovered vulnerabilities according to our Disclosure Policy;\n* Perform testing only on in-scope systems, and respect systems and activities which are out-of-scope;\n* If a vulnerability provides unintended access to user data, such as Personally Identifiable Information (PII), Personal Healthcare Information (PHI), credit card data, or proprietary information: Cease testing and submit a report immediately;\n* Only interact with accounts you own unless given explicit permission by the account holder;\n* Do not engage in extortion.\n* Be clear and succinct—a short proof-of-concept link is invaluable;\n* Never attempt non-technical attacks—such as social engineering, phishing, or physical attacks—against our employees, users, or infrastructure; and\n* Do not view, alter, save, store, transfer, or otherwise access our data or the data of our users without explicit permission.\n\nWe may modify the terms or terminate this program at any time.\n\n## Safe Harbor\n\nWhen conducting vulnerability research according to this policy, we consider the research conducted under this policy to be:\n\n* Authorized in view of any applicable anti-hacking laws, and we will not initiate or support legal action against you for accidental, good faith violations of this policy;\n* Authorized in view of relevant anti-circumvention laws, and we will not bring a claim against you for circumvention of technology controls;\n* Exempt from restrictions in our Acceptable Usage Policy that would interfere with conducting security research, and we waive those restrictions on a limited basis; and\n* Lawful, helpful to the overall security of the Internet, and conducted in good faith.\n\nYou are expected, as always, to comply with all applicable laws. If legal action is initiated by a third party against you, and you have complied with this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.\n\nIf at any time you have concerns or are uncertain whether your security research is consistent with this policy, please submit a report before going any further.",
+    "targets": {
+      "in_scope": [
+        {
+          "type": "api",
+          "target": "api.rallyuxr.com/graphql",
+          "id": "9f945669-f79e-4475-ad7a-5714972d9b63",
+          "identifier": "api.rallyuxr.com/graphql",
+          "scope_type": "api",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "8cda7b00-2818-463c-ae27-c23e9c0e2e7c"
+        },
+        {
+          "type": "website",
+          "target": "app.rallyuxr.com",
+          "id": "d368152d-3cb5-4b8a-ae1f-3da1bf6ab04e",
+          "identifier": "app.rallyuxr.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "8cda7b00-2818-463c-ae27-c23e9c0e2e7c"
+        }
+      ],
+      "out_of_scope": []
+    },
+    "last_updated": "2026-02-01T07:53:59.488Z"
+  },
+  {
+    "platform": "federacy",
+    "name": "OneStepGPS",
+    "url": "https://www.federacy.com/onestepgps",
+    "id": "2871f743-1cc9-4210-bf37-e2d82e83a5f9",
+    "program_name": "OneStepGPS",
+    "slug": "onestepgps",
+    "company": "",
+    "website": null,
+    "tagline": "",
+    "public": true,
+    "managed": false,
+    "assessment": false,
+    "award_critical": null,
+    "award_high": null,
+    "award_medium": null,
+    "award_low": null,
+    "created_at": "2022-12-08T23:40:20.653Z",
+    "overview": "## Guidelines\n\nTo encourage vulnerability research and to avoid any confusion between legitimate research and malicious attack, we ask that you attempt, in good faith, to:\n\n* **Play by the rules.** Adhere to this policy and any other relevant agreements, e.g., Terms of Service;\n* Report any vulnerability you’ve discovered promptly;\n* Avoid violating the privacy of others, disrupting our systems, destroying data, and/or harming user experience;\n* Use only the Official Channels to discuss vulnerability information with us;\n* Handle the confidentiality of details of any discovered vulnerabilities according to our Disclosure Policy;\n* Perform testing only on in-scope systems, and respect systems and activities which are out-of-scope;\n* If a vulnerability provides unintended access to user data, such as Personally Identifiable Information (PII), Personal Healthcare Information (PHI), credit card data, or proprietary information: Cease testing and submit a report immediately;\n* Only interact with accounts you own unless given explicit permission by the account holder;\n* Do not engage in extortion.\n* Be clear and succinct—a short proof-of-concept link is invaluable;\n* Never attempt non-technical attacks—such as social engineering, phishing, or physical attacks—against our employees, users, or infrastructure; and\n* Do not view, alter, save, store, transfer, or otherwise access our data or the data of our users without explicit permission.\n\nWe may modify the terms or terminate this program at any time.\n\n## Safe Harbor\n\nWhen conducting vulnerability research according to this policy, we consider the research conducted under this policy to be:\n\n* Authorized in view of any applicable anti-hacking laws, and we will not initiate or support legal action against you for accidental, good faith violations of this policy;\n* Authorized in view of relevant anti-circumvention laws, and we will not bring a claim against you for circumvention of technology controls;\n* Exempt from restrictions in our Acceptable Usage Policy that would interfere with conducting security research, and we waive those restrictions on a limited basis; and\n* Lawful, helpful to the overall security of the Internet, and conducted in good faith.\n\nYou are expected, as always, to comply with all applicable laws. If legal action is initiated by a third party against you, and you have complied with this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.\n\nIf at any time you have concerns or are uncertain whether your security research is consistent with this policy, please submit a report before going any further.",
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "https://www.onestepgps.com",
+          "id": "41e301db-736a-4ed5-b557-961564a459e1",
+          "identifier": "https://www.onestepgps.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "2871f743-1cc9-4210-bf37-e2d82e83a5f9"
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "other",
+          "target": "https://apps.apple.com/us/app/one-step-gps-live-tracking/id1307133985",
+          "id": "5e02edfd-e7ce-4199-ad4e-59737ea3503f",
+          "identifier": "https://apps.apple.com/us/app/one-step-gps-live-tracking/id1307133985",
+          "scope_type": "mobile",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "2871f743-1cc9-4210-bf37-e2d82e83a5f9"
+        },
+        {
+          "type": "api",
+          "target": "https://track.onestepgps.com/v3/apidoc/",
+          "id": "f2ccd361-96d0-4366-85a0-494d643bae10",
+          "identifier": "https://track.onestepgps.com/v3/apidoc/",
+          "scope_type": "api",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "2871f743-1cc9-4210-bf37-e2d82e83a5f9"
+        },
+        {
+          "type": "other",
+          "target": "https://play.google.com/store/apps/details?id=com.onestepgps.onestepgps&hl=en_US&gl=US",
+          "id": "1da05395-c60a-475c-95b9-94a88d5f9385",
+          "identifier": "https://play.google.com/store/apps/details?id=com.onestepgps.onestepgps&hl=en_US&gl=US",
+          "scope_type": "mobile",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "2871f743-1cc9-4210-bf37-e2d82e83a5f9"
+        }
+      ]
+    },
+    "last_updated": "2026-02-01T07:53:59.488Z"
+  },
+  {
+    "platform": "federacy",
+    "name": "Clay",
+    "url": "https://www.federacy.com/clay",
+    "id": "f18e8b07-c8c1-4d56-bfb6-0859b87df97c",
+    "program_name": "Clay",
+    "slug": "clay",
+    "company": "",
+    "website": null,
+    "tagline": "",
+    "public": true,
+    "managed": false,
+    "assessment": false,
+    "award_critical": null,
+    "award_high": null,
+    "award_medium": null,
+    "award_low": null,
+    "created_at": "2023-03-23T17:04:34.131Z",
+    "overview": "## Guidelines\n\nTo encourage vulnerability research and to avoid any confusion between legitimate research and malicious attack, we ask that you attempt, in good faith, to:\n\n* **Play by the rules.** Adhere to this policy and any other relevant agreements, e.g., Terms of Service;\n* Report any vulnerability you’ve discovered promptly;\n* Avoid violating the privacy of others, disrupting our systems, destroying data, and/or harming user experience;\n* Use only the Official Channels to discuss vulnerability information with us;\n* Handle the confidentiality of details of any discovered vulnerabilities according to our Disclosure Policy;\n* Perform testing only on in-scope systems, and respect systems and activities which are out-of-scope;\n* If a vulnerability provides unintended access to user data, such as Personally Identifiable Information (PII), Personal Healthcare Information (PHI), credit card data, or proprietary information: Cease testing and submit a report immediately;\n* Only interact with accounts you own unless given explicit permission by the account holder;\n* Do not engage in extortion.\n* Be clear and succinct—a short proof-of-concept link is invaluable;\n* Never attempt non-technical attacks—such as social engineering, phishing, or physical attacks—against our employees, users, or infrastructure; and\n* Do not view, alter, save, store, transfer, or otherwise access our data or the data of our users without explicit permission.\n\nWe may modify the terms or terminate this program at any time.\n\n## Safe Harbor\n\nWhen conducting vulnerability research according to this policy, we consider the research conducted under this policy to be:\n\n* Authorized in view of any applicable anti-hacking laws, and we will not initiate or support legal action against you for accidental, good faith violations of this policy;\n* Authorized in view of relevant anti-circumvention laws, and we will not bring a claim against you for circumvention of technology controls;\n* Exempt from restrictions in our Acceptable Usage Policy that would interfere with conducting security research, and we waive those restrictions on a limited basis; and\n* Lawful, helpful to the overall security of the Internet, and conducted in good faith.\n\nYou are expected, as always, to comply with all applicable laws. If legal action is initiated by a third party against you, and you have complied with this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.\n\nIf at any time you have concerns or are uncertain whether your security research is consistent with this policy, please submit a report before going any further.",
+    "targets": {
+      "in_scope": [
+        {
+          "type": "other",
+          "target": "https://apps.apple.com/us/app/clay/id1463073824",
+          "id": "ae2acb6c-02ca-4b34-83b2-195c04ca6bd0",
+          "identifier": "https://apps.apple.com/us/app/clay/id1463073824",
+          "scope_type": "mobile",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "f18e8b07-c8c1-4d56-bfb6-0859b87df97c"
+        },
+        {
+          "type": "website",
+          "target": "clay.earth",
+          "id": "d44433a2-3b93-4b3d-bf55-9b64ea25e0ba",
+          "identifier": "clay.earth",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "f18e8b07-c8c1-4d56-bfb6-0859b87df97c"
+        }
+      ],
+      "out_of_scope": []
+    },
+    "last_updated": "2026-02-01T07:53:59.488Z"
+  },
+  {
+    "platform": "federacy",
+    "name": "Cyber Info",
+    "url": "https://www.federacy.com/cyber-info",
+    "id": "eedb354e-6769-4b65-8630-1dc97573a634",
+    "program_name": "Cyber Info",
+    "slug": "cyber-info",
+    "company": "",
+    "website": null,
+    "tagline": "Cyber Info welcomes feedback from security researchers to help improve our security.",
+    "public": true,
+    "managed": false,
+    "assessment": false,
+    "award_critical": null,
+    "award_high": null,
+    "award_medium": null,
+    "award_low": null,
+    "created_at": "2023-05-23T20:31:50.649Z",
+    "overview": "## Guidelines\n\nTo encourage vulnerability research and to avoid any confusion between legitimate research and malicious attack, we ask that you attempt, in good faith, to:\n\n* **Play by the rules.** Adhere to this policy and any other relevant agreements, e.g., Terms of Service;\n* Report any vulnerability you’ve discovered promptly;\n* Avoid violating the privacy of others, disrupting our systems, destroying data, and/or harming user experience;\n* Use only the Official Channels to discuss vulnerability information with us;\n* Handle the confidentiality of details of any discovered vulnerabilities according to our Disclosure Policy;\n* Perform testing only on in-scope systems, and respect systems and activities which are out-of-scope;\n* If a vulnerability provides unintended access to user data, such as Personally Identifiable Information (PII), Personal Healthcare Information (PHI), credit card data, or proprietary information: Cease testing and submit a report immediately;\n* Only interact with accounts you own unless given explicit permission by the account holder;\n* Do not engage in extortion.\n* Be clear and succinct—a short proof-of-concept link is invaluable;\n* Never attempt non-technical attacks—such as social engineering, phishing, or physical attacks—against our employees, users, or infrastructure; and\n* Do not view, alter, save, store, transfer, or otherwise access our data or the data of our users without explicit permission.\n\nWe may modify the terms or terminate this program at any time.\n\n## Safe Harbor\n\nWhen conducting vulnerability research according to this policy, we consider the research conducted under this policy to be:\n\n* Authorized in view of any applicable anti-hacking laws, and we will not initiate or support legal action against you for accidental, good faith violations of this policy;\n* Authorized in view of relevant anti-circumvention laws, and we will not bring a claim against you for circumvention of technology controls;\n* Exempt from restrictions in our Acceptable Usage Policy that would interfere with conducting security research, and we waive those restrictions on a limited basis; and\n* Lawful, helpful to the overall security of the Internet, and conducted in good faith.\n\nYou are expected, as always, to comply with all applicable laws. If legal action is initiated by a third party against you, and you have complied with this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.\n\nIf at any time you have concerns or are uncertain whether your security research is consistent with this policy, please submit a report before going any further.",
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "cyber.info",
+          "id": "01904c42-14ae-4f6c-b748-866ddc415757",
+          "identifier": "cyber.info",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "eedb354e-6769-4b65-8630-1dc97573a634"
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "website",
+          "target": "trust.cyber.info",
+          "id": "fbf64b21-2d35-45ec-97e8-45be8fcf5a1c",
+          "identifier": "trust.cyber.info",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "eedb354e-6769-4b65-8630-1dc97573a634"
+        },
+        {
+          "type": "website",
+          "target": "_mta-sts.cyber.info",
+          "id": "e52eb2db-52cb-4c44-92cd-3dd69c29ee28",
+          "identifier": "_mta-sts.cyber.info",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "eedb354e-6769-4b65-8630-1dc97573a634"
+        },
+        {
+          "type": "website",
+          "target": "mta-sts.cyber.info",
+          "id": "cca3a3d0-d849-41d9-90ad-57ff126ce1df",
+          "identifier": "mta-sts.cyber.info",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "eedb354e-6769-4b65-8630-1dc97573a634"
+        },
+        {
+          "type": "website",
+          "target": "donate.cyber.info",
+          "id": "de837369-e828-4e4b-88c1-ce62edaf7db9",
+          "identifier": "donate.cyber.info",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "eedb354e-6769-4b65-8630-1dc97573a634"
+        },
+        {
+          "type": "website",
+          "target": "status.cyber.info",
+          "id": "f2c92d46-ae89-47f2-ad86-92e23a102109",
+          "identifier": "status.cyber.info",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "eedb354e-6769-4b65-8630-1dc97573a634"
+        }
+      ]
+    },
+    "last_updated": "2026-02-01T07:53:59.488Z"
+  },
+  {
+    "platform": "federacy",
+    "name": "Archive-Intel-Inc",
+    "url": "https://www.federacy.com/archive-intel-inc",
+    "id": "b6d8dffd-33de-4ec9-849a-f98f42270b2d",
+    "program_name": "Archive-Intel-Inc",
+    "slug": "archive-intel-inc",
+    "company": "",
+    "website": null,
+    "tagline": "ARCHIVE INTEL, INC.",
+    "public": true,
+    "managed": false,
+    "assessment": false,
+    "award_critical": null,
+    "award_high": null,
+    "award_medium": null,
+    "award_low": null,
+    "created_at": "2024-10-09T16:35:28.657Z",
+    "overview": "## Guidelines\n\nTo encourage vulnerability research and to avoid any confusion between legitimate research and malicious attack, we ask that you attempt, in good faith, to:\n\n* **Play by the rules.** Adhere to this policy and any other relevant agreements, e.g., Terms of Service;\n* Report any vulnerability you’ve discovered promptly;\n* Avoid violating the privacy of others, disrupting our systems, destroying data, and/or harming user experience;\n* Use only the Official Channels to discuss vulnerability information with us;\n* Handle the confidentiality of details of any discovered vulnerabilities according to our Disclosure Policy;\n* Perform testing only on in-scope systems, and respect systems and activities which are out-of-scope;\n* If a vulnerability provides unintended access to user data, such as Personally Identifiable Information (PII), Personal Healthcare Information (PHI), credit card data, or proprietary information: Cease testing and submit a report immediately;\n* Only interact with accounts you own unless given explicit permission by the account holder;\n* Do not engage in extortion.\n* Be clear and succinct—a short proof-of-concept link is invaluable;\n* Never attempt non-technical attacks—such as social engineering, phishing, or physical attacks—against our employees, users, or infrastructure; and\n* Do not view, alter, save, store, transfer, or otherwise access our data or the data of our users without explicit permission.\n\nWe may modify the terms or terminate this program at any time.\n\n## Safe Harbor\n\nWhen conducting vulnerability research according to this policy, we consider the research conducted under this policy to be:\n\n* Authorized in view of any applicable anti-hacking laws, and we will not initiate or support legal action against you for accidental, good faith violations of this policy;\n* Authorized in view of relevant anti-circumvention laws, and we will not bring a claim against you for circumvention of technology controls;\n* Exempt from restrictions in our Acceptable Usage Policy that would interfere with conducting security research, and we waive those restrictions on a limited basis; and\n* Lawful, helpful to the overall security of the Internet, and conducted in good faith.\n\nYou are expected, as always, to comply with all applicable laws. If legal action is initiated by a third party against you, and you have complied with this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.\n\nIf at any time you have concerns or are uncertain whether your security research is consistent with this policy, please submit a report before going any further.",
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "https://app.archiveintel.com/forgot-password",
+          "id": "43958cdb-58f4-47b2-947e-9c8b7bfeb0f4",
+          "identifier": "https://app.archiveintel.com/forgot-password",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "b6d8dffd-33de-4ec9-849a-f98f42270b2d"
+        },
+        {
+          "type": "website",
+          "target": "https://archiveintel.com",
+          "id": "0cf5a155-83c6-40a2-992d-6f64436cd478",
+          "identifier": "https://archiveintel.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "b6d8dffd-33de-4ec9-849a-f98f42270b2d"
+        },
+        {
+          "type": "website",
+          "target": "https://app.archiveintel.com/login",
+          "id": "263feba2-3623-4aca-8930-caacf5fc25c2",
+          "identifier": "https://app.archiveintel.com/login",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "b6d8dffd-33de-4ec9-849a-f98f42270b2d"
+        }
+      ],
+      "out_of_scope": []
+    },
+    "last_updated": "2026-02-01T07:53:59.488Z"
+  },
+  {
+    "platform": "federacy",
+    "name": "AngelList VDP",
+    "url": "https://www.federacy.com/angellist-vdp",
+    "id": "11f3b580-8ce4-4fcf-b750-4eb2f7c28bef",
+    "program_name": "AngelList VDP",
+    "slug": "angellist-vdp",
+    "company": "",
+    "website": null,
+    "tagline": "We exist to build infrastructure that powers the startup economy",
+    "public": true,
+    "managed": true,
+    "assessment": false,
+    "award_critical": null,
+    "award_high": null,
+    "award_medium": null,
+    "award_low": null,
+    "created_at": "2024-11-06T23:14:07.014Z",
+    "overview": "## AngelList Vulnerability Reporting Program Terms and Conditions\n\nLast Updated: **November 22nd, 2024**\n\nThese terms govern your participation in the AngelList Vulnerability Reporting Program and constitute an agreement between you and AngelList. By submitting vulnerabilities or engaging in the program, you agree to these terms.\n\nWe reserve the right to update these terms at any time. Your continued participation in the program after changes take effect indicates your acceptance of the revised terms. If you do not agree with the updated terms, you must refrain from participating in the program.\n\nIf you wish to opt out of the program and decline consideration for bounties, please contact us at security@angellist.com.\n\n## PROGRAM ELIGIBILITY\n\nWe encourage everyone to participate in this program. However, It is your responsibility to comply with any policies your employer may have that would affect your eligibility to participate in the Program. If you are participating in violation of your employer’s policies, you may be disqualified from participating or receiving any Bounty. All payments will be made in compliance with local laws, regulations, and ethics rules. AngelList disclaims any and all liability or responsibility for disputes arising between an employee and their employer related to this matter.\n\n## SUBMISSION PROCESS\nYou may report your vulnerability through the process detailed at https://www.federacy.com/angellist-vdp \n\nThe level of detail in your submission significantly affects the likelihood and size of any bounty awarded by AngelList. Clear, well-documented submissions that include functional exploits are more likely to earn bounties. Submissions that fail to meet these standards will be deemed incomplete and not qualify for bounties.\n\nThere are no restrictions on the number of qualified Submissions you can provide and potentially be paid a Bounty for.\n\nIf you submit a vulnerability for a product or service that is outside the Program's scope at the time of submission, it will not be eligible for bounty payments, even if that product or service is later included in the Program.\n\n## SUBMISSION REVIEW PROCESS\nOnce a submission is sent to AngelList in accordance with these terms, our engineers will review and validate its eligibility. The review timeline may vary based on the complexity and completeness of your submission, as well as the volume of submissions we receive.\n\nAngelList reserves sole discretion in determining which submissions qualify under the rules outlined in the Product Program Terms. If multiple bug reports are submitted for the same issue by different parties, the bounty will be awarded to the first eligible submission.\n\n## BOUNTY PAYMENTS\nAngelList's decisions regarding bounty awards are final and binding.\n\nIf your submission is deemed eligible for a bounty under the Program Terms, we will notify you of the bounty amount and provide the necessary paperwork to process your payment. You may choose to waive the payment if you do not wish to receive a bounty.\n\nIn the event of a dispute over the qualified submitter, the eligible submitter will be considered the authorized account holder of the email address used to participate in the Program.\n\n## INTERNAL TESTING AND DUPLICATE REPORTS\n\nAngelList regularly conducts internal security reviews, including automated testing, manual code reviews, and third-party penetration testing. Issues identified through these efforts are tracked internally. Not all internally identified issues are disclosed publicly or included in the Known Issues list.\n\nFederacy maintains a private record of confirmed issues identified through internal reviews and testing. All submissions to the Program are reviewed against this record to determine whether the reported issue is novel.\n\nIf a submission describes an issue that has already been identified and confirmed by AngelList or Federacy prior to the time of submission, the report will be considered a duplicate and will not be eligible for a bounty award, regardless of whether the issue is publicly documented.\n\nThe determination of whether a submission is considered previously known or a duplicate will be made solely by AngelList and Federacy as part of the submission review process.\n\n## SAFE HARBOR\n\nWhen conducting vulnerability research according policys, we consider the research conducted under this policy to be:\n\n* Authorized in view of any applicable anti-hacking laws, and we will not initiate or support legal action against you for accidental, good faith violations of this policy;\n* Authorized in view of relevant anti-circumvention laws, and we will not bring a claim against you for circumvention of technology controls;\n* Exempt from restrictions in our Acceptable Usage Policy that would interfere with conducting security research, and we waive those restrictions on a limited basis; and\n* Lawful, helpful to the overall security of the Internet, and conducted in good faith.\n\nYou are expected to comply with all applicable laws at all times. If a third party takes legal action against you and you have adhered to this policy, we will take steps to clarify that your actions were conducted in accordance with this policy.\n\nIf you have any concerns or are unsure whether your security research aligns with this policy, please submit a report before proceeding further.",
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "*.angellist.com",
+          "id": "1c552260-929f-401a-bacd-cabae00feff7",
+          "identifier": "*.angellist.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "11f3b580-8ce4-4fcf-b750-4eb2f7c28bef"
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "website",
+          "target": "Wellfound",
+          "id": "db4b6def-c6f2-4b09-be21-444d9c8c8e47",
+          "identifier": "Wellfound",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "11f3b580-8ce4-4fcf-b750-4eb2f7c28bef"
+        },
+        {
+          "type": "website",
+          "target": "*.relay.angellist.com",
+          "id": "83048244-7627-4cba-9396-b206de6dcd32",
+          "identifier": "*.relay.angellist.com",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "11f3b580-8ce4-4fcf-b750-4eb2f7c28bef"
+        },
+        {
+          "type": "website",
+          "target": "relay.angellist.com",
+          "id": "f43164c1-d102-4875-8fe3-935a33cece48",
+          "identifier": "relay.angellist.com",
+          "scope_type": "website",
+          "in_scope": false,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "11f3b580-8ce4-4fcf-b750-4eb2f7c28bef"
+        }
+      ]
+    },
+    "last_updated": "2026-02-01T07:53:59.488Z"
+  },
+  {
+    "platform": "federacy",
+    "name": "Confido",
+    "url": "https://www.federacy.com/confido",
+    "id": "2b2a4224-4ab6-4140-a834-89750ac77ad9",
+    "program_name": "Confido",
+    "slug": "confido",
+    "company": "",
+    "website": null,
+    "tagline": "OutFit Technologies, Inc",
+    "public": true,
+    "managed": false,
+    "assessment": false,
+    "award_critical": null,
+    "award_high": null,
+    "award_medium": null,
+    "award_low": null,
+    "created_at": "2025-02-02T21:37:38.321Z",
+    "overview": "## Guidelines\n\nTo encourage vulnerability research and to avoid any confusion between legitimate research and malicious attack, we ask that you attempt, in good faith, to:\n\n* **Play by the rules.** Adhere to this policy and any other relevant agreements, e.g., Terms of Service;\n* Report any vulnerability you’ve discovered promptly;\n* Avoid violating the privacy of others, disrupting our systems, destroying data, and/or harming user experience;\n* Use only the Official Channels to discuss vulnerability information with us;\n* Handle the confidentiality of details of any discovered vulnerabilities according to our Disclosure Policy;\n* Perform testing only on in-scope systems, and respect systems and activities which are out-of-scope;\n* If a vulnerability provides unintended access to user data, such as Personally Identifiable Information (PII), Personal Healthcare Information (PHI), credit card data, or proprietary information: Cease testing and submit a report immediately;\n* Only interact with accounts you own unless given explicit permission by the account holder;\n* Do not engage in extortion.\n* Be clear and succinct—a short proof-of-concept link is invaluable;\n* Never attempt non-technical attacks—such as social engineering, phishing, or physical attacks—against our employees, users, or infrastructure; and\n* Do not view, alter, save, store, transfer, or otherwise access our data or the data of our users without explicit permission.\n\nWe may modify the terms or terminate this program at any time.\n\n## Safe Harbor\n\nWhen conducting vulnerability research according to this policy, we consider the research conducted under this policy to be:\n\n* Authorized in view of any applicable anti-hacking laws, and we will not initiate or support legal action against you for accidental, good faith violations of this policy;\n* Authorized in view of relevant anti-circumvention laws, and we will not bring a claim against you for circumvention of technology controls;\n* Exempt from restrictions in our Acceptable Usage Policy that would interfere with conducting security research, and we waive those restrictions on a limited basis; and\n* Lawful, helpful to the overall security of the Internet, and conducted in good faith.\n\nYou are expected, as always, to comply with all applicable laws. If legal action is initiated by a third party against you, and you have complied with this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.\n\nIf at any time you have concerns or are uncertain whether your security research is consistent with this policy, please submit a report before going any further.",
+    "targets": {
+      "in_scope": [
+        {
+          "type": "api",
+          "target": "api.confidotech.com",
+          "id": "96b286b1-b612-4b8f-b992-0215fc8f20f7",
+          "identifier": "api.confidotech.com",
+          "scope_type": "api",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "2b2a4224-4ab6-4140-a834-89750ac77ad9"
+        },
+        {
+          "type": "website",
+          "target": "app.confidotech.com",
+          "id": "73c3a4a8-6617-4478-b14e-fb4bfacc280e",
+          "identifier": "app.confidotech.com",
+          "scope_type": "website",
+          "in_scope": true,
+          "bounty": null,
+          "impact": null,
+          "identifier_type": null,
+          "program_id": "2b2a4224-4ab6-4140-a834-89750ac77ad9"
+        }
+      ],
+      "out_of_scope": []
+    },
+    "last_updated": "2026-02-01T07:53:59.488Z"
+  }
+]
