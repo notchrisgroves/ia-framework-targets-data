@@ -246,6 +246,16 @@ https://www.imou.com
 https://www.lascana.de/
 https://www.letspaylater.ph/
 https://www.marantz.com
+https://www.mediamarkt.at
+https://www.mediamarkt.be
+https://www.mediamarkt.ch
+https://www.mediamarkt.com.tr
+https://www.mediamarkt.de
+https://www.mediamarkt.es
+https://www.mediamarkt.hu
+https://www.mediamarkt.nl
+https://www.mediamarkt.pl
+https://www.mediaworld.it
 https://www.onedoc.ch
 https://www.ooredoo.qa
 https://www.otto.de
@@ -256,6 +266,7 @@ https://www.pinelabs.com/
 https://www.pinelabs.my/
 https://www.pinelabs.us/
 https://www.polkaudio.com
+https://www.saturn.de
 https://www.sncf-connect.com
 https://www.tchap.gouv.fr
 https://www.vfsglobalservices-germany.com/Global-Appointment/
