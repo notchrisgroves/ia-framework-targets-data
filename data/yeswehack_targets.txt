@@ -196,7 +196,6 @@ https://portal3.pentest.clicsante.ca/
 https://pprd.cybermalveillance.gouv.fr
 https://pro.onedoc.ch
 https://profile.pentest.clicsante.ca/
-https://prozentoomat.toom.de
 https://reptox.cnesst.gouv.qc.ca/
 https://retail-api.otto.de
 https://rusadminappt.vfsglobal.com/Global-Admin/
