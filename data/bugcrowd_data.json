@@ -1,0 +1,2063 @@
+[
+  {
+    "name": "Atlassian",
+    "url": "https://bugcrowd.com/engagements/atlassian",
+    "platform": "bugcrowd",
+    "safe_harbor": "full",
+    "max_payout": 10000,
+    "allows_disclosure": true,
+    "reward_tiers": [
+      {
+        "priority": "P1",
+        "min": 10000,
+        "max": null
+      },
+      {
+        "priority": "P2",
+        "min": 3600,
+        "max": null
+      },
+      {
+        "priority": "P3",
+        "min": 1200,
+        "max": null
+      },
+      {
+        "priority": "P4",
+        "min": 300,
+        "max": null
+      },
+      {
+        "priority": "P1",
+        "min": 10000,
+        "max": null
+      },
+      {
+        "priority": "P2",
+        "min": 6000,
+        "max": null
+      },
+      {
+        "priority": "P3",
+        "min": 1200,
+        "max": null
+      },
+      {
+        "priority": "P4",
+        "min": 300,
+        "max": 600
+      },
+      {
+        "priority": "P1",
+        "min": 6000,
+        "max": null
+      },
+      {
+        "priority": "P2",
+        "min": 2400,
+        "max": null
+      },
+      {
+        "priority": "P3",
+        "min": 800,
+        "max": null
+      },
+      {
+        "priority": "P4",
+        "min": 300,
+        "max": null
+      },
+      {
+        "priority": "P1",
+        "min": 6000,
+        "max": null
+      },
+      {
+        "priority": "P2",
+        "min": 2400,
+        "max": null
+      },
+      {
+        "priority": "P3",
+        "min": 800,
+        "max": null
+      },
+      {
+        "priority": "P4",
+        "min": 300,
+        "max": null
+      },
+      {
+        "priority": "P1",
+        "min": 4000,
+        "max": null
+      },
+      {
+        "priority": "P2",
+        "min": 1200,
+        "max": null
+      },
+      {
+        "priority": "P3",
+        "min": 500,
+        "max": null
+      },
+      {
+        "priority": "P4",
+        "min": 200,
+        "max": null
+      },
+      {
+        "priority": "P1",
+        "min": 6000,
+        "max": null
+      },
+      {
+        "priority": "P2",
+        "min": 2400,
+        "max": null
+      },
+      {
+        "priority": "P3",
+        "min": 800,
+        "max": null
+      },
+      {
+        "priority": "P4",
+        "min": 300,
+        "max": null
+      }
+    ],
+    "credentials": "If you believe you have found Atlassian employee or customer credentials please report them but do not attempt to validate them.\nCredential Reports will be handled as follows:\nCustomer credential reports will be marked as P5 (Informational)\nAtlassian employee credentials will have severity adjusted based on CVSS, but will only be paid out if they can access Atlassian resources (i.e. credentials not related to their work at Atlassian will receive points but will not be paid out)",
+    "focus_areas": [
+      "Due to the collaborative nature of Atlassian products, we are not interested in vulnerabilities surrounding enumeration and information gathering (being able to work effectively as a team is the purpose of our products). Instead, we're more interested in traditional web application vulnerabilities, as well as other vulnerabilities that can have a direct impact to our products. Below is a list of some of the vulnerability classes that we are seeking reports for:",
+      "Cross Instance Data Leakage/Access**",
+      "Server-side Remote Code Execution (RCE)",
+      "Server-Side Request Forgery (SSRF)",
+      "Stored/Reflected Cross-site Scripting (XSS)",
+      "Cross-site Request Forgery (CSRF)",
+      "SQL Injection (SQLi)",
+      "XML External Entity Attacks (XXE)",
+      "Access Control Vulnerabilities (Insecure Direct Object Reference issues, etc)",
+      "Path/Directory Traversal Issues"
+    ],
+    "report_quality_guidelines": [],
+    "testing_notes": null,
+    "engagement_rules": null,
+    "scope_descriptions": {
+      "in_scope": [],
+      "out_of_scope_vulns": []
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "Atlassian Guard Standard and Premium (https://admin.atlassian.com/atlassian-guard)",
+          "uri": "https://admin.atlassian.com/atlassian-guard",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "Atlassian Admin (https://admin.atlassian.com/)",
+          "uri": "https://admin.atlassian.com/",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "Atlassian Identity (https://id.atlassian.com/login)",
+          "uri": "https://id.atlassian.com/login",
+          "tags": [
+            "API Testing",
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "Atlassian Start (https://start.atlassian.com)",
+          "uri": "https://start.atlassian.com/",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "Bitbucket Cloud including Bitbucket Pipelines (https://bitbucket.org)",
+          "uri": "https://bitbucket.org/",
+          "tags": [
+            "Django",
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "Confluence Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)",
+          "uri": "https://www.atlassian.com/software/confluence",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "Confluence Cloud Premium (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)",
+          "uri": "https://www.atlassian.com/software/confluence/premium",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "android",
+          "target": "Confluence Cloud Mobile App for Android",
+          "uri": "https://play.google.com/store/apps/details?id=com.atlassian.android.confluence.core&hl=en_US&gl=US",
+          "tags": [
+            "Java",
+            "Mobile Application Testing",
+            "Kotlin"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "ios",
+          "target": "Confluence Cloud Mobile App for iOS",
+          "uri": "https://apps.apple.com/us/app/confluence-cloud/id1006971684",
+          "tags": [
+            "Objective-C",
+            "SwiftUI",
+            "Swift"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "android",
+          "target": "Jira Cloud Mobile App for Android",
+          "uri": "https://play.google.com/store/apps/details?id=com.atlassian.android.jira.core&hl=en_US&gl=US",
+          "tags": [
+            "Java",
+            "Mobile Application Testing",
+            "Kotlin"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "ios",
+          "target": "Jira Cloud Mobile App for iOS",
+          "uri": "https://apps.apple.com/us/app/jira-cloud-by-atlassian/id1006972087",
+          "tags": [
+            "Objective-C",
+            "SwiftUI",
+            "Swift"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "Jira Service Management Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net)",
+          "uri": "https://www.atlassian.com/software/jira/service-management",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "Jira Software Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net)",
+          "uri": "https://www.atlassian.com/software/jira",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "Jira Work Management Cloud formerly Jira Core (bugbounty-test-<bugcrowd-name>.atlassian.net)",
+          "uri": "https://www.atlassian.com/software/jira/work-management",
+          "tags": [
+            "Java",
+            "Redux",
+            "ReactJS"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "other",
+          "target": "Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance",
+          "uri": "",
+          "tags": [],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "Rovo",
+          "uri": "https://www.atlassian.com/software/rovo",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "other",
+          "target": "Rovo Dev CLI",
+          "uri": "https://support.atlassian.com/rovo/docs/use-rovo-dev-cli/",
+          "tags": [
+            "Python"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "Other Rovo Dev",
+          "uri": "https://www.atlassian.com/software/rovo-dev",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "other",
+          "target": "Atlassian MCP Server",
+          "uri": "https://mcp.atlassian.com/",
+          "tags": [],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "Atlassian Compass",
+          "uri": "https://www.atlassian.com/software/compass",
+          "tags": [],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "Atlassian Marketplace (https://marketplace.atlassian.com)",
+          "uri": "https://marketplace.atlassian.com/",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "Atlassian Atlas",
+          "uri": "https://www.atlassian.com/software/atlas",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "Bitbucket Data Center",
+          "uri": "https://www.atlassian.com/enterprise/data-center/bitbucket",
+          "tags": [
+            "Django",
+            "ReactJS",
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "other",
+          "target": "Confluence Data Center",
+          "uri": "https://www.atlassian.com/enterprise/data-center/confluence",
+          "tags": [
+            "Java",
+            "jQuery",
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "Crowd",
+          "uri": "https://www.atlassian.com/enterprise/data-center/crowd",
+          "tags": [
+            "Java",
+            "API Testing",
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "Jira Core Data Center",
+          "uri": "https://www.atlassian.com/enterprise/data-center/jira",
+          "tags": [
+            "Java",
+            "ReactJS",
+            "jQuery"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "Jira Service Management Data Center",
+          "uri": "https://www.atlassian.com/enterprise/data-center/jira/service-management",
+          "tags": [
+            "Java",
+            "ReactJS",
+            "jQuery"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "Jira Software Data Center",
+          "uri": "https://www.atlassian.com/enterprise/data-center/jira",
+          "tags": [
+            "Java",
+            "ReactJS",
+            "jQuery"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "*.atlastunnel.com",
+          "uri": "https://%2A.atlastunnel.com/",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance",
+          "uri": "",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "*.loom.com",
+          "uri": "https://www.loom.com/",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "Loom Desktop App (Windows)",
+          "uri": "https://www.loom.com/download",
+          "tags": [
+            "AWS",
+            "C++",
+            "Windows"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "Loom Desktop App (macOS)",
+          "uri": "https://www.loom.com/download",
+          "tags": [
+            "AWS",
+            "Electron",
+            "Objective-C"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "android",
+          "target": "Loom for Android",
+          "uri": "https://play.google.com/store/apps/details?id=com.loom.android&hl=en_US&pli=1",
+          "tags": [
+            "Mobile Application Testing",
+            "Android"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "ios",
+          "target": "Loom for iOS",
+          "uri": "https://apps.apple.com/us/app/loom-screen-recorder/id1474480829",
+          "tags": [
+            "Mobile Application Testing",
+            "iOS"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "other",
+          "target": "Loom Chrome Extension",
+          "uri": "https://chromewebstore.google.com/detail/loom-%E2%80%93-screen-recorder-sc/liecbddmkiiihnedobmlmillhodjkdmb?hl=en-US&pli=1",
+          "tags": [
+            "Browser Extension"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "Bamboo",
+          "uri": "https://www.atlassian.com/software/bamboo",
+          "tags": [
+            "Java",
+            "API Testing",
+            "ReactJS"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "other",
+          "target": "Confluence Companion App for macOS and Windows",
+          "uri": "https://confluence.atlassian.com/doc/install-atlassian-companion-992678880.html",
+          "tags": [],
+          "known_issues": 0
+        },
+        {
+          "type": "android",
+          "target": "Confluence Data Center Mobile App for Android",
+          "uri": "https://play.google.com/store/apps/details?id=com.atlassian.confluence.server",
+          "tags": [
+            "Java",
+            "Mobile Application Testing",
+            "Kotlin"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "ios",
+          "target": "Confluence Data Center Mobile App for iOS",
+          "uri": "https://apps.apple.com/us/app/confluence-server/id1288365159",
+          "tags": [
+            "Objective-C",
+            "SwiftUI",
+            "Swift"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "Crucible",
+          "uri": "https://www.atlassian.com/software/crucible",
+          "tags": [
+            "Java",
+            "Website Testing",
+            "Spring"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "FishEye",
+          "uri": "https://www.atlassian.com/software/fisheye",
+          "tags": [
+            "Java",
+            "Website Testing",
+            "Spring"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "android",
+          "target": "Jira Data Center Mobile App for Android",
+          "uri": "https://play.google.com/store/apps/details?id=com.atlassian.jira.server&hl=en_US&gl=US",
+          "tags": [
+            "Java",
+            "Mobile Application Testing",
+            "Kotlin"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "ios",
+          "target": "Jira Data Center Mobile App for iOS",
+          "uri": "https://apps.apple.com/us/app/jira-server/id1405353949",
+          "tags": [
+            "Objective-C",
+            "SwiftUI",
+            "Swift"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "other",
+          "target": "Sourcetree for macOS and Windows (https://www.sourcetreeapp.com/)",
+          "uri": "https://www.sourcetreeapp.com/",
+          "tags": [
+            "Windows",
+            "macOS",
+            "Desktop Application Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "other",
+          "target": "Other - (all other Atlassian targets)",
+          "uri": "",
+          "tags": [],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "Jira Product Discovery",
+          "uri": "https://www.atlassian.com/software/jira/product-discovery",
+          "tags": [],
+          "known_issues": 0
+        },
+        {
+          "type": "other",
+          "target": "Forge Platform",
+          "uri": "",
+          "tags": [
+            "Website Testing",
+            "NodeJS"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "api",
+          "target": "GraphQL API (bugbounty-test-<bugcrowd-name>.atlassian.net/gateway/api/graphql)",
+          "uri": "",
+          "tags": [
+            "API Testing",
+            "GraphQL"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "other",
+          "target": "https://www.npmjs.com/package/@forge/cli",
+          "uri": "https://www.npmjs.com/package/@forge/cli",
+          "tags": [
+            "Lodash",
+            "Website Testing",
+            "NodeJS"
+          ],
+          "known_issues": 0
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "website",
+          "target": "Any internal or development services.",
+          "uri": "",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "First and third party apps and plugins from the marketplace are excluded from this bounty but may be in scope for https://bugcrowd.com/atlassianapps",
+          "uri": "https://bugcrowd.com/atlassianapps",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "shop.atlassian.com",
+          "uri": "https://shop.atlassian.com/",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "bytebucket.org",
+          "uri": "",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "*.bitbucket.io",
+          "uri": "",
+          "tags": [
+            "Recon",
+            "Website Testing",
+            "DNS"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "https://blog.bitbucket.org",
+          "uri": "",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "other",
+          "target": "HipChat (inc. HipChat Data Center, HipChat Desktop, HipChat Mobile)",
+          "uri": "",
+          "tags": [],
+          "known_issues": 0
+        },
+        {
+          "type": "other",
+          "target": "Stride (inc. Stride Video, Stride Desktop, Stride Mobile)",
+          "uri": "",
+          "tags": [],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "support.atlassian.com",
+          "uri": "https://support.atlassian.com/",
+          "tags": [],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "Any customer instance. Do not test customer instances or affect customer data. Customer cloud instances may be in the form of <customer>.atlassian.net or <customer>.jira.com. Test only your own instances.",
+          "uri": "",
+          "tags": [],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "Any repository that you are not an owner of - do not impact Atlassian customers in any way.",
+          "uri": "",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "support.loom.com",
+          "uri": "https://support.loom.com/",
+          "tags": [],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "info.loom.com",
+          "uri": "https://info.loom.com/",
+          "tags": [],
+          "known_issues": 0
+        }
+      ]
+    },
+    "status": "Active",
+    "started_at": "2023-11-06T18:00:00Z",
+    "completed_at": "2023-11-06T18:00:00Z",
+    "testing_period": "Ongoing",
+    "scope_rating": "4 out of 4",
+    "last_updated": "2026-01-16T19:18:22Z",
+    "program_metrics": {
+      "vulnerabilities_rewarded": 2865,
+      "validation_within_days": 12,
+      "average_payout": 1076
+    }
+  },
+  {
+    "name": "Cisco Meraki",
+    "url": "https://bugcrowd.com/engagements/ciscomeraki",
+    "platform": "bugcrowd",
+    "safe_harbor": "partial",
+    "max_payout": 10000,
+    "allows_disclosure": true,
+    "reward_tiers": [
+      {
+        "priority": "P1",
+        "min": 6000,
+        "max": 10000
+      },
+      {
+        "priority": "P2",
+        "min": 2500,
+        "max": 6000
+      },
+      {
+        "priority": "P3",
+        "min": 500,
+        "max": 2500
+      },
+      {
+        "priority": "P4",
+        "min": 100,
+        "max": 500
+      },
+      {
+        "priority": "P1",
+        "min": 6000,
+        "max": 10000
+      },
+      {
+        "priority": "P2",
+        "min": 2500,
+        "max": 6000
+      },
+      {
+        "priority": "P3",
+        "min": 500,
+        "max": 2500
+      },
+      {
+        "priority": "P4",
+        "min": 100,
+        "max": 500
+      },
+      {
+        "priority": "P1",
+        "min": 1500,
+        "max": 2500
+      },
+      {
+        "priority": "P2",
+        "min": 1000,
+        "max": 1500
+      },
+      {
+        "priority": "P3",
+        "min": 300,
+        "max": 1000
+      },
+      {
+        "priority": "P4",
+        "min": 100,
+        "max": 500
+      }
+    ],
+    "credentials": "Create a user account at https://meraki.cisco.com/form/demo, using your @bugcrowdninja.com email address. This will provide you with access to a demo organization and user account. To create a 2nd user-account within this demo organization, navigate to the \"Organization\" tab (left sidebar) and select \"Administrators\".\nWe recommend creating two (2) demo organizations to test cross-account permissions and access. Please use a \"+\" variation of your @bugcrowdninja.com email address (example: user+1@bugcrowdninja.com - for more information on @bugcrowdninja emails, see here: https://researcherdocs.bugcrowd.com/docs/your-bugcrowdninja-email-address).",
+    "focus_areas": [
+      "Remote code execution as root",
+      "Remote root login",
+      "Remote configuration injections",
+      "Direct exposure of highly sensitive customer data to unauthorized parties sourced from the Meraki platform, for example, when Meraki or a Meraki employee is responsible for the exposure. This includes:\n\n\nDevice secrets\nCryptographic keys\nMV camera footage\nCustomer credentials or PII",
+      "Device secrets",
+      "Cryptographic keys",
+      "MV camera footage",
+      "Customer credentials or PII",
+      "Full compromise of secure boot",
+      "\"Packet of death\" or similar mass Denial of Service"
+    ],
+    "report_quality_guidelines": [],
+    "testing_notes": null,
+    "engagement_rules": null,
+    "scope_descriptions": {
+      "in_scope": [
+        "*.ikarem.io: This domain is used for Meraki internal services, and as such, falls under the higher reward range.",
+        "*.meraki.com: This domain is for the Cisco Meraki Dashboard and its integrated services.",
+        "*.network-auth.com: This domain hosts user-created content for Dashboard-configured splash pages.",
+        "Most products run a light web server which offers the ability to locally configure the uplink of a device, as well as to see some very basic device status information. However, the Dashboard is the ultimate administrative interface for devices, as well as the primary source for device monitoring.",
+        "This is touched on in the focus areas section, but any way of obtaining shell access on a Meraki device is an interesting finding to our team — as there should be no way for a user to meaningfully authenticate to a device.",
+        "In regards to obtaining firmware images, users may configure, via the Dashboard, a firmware version for a device to run and the device will automatically download and install the new version. More information on that can be found in our firmware FAQ."
+      ],
+      "out_of_scope_vulns": [
+        "If you need to report a vulnerability in a Cisco product, please contact psirt@cisco.com.",
+        "If you need to contact Cisco regarding a security incident, please contact incidentresponse@cisco.com.",
+        "Cisco Systems Operational Infrastructure findings can be reported here: https://bugcrowd.com/ciscosecurity",
+        "Further information can be found here: https://www.cisco.com/security"
+      ]
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "*.meraki.com",
+          "uri": "",
+          "tags": [
+            "Network Testing",
+            "Cloudflare CDN",
+            "Ruby on Rails"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "*.ikarem.io",
+          "uri": "",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "other",
+          "target": "Cisco Meraki Systems Manager",
+          "uri": "",
+          "tags": [
+            "Linux",
+            "Network Testing",
+            "Windows"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "other",
+          "target": "Cisco Meraki Virtual Security Appliances",
+          "uri": "",
+          "tags": [
+            "Network Testing",
+            "AWS",
+            "Google Cloud"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "*.network-auth.com",
+          "uri": "",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "ios",
+          "target": "Cisco Meraki Dashboard Mobile Application (iOS and Android)",
+          "uri": "",
+          "tags": [
+            "Mobile Application Testing",
+            "iOS",
+            "Android"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "hardware",
+          "target": "Cisco Campus Gateways",
+          "uri": "",
+          "tags": [
+            "Network Testing",
+            "IoT",
+            "Hardware Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "hardware",
+          "target": "Cisco Catalyst 9200L Series Switches (Cloud-Managed)",
+          "uri": "",
+          "tags": [
+            "Network Testing",
+            "IoT",
+            "Hardware Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "hardware",
+          "target": "Cisco Meraki MX Security Appliances",
+          "uri": "",
+          "tags": [
+            "Network Testing",
+            "IoT",
+            "Hardware Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "hardware",
+          "target": "Cisco Meraki MS Switches",
+          "uri": "",
+          "tags": [
+            "Network Testing",
+            "IoT",
+            "Hardware Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "hardware",
+          "target": "Cisco Meraki MR Access Points",
+          "uri": "",
+          "tags": [
+            "Network Testing",
+            "IoT",
+            "Hardware Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "hardware",
+          "target": "Cisco Meraki MV Security Cameras",
+          "uri": "",
+          "tags": [
+            "Network Testing",
+            "IoT",
+            "Surveillance and Security"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "hardware",
+          "target": "Cisco Meraki Z Series (Z1,Z3(C))",
+          "uri": "",
+          "tags": [
+            "Network Testing",
+            "IoT",
+            "Hardware Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "meraki.cisco.com",
+          "uri": "https://meraki.cisco.com/",
+          "tags": [
+            "Adobe Experience Manager",
+            "Java",
+            "Cloudflare CDN"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "apps.meraki.io",
+          "uri": "",
+          "tags": [
+            "Java",
+            "Cloudflare CDN",
+            "Modernizr"
+          ],
+          "known_issues": 0
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "website",
+          "target": "merakipartners.com",
+          "uri": "",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "developers.meraki.com",
+          "uri": "",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "smhelp.meraki.com",
+          "uri": "",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "community.meraki.com",
+          "uri": "",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "community-staging.meraki.com",
+          "uri": "",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "*.cisco.com",
+          "uri": "",
+          "tags": [],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "meraki.cisco.com/form/contact",
+          "uri": "",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "api",
+          "target": "Customer API Keys",
+          "uri": "",
+          "tags": [
+            "API Testing",
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "hardware",
+          "target": "Meraki MC Phones",
+          "uri": "",
+          "tags": [],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "documentation.meraki.com",
+          "uri": "",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        }
+      ]
+    },
+    "status": "Active",
+    "started_at": "2018-03-05T19:00:00Z",
+    "completed_at": "2018-03-05T19:00:00Z",
+    "testing_period": "Ongoing",
+    "scope_rating": "4 out of 4",
+    "last_updated": "2026-01-23T18:31:23Z",
+    "program_metrics": {
+      "vulnerabilities_rewarded": 458,
+      "validation_within_days": 8,
+      "average_payout": 1545
+    }
+  },
+  {
+    "name": "Cloudinary",
+    "url": "https://bugcrowd.com/engagements/cloudinary",
+    "platform": "bugcrowd",
+    "safe_harbor": "full",
+    "max_payout": 7000,
+    "allows_disclosure": false,
+    "reward_tiers": [
+      {
+        "priority": "P1",
+        "min": 7000,
+        "max": null
+      },
+      {
+        "priority": "P1",
+        "min": 2000,
+        "max": 4000
+      },
+      {
+        "priority": "P2",
+        "min": 500,
+        "max": 2000
+      },
+      {
+        "priority": "P3",
+        "min": 0,
+        "max": 500
+      },
+      {
+        "priority": "P1",
+        "min": 500,
+        "max": 1000
+      },
+      {
+        "priority": "P2",
+        "min": 0,
+        "max": 500
+      }
+    ],
+    "credentials": null,
+    "focus_areas": [],
+    "report_quality_guidelines": [],
+    "testing_notes": null,
+    "engagement_rules": null,
+    "scope_descriptions": {
+      "in_scope": [],
+      "out_of_scope_vulns": []
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "https://cloudinary.com/console",
+          "uri": "https://cloudinary.com/console",
+          "tags": [
+            "Ruby on Rails",
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "api",
+          "target": "https://api.cloudinary.com",
+          "uri": "https://api.cloudinary.com/",
+          "tags": [
+            "API Testing",
+            "Ruby on Rails",
+            "JSON"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "api",
+          "target": "https://res.cloudinary.com",
+          "uri": "https://res.cloudinary.com/",
+          "tags": [
+            "API Testing",
+            "Ruby on Rails",
+            "JSON"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "mediaflows.cloudinary.com",
+          "uri": "https://mediaflows.cloudinary.com/",
+          "tags": [
+            "API Testing",
+            "AWS",
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "dimensions.cloudinary.com",
+          "uri": "https://dimensions.cloudinary.com/",
+          "tags": [
+            "API Testing",
+            "Website Testing"
+          ],
+          "known_issues": 0
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "website",
+          "target": "https://support.cloudinary.com",
+          "uri": "",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "wiki.cloudinary.com",
+          "uri": "",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        }
+      ]
+    },
+    "status": "Active",
+    "started_at": "2018-02-14T20:00:00Z",
+    "completed_at": "2018-02-14T20:00:00Z",
+    "testing_period": "Ongoing",
+    "scope_rating": "1 out of 4",
+    "last_updated": "2025-01-27T10:06:11Z",
+    "program_metrics": {
+      "vulnerabilities_rewarded": 212,
+      "validation_within_days": 3,
+      "average_payout": 100
+    }
+  },
+  {
+    "name": "redox",
+    "url": "https://bugcrowd.com/engagements/redox",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": true,
+    "reward_tiers": [],
+    "credentials": null,
+    "focus_areas": [],
+    "report_quality_guidelines": [],
+    "testing_notes": null,
+    "engagement_rules": null,
+    "scope_descriptions": {
+      "in_scope": [],
+      "out_of_scope_vulns": []
+    },
+    "targets": {
+      "in_scope": [],
+      "out_of_scope": []
+    },
+    "status": "Active",
+    "started_at": null,
+    "completed_at": null,
+    "testing_period": null,
+    "scope_rating": null,
+    "last_updated": null,
+    "program_metrics": {
+      "vulnerabilities_rewarded": null,
+      "validation_within_days": null,
+      "average_payout": null
+    }
+  },
+  {
+    "name": "Acorns Grow, Inc.",
+    "url": "https://bugcrowd.com/engagements/acorns",
+    "platform": "bugcrowd",
+    "safe_harbor": "full",
+    "max_payout": 4000,
+    "allows_disclosure": false,
+    "reward_tiers": [
+      {
+        "priority": "P1",
+        "min": 2000,
+        "max": 4000
+      },
+      {
+        "priority": "P2",
+        "min": 750,
+        "max": 1750
+      },
+      {
+        "priority": "P3",
+        "min": 350,
+        "max": 650
+      },
+      {
+        "priority": "P4",
+        "min": 200,
+        "max": null
+      }
+    ],
+    "credentials": "Self Signup - Please register using your @bugcrowdninja.com email address.",
+    "focus_areas": [
+      "Any type of disclosure or account access on our customers sensitive information",
+      "Broken Authentication mechanism",
+      "Broken Authorization",
+      "XSS",
+      "CSRF",
+      "SQLi",
+      "Redirects",
+      "RCE",
+      "API Issues",
+      "MFA"
+    ],
+    "report_quality_guidelines": [
+      "Detailed explanation and proof of concept for the bug",
+      "Description of real-world impact/exploitation of the bug",
+      "Browser and App version (where applicable)"
+    ],
+    "testing_notes": null,
+    "engagement_rules": null,
+    "scope_descriptions": {
+      "in_scope": [
+        "All subdomains pertaining to Acorns.com",
+        "All App Apis",
+        "Any and all publicly exposed interfaces owned by Acorns that lead to system exploitation or sensitive information disclosure",
+        "Android and IOS App testing"
+      ],
+      "out_of_scope_vulns": [
+        "Rate limiting on endpoints",
+        "Any attack that needs any type of social engineering tactic (need access to customer email etc...)",
+        "Denial of Service Attacks"
+      ]
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "*.acorns.com/",
+          "uri": "https://acorns.com/",
+          "tags": [
+            "Website Testing",
+            "Javascript"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "other",
+          "target": "Acorns for iOS",
+          "uri": "https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671",
+          "tags": [
+            "iOS"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "api",
+          "target": "https://graphql.acorns.com",
+          "uri": "https://graphql.acorns.com/",
+          "tags": [
+            "GraphQL"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "other",
+          "target": "Acorns for Android",
+          "uri": "https://play.google.com/store/apps/details?id=com.acorns.android&hl=en_US&gl=US",
+          "tags": [
+            "Android"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "https://www.gohenry.com/",
+          "uri": "https://www.gohenry.com/",
+          "tags": [],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "https://www.pixpay.fr/",
+          "uri": "https://www.pixpay.fr/",
+          "tags": [],
+          "known_issues": 0
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "website",
+          "target": "share.acorns.com",
+          "uri": "",
+          "tags": [],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "grow.acorns.com",
+          "uri": "",
+          "tags": [],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "store.acorns.com",
+          "uri": "",
+          "tags": [],
+          "known_issues": 0
+        }
+      ]
+    },
+    "status": "Active",
+    "started_at": "2015-11-23T18:46:00Z",
+    "completed_at": "2015-11-23T18:46:00Z",
+    "testing_period": "Ongoing",
+    "scope_rating": "2 out of 4",
+    "last_updated": "2025-07-28T16:07:17Z",
+    "program_metrics": {
+      "vulnerabilities_rewarded": 209,
+      "validation_within_days": 3,
+      "average_payout": 383
+    }
+  },
+  {
+    "name": "SoundCloud",
+    "url": "https://bugcrowd.com/engagements/soundcloud",
+    "platform": "bugcrowd",
+    "safe_harbor": "full",
+    "max_payout": 4500,
+    "allows_disclosure": false,
+    "reward_tiers": [
+      {
+        "priority": "P1",
+        "min": 4100,
+        "max": 4500
+      },
+      {
+        "priority": "P2",
+        "min": 1500,
+        "max": 1750
+      },
+      {
+        "priority": "P3",
+        "min": 600,
+        "max": 850
+      },
+      {
+        "priority": "P4",
+        "min": 200,
+        "max": 250
+      }
+    ],
+    "credentials": null,
+    "focus_areas": [
+      "Execution of arbitrary server-side code or system commands (RCE)",
+      "XSS vectors with potential for fast automatic replication / “wormability”",
+      "Account take-over",
+      "Access to non-streaming optimized-audio assets",
+      "Access to exclusive content without paying",
+      "Manipulation of Related Tracks feature"
+    ],
+    "report_quality_guidelines": [],
+    "testing_notes": "We don't want to affect production users or create illegitimate traffic for SoundCloud end-users. Testing input parameters (comments, messaging, etc.) should NOT be performed on real artist or user pages. However, you're free to create your own accounts to test these areas, or use the following designated artist page to test input functionality for vulnerabilities: https://soundcloud.com/hobnobclanandthereflux",
+    "engagement_rules": null,
+    "scope_descriptions": {
+      "in_scope": [],
+      "out_of_scope_vulns": []
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "android",
+          "target": "SoundCloud Android app",
+          "uri": "https://play.google.com/store/apps/details?id=com.soundcloud.android&hl=en&gl=US",
+          "tags": [
+            "Java",
+            "Mobile Application Testing",
+            "Kotlin"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "soundcloud.com",
+          "uri": "https://soundcloud.com/",
+          "tags": [
+            "Scala",
+            "ReactJS",
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "*.soundcloud.org",
+          "uri": "",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "*.s-cloud.net",
+          "uri": "",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "ios",
+          "target": "SoundCloud iOS app",
+          "uri": "https://apps.apple.com/us/app/soundcloud-music-audio/id336353151",
+          "tags": [
+            "Objective-C",
+            "Swift",
+            "Mobile Application Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "api",
+          "target": "*.soundcloud.com",
+          "uri": "https://connect.soundcloud.com/",
+          "tags": [
+            "API Testing",
+            "Scala",
+            "ReactJS"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "api",
+          "target": "*.services.repostnetwork.com",
+          "uri": "",
+          "tags": [
+            "Java",
+            "API Testing",
+            "jQuery"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "api",
+          "target": "api-*.soundcloud.com",
+          "uri": "",
+          "tags": [
+            "API Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "artists.soundcloud.com",
+          "uri": "http://artists.soundcloud.com/",
+          "tags": [
+            "NextJS",
+            "ReactJS",
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "soundcloud.org",
+          "uri": "https://soundcloud.org/",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "website",
+          "target": "blog.soundcloud.com",
+          "uri": "",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "status.soundcloud.com",
+          "uri": "",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "help.soundcloud.com",
+          "uri": "",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "community.soundcloud.com",
+          "uri": "",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "copyright.soundcloud.com",
+          "uri": "",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "advertising.soundcloud.com",
+          "uri": "",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "other",
+          "target": "soundcloudmail.com",
+          "uri": "https://soundcloudmail.com/",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "press.soundcloud.com",
+          "uri": "",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "scdrops.soundcloud.com",
+          "uri": "https://scdrops.soundcloud.com/",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "promote.soundcloud.com",
+          "uri": "https://promote.soundcloud.com/",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "contest.soundcloud.com",
+          "uri": "",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "playback.soundcloud.com",
+          "uri": "",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "jobs.soundcloud.com",
+          "uri": "",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "playerone.soundcloud.com",
+          "uri": "",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "support.soundcloud.org",
+          "uri": "",
+          "tags": [],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "secdomaintest.soundcloud.com",
+          "uri": "",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "firston.soundcloud.com",
+          "uri": "",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        }
+      ]
+    },
+    "status": "Active",
+    "started_at": "2018-01-09T20:00:00Z",
+    "completed_at": "2018-01-09T20:00:00Z",
+    "testing_period": "Ongoing",
+    "scope_rating": "4 out of 4",
+    "last_updated": "2026-01-29T14:30:30Z",
+    "program_metrics": {
+      "vulnerabilities_rewarded": 266,
+      "validation_within_days": 11,
+      "average_payout": 603
+    }
+  },
+  {
+    "name": "Kenna Security",
+    "url": "https://bugcrowd.com/engagements/kennasecurity",
+    "platform": "bugcrowd",
+    "safe_harbor": "partial",
+    "max_payout": 4500,
+    "allows_disclosure": false,
+    "reward_tiers": [
+      {
+        "priority": "P1",
+        "min": 3000,
+        "max": 4500
+      },
+      {
+        "priority": "P2",
+        "min": 1500,
+        "max": 1750
+      },
+      {
+        "priority": "P3",
+        "min": 150,
+        "max": 300
+      },
+      {
+        "priority": "P4",
+        "min": 50,
+        "max": 100
+      }
+    ],
+    "credentials": null,
+    "focus_areas": [
+      "Authentication and Authorization weaknesses.",
+      "Cross-account data leakage or unauthorized access",
+      "Stored/Reflected/DOM-based Cross-Site Scripting (XSS)",
+      "SQL Injection (SQLi)",
+      "Server-side Remote Code Execution (RCE)",
+      "Server-side Request Forgery (SSRF)",
+      "Broken access controls (insecure direct object references, etc.)"
+    ],
+    "report_quality_guidelines": [],
+    "testing_notes": null,
+    "engagement_rules": null,
+    "scope_descriptions": {
+      "in_scope": [],
+      "out_of_scope_vulns": []
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "https://bugcrowdinc.labs.us..kennasecurity.com",
+          "uri": "https://bugcrowdinc.labs.us..kennasecurity.com/",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "other",
+          "target": "Any Host Verified To Be Owned By Kenna (Domains/IP space/etc.)",
+          "uri": "",
+          "tags": [],
+          "known_issues": 0
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "website",
+          "target": "Any Kenna Security Platform Subdomain Not Created By You",
+          "uri": "",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "https://www.kennasecurity.com",
+          "uri": "https://www.kennasecurity.com/",
+          "tags": [
+            "ReactJS",
+            "Website Testing"
+          ],
+          "known_issues": 0
+        }
+      ]
+    },
+    "status": "Active",
+    "started_at": "2015-09-23T01:00:00Z",
+    "completed_at": "2025-07-21T19:15:18Z",
+    "testing_period": "Ongoing",
+    "scope_rating": "1 out of 4",
+    "last_updated": "2025-07-21T21:17:16Z",
+    "program_metrics": {
+      "vulnerabilities_rewarded": 158,
+      "validation_within_days": null,
+      "average_payout": null
+    }
+  },
+  {
+    "name": "WestJet's Vulnerability Disclosure Program",
+    "url": "https://bugcrowd.com/engagements/westjet-disclose",
+    "platform": "bugcrowd",
+    "safe_harbor": "full",
+    "max_payout": null,
+    "allows_disclosure": false,
+    "reward_tiers": [],
+    "credentials": "Please sign up for an account using your @bugcrowdninja.com email address. For more info regarding @bugcrowdninja email addresses, see here.",
+    "focus_areas": [],
+    "report_quality_guidelines": [],
+    "testing_notes": null,
+    "engagement_rules": null,
+    "scope_descriptions": {
+      "in_scope": [],
+      "out_of_scope_vulns": []
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "www.westjet.com",
+          "uri": "https://www.westjet.com/",
+          "tags": [
+            "Akamai CDN",
+            "Bootstrap",
+            "Modernizr"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "www.flyswoop.com",
+          "uri": "https://www.flyswoop.com/",
+          "tags": [
+            "Cloudflare CDN",
+            "Website Testing",
+            "Azure"
+          ],
+          "known_issues": 0
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "api",
+          "target": "travel.westjet.com",
+          "uri": "",
+          "tags": [
+            "API Testing",
+            "HTTP"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "biz.westjet.com",
+          "uri": "",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        }
+      ]
+    },
+    "status": "Active",
+    "started_at": "2020-08-27T18:00:00Z",
+    "completed_at": "2020-08-27T18:00:00Z",
+    "testing_period": "Ongoing",
+    "scope_rating": null,
+    "last_updated": "2020-08-20T15:38:50Z",
+    "program_metrics": {
+      "vulnerabilities_rewarded": null,
+      "validation_within_days": 15,
+      "average_payout": null
+    }
+  },
+  {
+    "name": "zynga-vdp",
+    "url": "https://bugcrowd.com/engagements/zynga-vdp",
+    "platform": "bugcrowd",
+    "safe_harbor": null,
+    "max_payout": null,
+    "allows_disclosure": true,
+    "reward_tiers": [],
+    "credentials": null,
+    "focus_areas": [],
+    "report_quality_guidelines": [],
+    "testing_notes": null,
+    "engagement_rules": null,
+    "scope_descriptions": {
+      "in_scope": [],
+      "out_of_scope_vulns": []
+    },
+    "targets": {
+      "in_scope": [],
+      "out_of_scope": []
+    },
+    "status": "Active",
+    "started_at": null,
+    "completed_at": null,
+    "testing_period": null,
+    "scope_rating": null,
+    "last_updated": null,
+    "program_metrics": {
+      "vulnerabilities_rewarded": null,
+      "validation_within_days": null,
+      "average_payout": null
+    }
+  },
+  {
+    "name": "HealthifyMe's Vulnerability Disclosure Program",
+    "url": "https://bugcrowd.com/engagements/healthifyme",
+    "platform": "bugcrowd",
+    "safe_harbor": "partial",
+    "max_payout": null,
+    "allows_disclosure": false,
+    "reward_tiers": [],
+    "credentials": "Researchers are encouraged to self-provision accounts for the in-scope targets as they're able to. However, it's worth noting that there is also a paid/trial option as well (at this time, paid accounts will not be provided for testing purposes). Please only test against/with accounts that you expressly own. Make sure to sign up using you bugcrowdninja.com email address.\nUPDATE 2018 September 28:\nTo clarify, Researchers can sign up for a free account. HealthifyMe is not providing Paid/Premium accounts to researchers on this program.",
+    "focus_areas": [],
+    "report_quality_guidelines": [],
+    "testing_notes": null,
+    "engagement_rules": null,
+    "scope_descriptions": {
+      "in_scope": [],
+      "out_of_scope_vulns": []
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "website",
+          "target": "*.healthifyme.com",
+          "uri": "",
+          "tags": [
+            "Linux",
+            "Akamai CDN",
+            "nginx"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "android",
+          "target": "https://play.google.com/store/apps/details?id=com.healthifyme.basic&hl=en",
+          "uri": "",
+          "tags": [
+            "Java",
+            "Mobile Application Testing",
+            "Kotlin"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "ios",
+          "target": "https://itunes.apple.com/in/app/healthifyme-weight-loss-coach/id943712366?mt=8",
+          "uri": "",
+          "tags": [
+            "Objective-C",
+            "SwiftUI",
+            "Swift"
+          ],
+          "known_issues": 0
+        },
+        {
+          "type": "website",
+          "target": "Any publicly facing asset owned by HealthifyMe (ip space, domains, etc)",
+          "uri": "",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "website",
+          "target": "behtarkhao.healthifyme.com",
+          "uri": "",
+          "tags": [
+            "Website Testing"
+          ],
+          "known_issues": 0
+        }
+      ]
+    },
+    "status": "Active",
+    "started_at": "2018-09-27T17:00:00Z",
+    "completed_at": "2018-09-27T17:00:00Z",
+    "testing_period": "Ongoing",
+    "scope_rating": null,
+    "last_updated": "2020-02-13T00:33:03Z",
+    "program_metrics": {
+      "vulnerabilities_rewarded": null,
+      "validation_within_days": null,
+      "average_payout": null
+    }
+  }
+]

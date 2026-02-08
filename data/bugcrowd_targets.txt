@@ -1,0 +1,50 @@
+*.acorns.com/
+*.atlastunnel.com
+*.healthifyme.com
+*.ikarem.io
+*.loom.com
+*.meraki.com
+*.network-auth.com
+*.s-cloud.net
+*.soundcloud.org
+Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
+Any publicly facing asset owned by HealthifyMe (ip space, domains, etc)
+Atlassian Admin (https://admin.atlassian.com/)
+Atlassian Atlas
+Atlassian Compass
+Atlassian Guard Standard and Premium (https://admin.atlassian.com/atlassian-guard)
+Atlassian Identity (https://id.atlassian.com/login)
+Atlassian Marketplace (https://marketplace.atlassian.com)
+Atlassian Start (https://start.atlassian.com)
+Bamboo
+Bitbucket Cloud including Bitbucket Pipelines (https://bitbucket.org)
+Bitbucket Data Center
+Confluence Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)
+Confluence Cloud Premium (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)
+Crowd
+Crucible
+FishEye
+Jira Core Data Center
+Jira Product Discovery
+Jira Service Management Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net)
+Jira Service Management Data Center
+Jira Software Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net)
+Jira Software Data Center
+Jira Work Management Cloud formerly Jira Core (bugbounty-test-<bugcrowd-name>.atlassian.net)
+Loom Desktop App (Windows)
+Loom Desktop App (macOS)
+Other Rovo Dev
+Rovo
+apps.meraki.io
+artists.soundcloud.com
+dimensions.cloudinary.com
+https://bugcrowdinc.labs.us..kennasecurity.com
+https://cloudinary.com/console
+https://www.gohenry.com/
+https://www.pixpay.fr/
+mediaflows.cloudinary.com
+meraki.cisco.com
+soundcloud.com
+soundcloud.org
+www.flyswoop.com
+www.westjet.com
