@@ -1,1 +1,0 @@
-# Bugcrowd Target Data
