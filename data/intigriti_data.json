@@ -423,8 +423,8 @@
       ]
     },
     "industry": "Retail",
-    "last_updated": 1770105575,
-    "last_submission": 1770498954
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770589585
   },
   {
     "name": "The Perfume Shop",
@@ -600,8 +600,8 @@
       ]
     },
     "industry": "Retail",
-    "last_updated": 1770105612,
-    "last_submission": 1770520039
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770584949
   },
   {
     "name": "Marionnaud",
@@ -1394,8 +1394,8 @@
       ]
     },
     "industry": "Retail",
-    "last_updated": 1770105594,
-    "last_submission": 1770435160
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770555241
   },
   {
     "name": "Superdrug",
@@ -1739,8 +1739,8 @@
       ]
     },
     "industry": "Retail",
-    "last_updated": 1770105603,
-    "last_submission": 1770529317
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770571552
   },
   {
     "name": "Kruidvat",
@@ -2268,8 +2268,8 @@
       ]
     },
     "industry": "Retail",
-    "last_updated": 1770105585,
-    "last_submission": 1770504861
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770589433
   },
   {
     "name": "Watsons",
@@ -3517,8 +3517,8 @@
       ]
     },
     "industry": "Retail",
-    "last_updated": 1770126108,
-    "last_submission": 1770526451
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770623770
   },
   {
     "name": "Storebrand Responsible Disclosure",
@@ -3754,7 +3754,7 @@
       "out_of_scope": []
     },
     "industry": "Financial Services and Insurance",
-    "last_updated": 1770364611,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770522550
   },
   {
@@ -3809,8 +3809,8 @@
       "out_of_scope": []
     },
     "industry": "Software",
-    "last_updated": 1766168419,
-    "last_submission": 1770506511
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770553109
   },
   {
     "name": "Voi Vulnerability Disclosure Program",
@@ -3874,7 +3874,7 @@
       ]
     },
     "industry": "Transportation and Logistics",
-    "last_updated": 1765370666,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1769927032
   },
   {
@@ -4058,7 +4058,7 @@
       "out_of_scope": []
     },
     "industry": "Software",
-    "last_updated": 1769603483,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770444569
   },
   {
@@ -4169,8 +4169,8 @@
       "out_of_scope": []
     },
     "industry": "Software",
-    "last_updated": 1770535783,
-    "last_submission": 1770535771
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770619717
   },
   {
     "name": "Ubisoft Game Security BBP",
@@ -4207,7 +4207,7 @@
       "out_of_scope": []
     },
     "industry": "Media and Entertainment",
-    "last_updated": 1770233352,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1769471867
   },
   {
@@ -4312,7 +4312,7 @@
       "out_of_scope": []
     },
     "industry": "Software",
-    "last_updated": 1770328633,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770328617
   },
   {
@@ -4510,8 +4510,8 @@
       ]
     },
     "industry": "It Services",
-    "last_updated": 1760110632,
-    "last_submission": 1770480122
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770619999
   },
   {
     "name": "Bitvavo VDP",
@@ -4605,7 +4605,7 @@
       "out_of_scope": []
     },
     "industry": "Financial Services and Insurance",
-    "last_updated": 1758555641,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770513087
   },
   {
@@ -4657,7 +4657,7 @@
       "out_of_scope": []
     },
     "industry": null,
-    "last_updated": 1754696423,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1763467820
   },
   {
@@ -4722,7 +4722,7 @@
       ]
     },
     "industry": "Software",
-    "last_updated": 1764961865,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770499172
   },
   {
@@ -4798,7 +4798,7 @@
       "out_of_scope": []
     },
     "industry": "Software",
-    "last_updated": 1763034639,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1769633624
   },
   {
@@ -5179,8 +5179,8 @@
       ]
     },
     "industry": "Software",
-    "last_updated": 1768916077,
-    "last_submission": 1770515794
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770621786
   },
   {
     "name": "NVIDIA Vulnerability Disclosure Program",
@@ -5244,8 +5244,8 @@
       ]
     },
     "industry": "Software",
-    "last_updated": 1752482714,
-    "last_submission": 1770330710
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770565826
   },
   {
     "name": "Proof.com VDP",
@@ -5320,7 +5320,7 @@
       "out_of_scope": []
     },
     "industry": "Software",
-    "last_updated": 1754053449,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1766126071
   },
   {
@@ -5378,7 +5378,7 @@
       "out_of_scope": []
     },
     "industry": "Software",
-    "last_updated": 1759226707,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1761040155
   },
   {
@@ -5416,7 +5416,7 @@
       "out_of_scope": []
     },
     "industry": "Software",
-    "last_updated": 1761838509,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1768777002
   },
   {
@@ -5509,7 +5509,7 @@
       "out_of_scope": []
     },
     "industry": "Manufacturing Consumer",
-    "last_updated": 1769099965,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770058243
   },
   {
@@ -5710,7 +5710,7 @@
       ]
     },
     "industry": "Software",
-    "last_updated": 1747666084,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770180822
   },
   {
@@ -5768,7 +5768,7 @@
       "out_of_scope": []
     },
     "industry": "Hospitals and Healthcare",
-    "last_updated": 1763985606,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1769930475
   },
   {
@@ -5981,8 +5981,8 @@
       ]
     },
     "industry": "Hospitals and Healthcare",
-    "last_updated": 1763985640,
-    "last_submission": 1770371536
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770565998
   },
   {
     "name": "HRS Group VDP",
@@ -6066,8 +6066,8 @@
       ]
     },
     "industry": "Leisure and Hospitality",
-    "last_updated": 1743595774,
-    "last_submission": 1770516058
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770604362
   },
   {
     "name": "Zabka Group Vulnerability Disclosure Program",
@@ -6252,7 +6252,7 @@
       ]
     },
     "industry": "Retail",
-    "last_updated": 1757939886,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1769701085
   },
   {
@@ -6371,7 +6371,7 @@
       "out_of_scope": []
     },
     "industry": "Financial Services and Insurance",
-    "last_updated": 1746721034,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1769088051
   },
   {
@@ -6595,7 +6595,7 @@
       ]
     },
     "industry": "Business and Professional Services",
-    "last_updated": 1755600471,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1766763773
   },
   {
@@ -6724,7 +6724,7 @@
       "out_of_scope": []
     },
     "industry": "Construction",
-    "last_updated": 1763975932,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1769596249
   },
   {
@@ -6841,8 +6841,8 @@
       "out_of_scope": []
     },
     "industry": "Manufacturing Consumer",
-    "last_updated": 1769420564,
-    "last_submission": 1770413809
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770579737
   },
   {
     "name": "Monzo Public Bug Bounty Program",
@@ -7038,8 +7038,8 @@
       ]
     },
     "industry": "Financial Services and Insurance",
-    "last_updated": 1770137031,
-    "last_submission": 1770320495
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770604950
   },
   {
     "name": "OVO VDP",
@@ -9069,7 +9069,7 @@
       ]
     },
     "industry": "Energy Utilities and Waste",
-    "last_updated": 1765283890,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1765624948
   },
   {
@@ -9228,8 +9228,8 @@
       "out_of_scope": []
     },
     "industry": "Software",
-    "last_updated": 1770402402,
-    "last_submission": 1770402386
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770559372
   },
   {
     "name": "Aikido Security: Bug Bounty Program",
@@ -9335,8 +9335,8 @@
       ]
     },
     "industry": "Software",
-    "last_updated": 1769758275,
-    "last_submission": 1770418868
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770560637
   },
   {
     "name": "SolarWinds Serv-U ",
@@ -9373,7 +9373,7 @@
       "out_of_scope": []
     },
     "industry": "Software",
-    "last_updated": 1770325951,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1769199086
   },
   {
@@ -9525,8 +9525,8 @@
       ]
     },
     "industry": "Software",
-    "last_updated": 1770132346,
-    "last_submission": 1770516952
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770621469
   },
   {
     "name": "Cloudways by DigitalOcean",
@@ -9670,8 +9670,8 @@
       "out_of_scope": []
     },
     "industry": "Software",
-    "last_updated": 1743597143,
-    "last_submission": 1770536632
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770573345
   },
   {
     "name": "DigitalOcean",
@@ -10216,8 +10216,8 @@
       ]
     },
     "industry": "Software",
-    "last_updated": 1769759693,
-    "last_submission": 1770485740
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770577301
   },
   {
     "name": "House of HR Vulnerability Disclosure Program",
@@ -10309,7 +10309,7 @@
       ]
     },
     "industry": "Business and Professional Services",
-    "last_updated": 1743597414,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1769468999
   },
   {
@@ -10415,8 +10415,8 @@
       "out_of_scope": []
     },
     "industry": "Manufacturing Consumer",
-    "last_updated": 1743596516,
-    "last_submission": 1770414725
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770617720
   },
   {
     "name": "BMW Group",
@@ -10573,8 +10573,8 @@
       ]
     },
     "industry": "Manufacturing Consumer",
-    "last_updated": 1762880012,
-    "last_submission": 1770520050
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770612143
   },
   {
     "name": "Driessen Vulnerability Disclosure Program",
@@ -10647,7 +10647,7 @@
       ]
     },
     "industry": "Business and Professional Services",
-    "last_updated": 1743597977,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1763237908
   },
   {
@@ -10758,7 +10758,7 @@
       ]
     },
     "industry": "Software",
-    "last_updated": 1762159281,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1762067542
   },
   {
@@ -10826,7 +10826,7 @@
       ]
     },
     "industry": "Media and Entertainment",
-    "last_updated": 1759924706,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770221452
   },
   {
@@ -10902,7 +10902,7 @@
       "out_of_scope": []
     },
     "industry": "Software",
-    "last_updated": 1761822291,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1769217335
   },
   {
@@ -10992,7 +10992,7 @@
       "out_of_scope": []
     },
     "industry": "Manufacturing Consumer",
-    "last_updated": 1768300351,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1768310857
   },
   {
@@ -11347,7 +11347,7 @@
       ]
     },
     "industry": "Energy Utilities and Waste",
-    "last_updated": 1756109094,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770067131
   },
   {
@@ -11492,7 +11492,7 @@
       ]
     },
     "industry": "Retail",
-    "last_updated": 1760941836,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770419068
   },
   {
@@ -12417,7 +12417,7 @@
       ]
     },
     "industry": "Telecommunications",
-    "last_updated": 1767618653,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770484094
   },
   {
@@ -12574,7 +12574,7 @@
       ]
     },
     "industry": "Manufacturing Consumer",
-    "last_updated": 1768922858,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770493444
   },
   {
@@ -12632,7 +12632,7 @@
       "out_of_scope": []
     },
     "industry": "Financial Services and Insurance",
-    "last_updated": 1748947331,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1766608952
   },
   {
@@ -12751,7 +12751,7 @@
       ]
     },
     "industry": "Business and Professional Services",
-    "last_updated": 1768898757,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770312638
   },
   {
@@ -12789,7 +12789,7 @@
       "out_of_scope": []
     },
     "industry": "Software",
-    "last_updated": 1762511953,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770103885
   },
   {
@@ -12914,8 +12914,8 @@
       ]
     },
     "industry": "Software",
-    "last_updated": 1768087930,
-    "last_submission": 1770384166
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770558143
   },
   {
     "name": "Veriff Bug Bounty",
@@ -13134,7 +13134,7 @@
       ]
     },
     "industry": "Software",
-    "last_updated": 1770471700,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770471686
   },
   {
@@ -13191,7 +13191,7 @@
       "out_of_scope": []
     },
     "industry": "Media and Entertainment",
-    "last_updated": 1760599366,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1767873374
   },
   {
@@ -13418,7 +13418,7 @@
       ]
     },
     "industry": "Manufacturing Consumer",
-    "last_updated": 1763109801,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770463815
   },
   {
@@ -13644,7 +13644,7 @@
       ]
     },
     "industry": "Manufacturing Industrial",
-    "last_updated": 1769585952,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1769648775
   },
   {
@@ -13754,8 +13754,8 @@
       ]
     },
     "industry": "Manufacturing Consumer",
-    "last_updated": 1769457465,
-    "last_submission": 1770395879
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770606749
   },
   {
     "name": "Posti Bug Bounty ",
@@ -13792,7 +13792,7 @@
       "out_of_scope": []
     },
     "industry": "Transportation and Logistics",
-    "last_updated": 1769507042,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770330326
   },
   {
@@ -13830,7 +13830,7 @@
       "out_of_scope": []
     },
     "industry": "Media and Entertainment",
-    "last_updated": 1761058372,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1761029159
   },
   {
@@ -13939,8 +13939,8 @@
       "out_of_scope": []
     },
     "industry": "Transportation and Logistics",
-    "last_updated": 1743595234,
-    "last_submission": 1770477929
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770573467
   },
   {
     "name": "Revolut VDP",
@@ -13994,7 +13994,7 @@
       "out_of_scope": []
     },
     "industry": "Financial Services and Insurance",
-    "last_updated": 1769764780,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770397143
   },
   {
@@ -14051,7 +14051,7 @@
       "out_of_scope": []
     },
     "industry": "Financial Services and Insurance",
-    "last_updated": 1743595881,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1769287670
   },
   {
@@ -14120,7 +14120,7 @@
       "out_of_scope": []
     },
     "industry": "Hospitals and Healthcare",
-    "last_updated": 1743596998,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1769377019
   },
   {
@@ -14257,7 +14257,7 @@
       "out_of_scope": []
     },
     "industry": "Leisure and Hospitality",
-    "last_updated": 1763993718,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770275491
   },
   {
@@ -14726,8 +14726,8 @@
       ]
     },
     "industry": "Media and Entertainment",
-    "last_updated": 1764323519,
-    "last_submission": 1770506761
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770590703
   },
   {
     "name": "Ubisoft Responsible Disclosure Program",
@@ -14818,7 +14818,7 @@
       ]
     },
     "industry": "Media and Entertainment",
-    "last_updated": 1769194359,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770294210
   },
   {
@@ -15304,8 +15304,8 @@
       ]
     },
     "industry": "Media and Entertainment",
-    "last_updated": 1762973997,
-    "last_submission": 1770465136
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770616743
   },
   {
     "name": "Ninja Kiwi Games Bug Bounty program",
@@ -15557,8 +15557,8 @@
       ]
     },
     "industry": "Media and Entertainment",
-    "last_updated": 1770430724,
-    "last_submission": 1770430707
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770617373
   },
   {
     "name": "Capital.com",
@@ -15807,8 +15807,8 @@
       ]
     },
     "industry": "Financial Services and Insurance",
-    "last_updated": 1768841281,
-    "last_submission": 1770411945
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770581358
   },
   {
     "name": "Wolt",
@@ -16047,8 +16047,8 @@
       ]
     },
     "industry": "Leisure and Hospitality",
-    "last_updated": 1754657577,
-    "last_submission": 1770261967
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770587904
   },
   {
     "name": "WP Engine Bug Bounty",
@@ -16308,7 +16308,7 @@
       ]
     },
     "industry": "Media and Entertainment",
-    "last_updated": 1768323291,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770495028
   },
   {
@@ -16574,7 +16574,7 @@
       ]
     },
     "industry": "Non Profit",
-    "last_updated": 1766999330,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770507541
   },
   {
@@ -16664,7 +16664,7 @@
       "out_of_scope": []
     },
     "industry": "Education",
-    "last_updated": 1743597025,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1769850442
   },
   {
@@ -16767,7 +16767,7 @@
       "out_of_scope": []
     },
     "industry": "Transportation and Logistics",
-    "last_updated": 1754407988,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1749711940
   },
   {
@@ -16936,8 +16936,8 @@
       "out_of_scope": []
     },
     "industry": "Retail",
-    "last_updated": 1766129496,
-    "last_submission": 1770419889
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770562517
   },
   {
     "name": "TrueLayer",
@@ -17436,7 +17436,7 @@
       ]
     },
     "industry": "Financial Services and Insurance",
-    "last_updated": 1769784474,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770308213
   },
   {
@@ -17595,7 +17595,7 @@
       "out_of_scope": []
     },
     "industry": "Leisure and Hospitality",
-    "last_updated": 1765387498,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1769689050
   },
   {
@@ -17806,7 +17806,7 @@
       ]
     },
     "industry": "Media and Entertainment",
-    "last_updated": 1753895941,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1769607518
   },
   {
@@ -17844,7 +17844,7 @@
       "out_of_scope": []
     },
     "industry": "Business and Professional Services",
-    "last_updated": 1770311251,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770308718
   },
   {
@@ -17947,7 +17947,7 @@
       "out_of_scope": []
     },
     "industry": "Education",
-    "last_updated": 1764237428,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770487408
   },
   {
@@ -18002,8 +18002,8 @@
       "out_of_scope": []
     },
     "industry": "Software",
-    "last_updated": 1748608085,
-    "last_submission": 1769908210
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770619648
   },
   {
     "name": "Nestlé VDP",
@@ -18060,7 +18060,7 @@
       "out_of_scope": []
     },
     "industry": "Manufacturing Consumer",
-    "last_updated": 1767969577,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770451086
   },
   {
@@ -18169,7 +18169,7 @@
       "out_of_scope": []
     },
     "industry": "Transportation and Logistics",
-    "last_updated": 1769545465,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1769627009
   },
   {
@@ -18306,8 +18306,8 @@
       ]
     },
     "industry": "Manufacturing Consumer",
-    "last_updated": 1770226982,
-    "last_submission": 1770535100
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770617718
   },
   {
     "name": "Soundtrack Your Brand",
@@ -18504,7 +18504,7 @@
       "out_of_scope": []
     },
     "industry": "Media and Entertainment",
-    "last_updated": 1770392400,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770392367
   },
   {
@@ -18746,7 +18746,7 @@
       "out_of_scope": []
     },
     "industry": "Telecommunications",
-    "last_updated": 1769776187,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770349734
   },
   {
@@ -18866,7 +18866,7 @@
       "out_of_scope": []
     },
     "industry": "Software",
-    "last_updated": 1753162601,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770201866
   },
   {
@@ -19018,7 +19018,7 @@
       ]
     },
     "industry": "Education",
-    "last_updated": 1743598166,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1767025168
   },
   {
@@ -19275,7 +19275,7 @@
       ]
     },
     "industry": "Business and Professional Services",
-    "last_updated": 1764600455,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1769173552
   },
   {
@@ -19408,8 +19408,8 @@
       ]
     },
     "industry": "Manufacturing Consumer",
-    "last_updated": 1769200924,
-    "last_submission": 1770499485
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770589980
   },
   {
     "name": "Moralis VDP",
@@ -19554,7 +19554,7 @@
       ]
     },
     "industry": "Software",
-    "last_updated": 1762786034,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1767437376
   },
   {
@@ -19736,7 +19736,7 @@
       ]
     },
     "industry": "Public Services",
-    "last_updated": 1751452666,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1750843279
   },
   {
@@ -19938,7 +19938,7 @@
       "out_of_scope": []
     },
     "industry": "Transportation and Logistics",
-    "last_updated": 1764915751,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770471869
   },
   {
@@ -20097,7 +20097,7 @@
       ]
     },
     "industry": "Software",
-    "last_updated": 1769331170,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770012355
   },
   {
@@ -20155,7 +20155,7 @@
       "out_of_scope": []
     },
     "industry": "Business and Professional Services",
-    "last_updated": 1767790561,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1768394992
   },
   {
@@ -20323,8 +20323,8 @@
       ]
     },
     "industry": "Transportation and Logistics",
-    "last_updated": 1769082016,
-    "last_submission": 1770193652
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770610889
   },
   {
     "name": "KU Leuven Responsible Disclosure Program",
@@ -20400,7 +20400,7 @@
       ]
     },
     "industry": "Education",
-    "last_updated": 1743595637,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1767562582
   },
   {
@@ -20720,8 +20720,8 @@
       ]
     },
     "industry": "Education",
-    "last_updated": 1770221838,
-    "last_submission": 1770219706
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770602908
   },
   {
     "name": "Lansweeper Bug Bounty Program",
@@ -20963,7 +20963,7 @@
       ]
     },
     "industry": "Software",
-    "last_updated": 1769405669,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770424334
   },
   {
@@ -21195,7 +21195,7 @@
       ]
     },
     "industry": "Energy Utilities and Waste",
-    "last_updated": 1743596466,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770344152
   },
   {
@@ -21694,8 +21694,8 @@
       ]
     },
     "industry": "Retail",
-    "last_updated": 1770386960,
-    "last_submission": 1770520167
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770608420
   },
   {
     "name": "VRT",
@@ -21878,7 +21878,7 @@
       ]
     },
     "industry": "Media and Entertainment",
-    "last_updated": 1765993277,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1769700008
   },
   {
@@ -22031,7 +22031,7 @@
       ]
     },
     "industry": "Media and Entertainment",
-    "last_updated": 1766469780,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770206568
   },
   {
@@ -22119,7 +22119,7 @@
       "out_of_scope": []
     },
     "industry": "Public Services",
-    "last_updated": 1743595142,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1768139706
   },
   {
@@ -22395,8 +22395,8 @@
       "out_of_scope": []
     },
     "industry": "Software",
-    "last_updated": 1770137032,
-    "last_submission": 1770493690
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770592211
   },
   {
     "name": "Newpharma",
@@ -22433,7 +22433,7 @@
       "out_of_scope": []
     },
     "industry": "Retail",
-    "last_updated": 1762778907,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1765220844
   },
   {
@@ -22630,7 +22630,7 @@
       ]
     },
     "industry": "Media and Entertainment",
-    "last_updated": 1765887191,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770482524
   },
   {
@@ -22769,7 +22769,7 @@
       ]
     },
     "industry": "Transportation and Logistics",
-    "last_updated": 1770103061,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1768497952
   },
   {
@@ -23037,7 +23037,7 @@
       "out_of_scope": []
     },
     "industry": "Telecommunications",
-    "last_updated": 1762245857,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770002704
   },
   {
@@ -23170,7 +23170,7 @@
       ]
     },
     "industry": "Media and Entertainment",
-    "last_updated": 1753362377,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770463678
   },
   {
@@ -23208,7 +23208,7 @@
       "out_of_scope": []
     },
     "industry": "Retail",
-    "last_updated": 1766063709,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770475305
   },
   {
@@ -23335,8 +23335,8 @@
       "out_of_scope": []
     },
     "industry": "Media and Entertainment",
-    "last_updated": 1767561517,
-    "last_submission": 1770511329
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770608185
   },
   {
     "name": "Red Bull",
@@ -23410,8 +23410,8 @@
       ]
     },
     "industry": "Manufacturing Consumer",
-    "last_updated": 1751289845,
-    "last_submission": 1770483926
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770596025
   },
   {
     "name": "Speakap Responsible Disclosure",
@@ -23504,7 +23504,7 @@
       "out_of_scope": []
     },
     "industry": "Business and Professional Services",
-    "last_updated": 1743596683,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1767301894
   },
   {
@@ -23672,7 +23672,7 @@
       ]
     },
     "industry": "Media and Entertainment",
-    "last_updated": 1753362398,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770383547
   },
   {
@@ -24305,8 +24305,8 @@
       ]
     },
     "industry": "Transportation and Logistics",
-    "last_updated": 1756820673,
-    "last_submission": 1770035175
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770560597
   },
   {
     "name": "Uphold",
@@ -24757,8 +24757,8 @@
       ]
     },
     "industry": "Financial Services and Insurance",
-    "last_updated": 1757236334,
-    "last_submission": 1770377968
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770586353
   },
   {
     "name": "Yacht",
@@ -24815,7 +24815,7 @@
       "out_of_scope": []
     },
     "industry": "Business and Professional Services",
-    "last_updated": 1767790948,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770128009
   },
   {
@@ -24873,7 +24873,7 @@
       "out_of_scope": []
     },
     "industry": "Business and Professional Services",
-    "last_updated": 1767790911,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1752313938
   },
   {
@@ -25297,7 +25297,7 @@
       ]
     },
     "industry": "Hospitals and Healthcare",
-    "last_updated": 1763390235,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770400252
   },
   {
@@ -25403,7 +25403,7 @@
       ]
     },
     "industry": "Business and Professional Services",
-    "last_updated": 1767790878,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1766942518
   },
   {
@@ -25580,7 +25580,7 @@
       ]
     },
     "industry": "Media and Entertainment",
-    "last_updated": 1753362359,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1769986964
   },
   {
@@ -25748,8 +25748,8 @@
       ]
     },
     "industry": "Media and Entertainment",
-    "last_updated": 1753362243,
-    "last_submission": 1769989395
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770602627
   },
   {
     "name": "Trouw",
@@ -25925,7 +25925,7 @@
       ]
     },
     "industry": "Media and Entertainment",
-    "last_updated": 1753362388,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770109512
   },
   {
@@ -26094,7 +26094,7 @@
       ]
     },
     "industry": "Media and Entertainment",
-    "last_updated": 1753362364,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770488497
   },
   {
@@ -26132,7 +26132,7 @@
       "out_of_scope": []
     },
     "industry": "Telecommunications",
-    "last_updated": 1761225929,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770511365
   },
   {
@@ -26241,7 +26241,7 @@
       "out_of_scope": []
     },
     "industry": "Media and Entertainment",
-    "last_updated": 1767000506,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770481878
   },
   {
@@ -26351,7 +26351,7 @@
       ]
     },
     "industry": "Business and Professional Services",
-    "last_updated": 1767790717,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770502917
   },
   {
@@ -26615,8 +26615,8 @@
       "out_of_scope": []
     },
     "industry": "Financial Services and Insurance",
-    "last_updated": 1756806131,
-    "last_submission": 1770065992
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770539059
   },
   {
     "name": "Online enrollment for students Bug Bounty Program",
@@ -26715,7 +26715,7 @@
       "out_of_scope": []
     },
     "industry": "Education",
-    "last_updated": 1768206944,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1769671463
   },
   {
@@ -26863,7 +26863,7 @@
       "out_of_scope": []
     },
     "industry": "Retail",
-    "last_updated": 1770516752,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770516738
   },
   {
@@ -27152,8 +27152,8 @@
       "out_of_scope": []
     },
     "industry": "Leisure and Hospitality",
-    "last_updated": 1767593616,
-    "last_submission": 1770474502
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770584824
   },
   {
     "name": "Venly",
@@ -27304,7 +27304,7 @@
       "out_of_scope": []
     },
     "industry": "Software",
-    "last_updated": 1760445056,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770143453
   },
   {
@@ -27440,8 +27440,8 @@
       "out_of_scope": []
     },
     "industry": "Media and Entertainment",
-    "last_updated": 1769861205,
-    "last_submission": 1770477605
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770553353
   },
   {
     "name": "EURid",
@@ -27602,7 +27602,7 @@
       "out_of_scope": []
     },
     "industry": "Public Services",
-    "last_updated": 1743597645,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1743044329
   },
   {
@@ -27856,8 +27856,8 @@
       "out_of_scope": []
     },
     "industry": "Financial Services and Insurance",
-    "last_updated": 1770476035,
-    "last_submission": 1770422124
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770556701
   },
   {
     "name": "Tweakers",
@@ -27973,7 +27973,7 @@
       ]
     },
     "industry": "Media and Entertainment",
-    "last_updated": 1743597917,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770500942
   },
   {
@@ -28218,7 +28218,7 @@
       ]
     },
     "industry": "Software",
-    "last_updated": 1767091996,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770185250
   },
   {
@@ -28361,7 +28361,7 @@
       ]
     },
     "industry": "Hospitals and Healthcare",
-    "last_updated": 1763969692,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770293822
   },
   {
@@ -28450,7 +28450,7 @@
       "out_of_scope": []
     },
     "industry": "Financial Services and Insurance",
-    "last_updated": 1768805787,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1769535021
   },
   {
@@ -28548,7 +28548,7 @@
       "out_of_scope": []
     },
     "industry": "Hospitals and Healthcare",
-    "last_updated": 1749125674,
+    "last_updated": "2026-02-09T08:59:08.112Z",
     "last_submission": 1770096059
   },
   {
@@ -29170,7 +29170,7 @@
       ]
     },
     "industry": "Media and Entertainment",
-    "last_updated": 1769601648,
-    "last_submission": 1770385817
+    "last_updated": "2026-02-09T08:59:08.112Z",
+    "last_submission": 1770617287
   }
 ]
