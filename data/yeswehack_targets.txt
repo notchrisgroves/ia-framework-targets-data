@@ -33,6 +33,11 @@
 *.piaservers.net
 *.polymoon.it
 *.privateinternetaccess.com
+*.roondrops.com
+*.roonessentials.com
+*.roonessentials.net
+*.roonlabs.com
+*.roonlabs.net
 *.soyoustart.com
 *.support.jbl.com
 *.uk.harmanaudio.com
