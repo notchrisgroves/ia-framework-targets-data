@@ -1,12 +1,83 @@
 *.acorns.com/
+*.aips-internal.com
+*.alditalk-kundenbetreuung.de
 *.atlastunnel.com
+*.ayyildiz.de
+*.base.de
+*.bedbathandbeyond.com
+*.binance.com
+*.binance.us
+*.bitdefender.com
+*.bitdefender.net
+*.blau.de
+*.bugcrowd.com/auth/*
+*.certsy.com
+*.certsynonprod.com
+*.dell.com/*
+*.delltechnologies.com/*
+*.einfachprepaid.de
+*.epos.vertriebspartner.de.o2.com
+*.etsy.com
+*.fonic-mobile.de
+*.fonic.de
+*.gov.bugcrowd.net
 *.healthifyme.com
 *.ikarem.io
+*.indeed.com
+*.intercomassets.com / *.intercomcdn.com
 *.loom.com
+*.mediamarkt.o2service.de
+*.mein.aetkasmart.de
 *.meraki.com
+*.nettokom.de
 *.network-auth.com
+*.netzclub.net
+*.norma-mobil.de
+*.nova-mobil.de
+*.o2.de
+*.o2business.de
+*.o2online.de
+*.o2service.de
+*.o2spin.de
+*.opsgenie.com
+*.ortelmobile.de
+*.outfra.xyz
+*.pinterest.com Web Apps
 *.s-cloud.net
+*.sandbox.directly.com/
+*.saturn.o2service.de
+*.seek.com.au
+*.seekpass-staging.com
+*.seekpass.co
+*.sim-karte-aktivierung.blauworld.de
+*.skinfra.xyz
+*.skyscanner.net
+*.solarcity.com
 *.soundcloud.org
+*.staging.luno.com/
+*.statuspage.io
+*.supplieroasis.com
+*.taggermedia.com
+*.telefonica.de
+*.tesla.cn
+*.tesla.com
+*.tesla.services
+*.teslainsuranceservices.com
+*.teslamotors.com
+*.trello.services
+*.turkei-sim.de
+*.underarmour.cn
+*.viator.com
+*.viatorinc.com
+*.whatsappsim.de
+*staging.luno.com.ng/
+3rd party services hosted at *.sophos.com
+Admintool
+Advanced Server Access (ASA) / (ScaleFT)
+All Constant Contact Websites
+All SharpSpring Websites
+Any FIS asset is in scope
+Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 Any publicly facing asset owned by HealthifyMe (ip space, domains, etc)
 Atlassian Admin (https://admin.atlassian.com/)
@@ -19,11 +90,20 @@ Atlassian Start (https://start.atlassian.com)
 Bamboo
 Bitbucket Cloud including Bitbucket Pipelines (https://bitbucket.org)
 Bitbucket Data Center
+Butler for Trello
+CHP Cloud Portal
+Calendar Power-Up
+Card Aging Power-Up
+Career Scout
 Confluence Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)
 Confluence Cloud Premium (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)
 Crowd
 Crucible
+Data portal
+Direct Contracts
 FishEye
+Indeed Recruiter Extension (Chrome)
+Inhouse deployment pipeline
 Jira Core Data Center
 Jira Product Discovery
 Jira Service Management Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net)
@@ -31,20 +111,190 @@ Jira Service Management Data Center
 Jira Software Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net)
 Jira Software Data Center
 Jira Work Management Cloud formerly Jira Core (bugbounty-test-<bugcrowd-name>.atlassian.net)
+Keeper Admin Console (US, EU, AU, CA, JP, GovCloud)
+Keeper Enterprise
+Keeper Security Website
+Keeper Web Vault (US, EU, AU, CA, JP, GovCloud)
+KeeperPAM Privileged Access Manager
+LP dashboard
+Lime GPT
+Lime website
+List Limits Power-Up
 Loom Desktop App (Windows)
 Loom Desktop App (macOS)
+Microsoft Teams Integration
 Other Rovo Dev
 Rovo
+SmartThings Graph Console
+Sophos Central (Production)
+Sophos Central (Production) - Special Target
+SpaceX and Starlink assets (target information and rewards detailed above on the brief)
+Trello Third Party Powerups
+Trustwallet Chrome Extension
+Upwork - Marketplace Portal
+Upwork - Messages
+Voting Power-Up
+Web v2
+advocacy.sproutsocial.com
+aemdam.usaa360.com
+api.trello.com
+app.opsgenie.com
+app.sandbox.directly.com
+app.sproutsocial.com
+app.sproutsocial.eu
 apps.meraki.io
 artists.soundcloud.com
+authn.usaa.com
+binance.tr
+blog.etsy.com
+bugcrowd-pam-###.oktapreview.com
+bugcrowd-pam-###.pam.oktapreview.com
+bugcrowd.com
+careers.etsy.com
+coinmarketcap.com
+community.etsy.com
+content.usaa.com
+creatorhub.sproutsocial.com
+d1.utv.usaa.com
+d2.utv.usaa.com
 dimensions.cloudinary.com
+docs.bugcrowd.com
+externalconnect.usaa.com
+gov.bugcrowd.net
+guest.usaa.com
+help.etsy.com
+http(s)://edge.supplieroasis.com
+http://app.scaleft.com/
+http://ibotta.com
+https://*.indeed.net
+https://*.indeed.tech
+https://*.indeedflex.com
+https://accounts.lastpass.com
+https://admin.lastpass.com
+https://answers.irobot.com
+https://app.intercom.com
+https://app.intercom.io
+https://app.staging.luno.com/
+https://armourhouse.underarmour.com
+https://auth.lastpass.com
+https://backend.ibotta.com/
+https://blog.lastpass.com
+https://bugcrowd-pam-###-admin.oktapreview.com
+https://bugcrowd-pam-###.at.oktapreview.com
+https://bugcrowd-pam-###.oktapreview.com
+https://bugcrowd-pam-###.workflows.oktapreview.com
 https://bugcrowdinc.labs.us..kennasecurity.com
 https://cloudinary.com/console
+https://console.delltechnologies.com/nav/administration
+https://console.delltechnologies.com/nav/billing
+https://console.delltechnologies.com/nav/invoice
+https://consumer-sustainability.underarmour.com/en
+https://help.supplier.viator.com/en
+https://identity.bugcrowd.com/
+https://investor.irobot.com
+https://lastpass.com
+https://media.irobot.com
+https://mg.n0c.com/
+https://partners.viator.com
+https://resume.com
+https://sandbox.directly.com/dashboard/index
+https://supplier.viator.com/
+https://support.lastpass.com
+https://underarmournext.com/
+https://vertriebspartner.de.o2.com/partos
+https://wowjobs.ca
 https://www.gohenry.com/
+https://www.homesupport.irobot.com
+https://www.intercom.com
+https://www.irobot.at/
+https://www.irobot.be/
+https://www.irobot.ca/en_CA
+https://www.irobot.ca/fr_CA/home
+https://www.irobot.co.uk/
+https://www.irobot.com
+https://www.irobot.de/
+https://www.irobot.es/
+https://www.irobot.fr/
+https://www.irobot.ie/
+https://www.irobot.nl/
+https://www.irobot.pt/
+https://www.lastpass.com
 https://www.pixpay.fr/
+https://www.shffls.com
+https://www.underarmournext.co.uk/
+identity.sproutsocial.com
+identity.sproutsocial.eu
+influencer.sproutsocial.com
+kiwi.partner.viator.com
+liveassist23.usaa.com
+liveassist24.usaa.com
+manage.statuspage.io
+mcp.intercom.com
+media.sproutsocial.com
 mediaflows.cloudinary.com
 meraki.cisco.com
+mguest.usaa.com
+mobile.usaa.com
+mobileapp.opsgenie.com
+mstatic.usaa.com
+my.planethoster.com
+mydesktop.usaa.com
+myvpn.usaa.com
+nice.wfmusaa.com
+partnerhelp.viator.com/
+partnerportal.skyscanner.net/*
+personal.trexcloud.com
+pro.coinmarketcap.com
+revenue.sproutsocial.com
+revenue.sproutsocial.eu
+s1.utv.usaa.com
+s2.utv.usaa.com
+secure-form.sproutsocial.com
+secure-form.sproutsocial.eu
+securemail.usaa.com
+selector.viator.com
+share.sproutsocial.com
+skyscanner.net/*
+skyscanner.net/hotels/book/*
+sockets.sproutsocial.com
+sockets.sproutsocial.eu
 soundcloud.com
 soundcloud.org
+sprout.link
+sproutsocial.com
+sproutsocial.com/adapt/
+sproutsocial.com/insights
+staging-app.bany.dev
+static.usaa.com
+support.okta.com
+travelagents.viator.com
+trello.com
+underarmour.co.kr
+usaa.com
+usaainsurance.com
+utv.usaa.com
+v.utv.usaa.com
+vendorss.usaa.com
+vlagg.usaa.com
+vpe-us.underarmour.com
+world.planethoster.net
+www.bedbathandbeyond.com
+www.bugcrowd.com
+www.etsy.com
 www.flyswoop.com
+www.planethoster.com
+www.underarmour.co.uk
+www.underarmour.com
+www.underarmour.com.sg
+www.upwork.com
 www.westjet.com
+www.ynab.com
+███████
+████████████
+█████████████
+██████████████
+███████████████
+████████████████
+█████████████████
+██████████████████
+█████████████████████

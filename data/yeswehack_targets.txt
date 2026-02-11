@@ -65,6 +65,7 @@ antbank.hk
 api.ezvizlife.com
 api.ovh.com
 app.alasco.de
+app.expressmailguard.com
 app.midtrans.com
 app.swapcard.com
 app.zivver.com
@@ -121,6 +122,7 @@ https://app.sandbox.agora.incubateur.net
 https://app.withings.com
 https://appointment.vfsglobal.com.dz/forms/FRDZ/
 https://auth.datadome.co
+https://auth.easyship.com
 https://auth.pentest.clicsante.ca/
 https://beta.gastwebsite-acm.burgerprofiel.ext-vlaanderen.be
 https://beta.gastwebsite.burgerprofiel.ext-vlaanderen.be
@@ -138,8 +140,10 @@ https://bounty.cryptobox.com
 https://bug-bounty-dfm.mementoblockchain.com/
 https://burgerprofiel.beta-vlaanderen.be
 https://cicforms.mioot.com/forms/PS/
+https://claims.easyship.com/
 https://clients3.pentest.clicsante.ca/
 https://cockpit-eu-west-2.outscale.com/
+https://collect.easyship.com/
 https://credit.pinelabs.com
 https://customer-portal.paddle.com
 https://daily.blablacar.fr
@@ -212,13 +216,14 @@ https://service.post.ch/zopa/app/
 https://shop.post.ch/shop
 https://sncf-connect.com
 https://spacelift.dev/
+https://supership.easyship.com
 https://supplier-connect.otto.de
 https://sycamore.moneyboxapp.org/
 https://telehealth.onedoc.ch
 https://teleoptiprd.otto.de
 https://test.m4sv.bugbounty.akinox.dev/
 https://thueringer-foerderportal.eu
-https://toom.de
+https://trackmyshipment.co
 https://trm.pinelabs.ae
 https://vc.tasheer.com/
 https://vendors.paddle.com
@@ -241,6 +246,7 @@ https://www.decathlon.(co.uk|it|nl|de|pt|es|be)/
 https://www.definitivetechnology.com
 https://www.demarches-simplifiees.fr
 https://www.denon.com
+https://www.easyship.com
 https://www.imou.com
 https://www.lascana.de/
 https://www.letspaylater.ph/
