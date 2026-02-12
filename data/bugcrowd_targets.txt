@@ -1,4 +1,3 @@
-*.acorns.com/
 *.aips-internal.com
 *.alditalk-kundenbetreuung.de
 *.atlastunnel.com
@@ -203,7 +202,6 @@ https://support.lastpass.com
 https://underarmournext.com/
 https://vertriebspartner.de.o2.com/partos
 https://wowjobs.ca
-https://www.gohenry.com/
 https://www.homesupport.irobot.com
 https://www.intercom.com
 https://www.irobot.at/
@@ -219,7 +217,6 @@ https://www.irobot.ie/
 https://www.irobot.nl/
 https://www.irobot.pt/
 https://www.lastpass.com
-https://www.pixpay.fr/
 https://www.shffls.com
 https://www.underarmournext.co.uk/
 identity.sproutsocial.com
