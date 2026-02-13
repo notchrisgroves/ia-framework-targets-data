@@ -17,6 +17,7 @@
 *.delltechnologies.com/*
 *.einfachprepaid.de
 *.epos.vertriebspartner.de.o2.com
+*.etsy.com
 *.fonic-mobile.de
 *.fonic.de
 *.gov.bugcrowd.net
@@ -145,10 +146,13 @@ apps.meraki.io
 artists.soundcloud.com
 authn.usaa.com
 binance.tr
+blog.etsy.com
 bugcrowd-pam-###.oktapreview.com
 bugcrowd-pam-###.pam.oktapreview.com
 bugcrowd.com
+careers.etsy.com
 coinmarketcap.com
+community.etsy.com
 content.usaa.com
 creatorhub.sproutsocial.com
 d1.utv.usaa.com
@@ -158,6 +162,7 @@ docs.bugcrowd.com
 externalconnect.usaa.com
 gov.bugcrowd.net
 guest.usaa.com
+help.etsy.com
 http(s)://edge.supplieroasis.com
 http://app.scaleft.com/
 http://ibotta.com
@@ -275,6 +280,7 @@ vpe-us.underarmour.com
 world.planethoster.net
 www.bedbathandbeyond.com
 www.bugcrowd.com
+www.etsy.com
 www.flyswoop.com
 www.planethoster.com
 www.underarmour.co.uk
