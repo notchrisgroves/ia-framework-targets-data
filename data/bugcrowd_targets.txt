@@ -1,3 +1,4 @@
+*.acorns.com/
 *.aips-internal.com
 *.alditalk-kundenbetreuung.de
 *.atlastunnel.com
@@ -16,7 +17,6 @@
 *.delltechnologies.com/*
 *.einfachprepaid.de
 *.epos.vertriebspartner.de.o2.com
-*.etsy.com
 *.fonic-mobile.de
 *.fonic.de
 *.gov.bugcrowd.net
@@ -145,13 +145,10 @@ apps.meraki.io
 artists.soundcloud.com
 authn.usaa.com
 binance.tr
-blog.etsy.com
 bugcrowd-pam-###.oktapreview.com
 bugcrowd-pam-###.pam.oktapreview.com
 bugcrowd.com
-careers.etsy.com
 coinmarketcap.com
-community.etsy.com
 content.usaa.com
 creatorhub.sproutsocial.com
 d1.utv.usaa.com
@@ -161,7 +158,6 @@ docs.bugcrowd.com
 externalconnect.usaa.com
 gov.bugcrowd.net
 guest.usaa.com
-help.etsy.com
 http(s)://edge.supplieroasis.com
 http://app.scaleft.com/
 http://ibotta.com
@@ -202,6 +198,7 @@ https://support.lastpass.com
 https://underarmournext.com/
 https://vertriebspartner.de.o2.com/partos
 https://wowjobs.ca
+https://www.gohenry.com/
 https://www.homesupport.irobot.com
 https://www.intercom.com
 https://www.irobot.at/
@@ -217,6 +214,7 @@ https://www.irobot.ie/
 https://www.irobot.nl/
 https://www.irobot.pt/
 https://www.lastpass.com
+https://www.pixpay.fr/
 https://www.shffls.com
 https://www.underarmournext.co.uk/
 identity.sproutsocial.com
@@ -277,7 +275,6 @@ vpe-us.underarmour.com
 world.planethoster.net
 www.bedbathandbeyond.com
 www.bugcrowd.com
-www.etsy.com
 www.flyswoop.com
 www.planethoster.com
 www.underarmour.co.uk
