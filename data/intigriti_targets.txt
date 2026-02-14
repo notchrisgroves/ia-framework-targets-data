@@ -31,6 +31,7 @@
 *.biarrinetworks.com
 *.bigmoralis.com
 *.bild.de
+*.bild.design
 *.bild.tv
 *.biotechnology-citymesh.com
 *.bmc.nl
@@ -50,6 +51,7 @@
 *.bz-berlin.de
 *.canadapost-postescanada.ca
 *.capital.com
+*.capitalbolig.dk
 *.capitalinvestment.dk
 *.citymesh-connect.be
 *.citymesh-connect.com
@@ -304,7 +306,6 @@
 *.uzleuven.*
 *.veriff.com
 *.vestolit.com
-*.vlaanderen.be
 *.vlerick.com
 *.voiscooters.com
 *.volkskrant.nl
@@ -350,7 +351,6 @@ HelloFax.com
 HelloSign.com
 Lansweeper Discovery
 Other assets owned by Personio
-accept.delijn.be
 access.ripe.net
 accountsettings.connect.identity.stagaws.visma.com
 admin.stage.vismaonline.com
@@ -365,7 +365,6 @@ amd.digitalocean.com
 anaconda.com
 analytics.ninjakiwi.com
 annualreport.cybersecuritycoalition.be
-api-a.delijn.be
 api-accpt.portofantwerp.com
 api-accpt.portofantwerpbruges.com
 api-sandbox.uphold.com
@@ -376,7 +375,6 @@ api.arkane.network
 api.cloudways.com
 api.cm.com
 api.cmtelecom.com
-api.delijn.be
 api.digital.delen.be
 api.digital.delen.lu
 api.digitalocean.com
@@ -600,11 +598,7 @@ https://auth.api.soundtrackyourbrand.com/
 https://auth.citymesh.com/
 https://auth.wifilab.be/
 https://auth2.pdq.com/
-https://beta.gastwebsite-acm.burgerprofiel.ext-vlaanderen.be
-https://beta.gastwebsite.burgerprofiel.ext-vlaanderen.be
-https://beta.widgets.burgerprofiel.dev-vlaanderen.be/
 https://bitvavo.com
-https://burgerprofiel.beta-vlaanderen.be
 https://business.rivian.com/api
 https://cabmanager.citymesh.com/
 https://cc.safety-drones.com/
@@ -628,6 +622,9 @@ https://getflywheel.com
 https://github.com/AikidoSec/firewall-php#Detection Bypass
 https://github.com/AikidoSec/firewall-php#False Positive
 https://github.com/AikidoSec/firewall-php#Vulnerability
+https://github.com/AikidoSec/firewall-ruby#Detection Bypass
+https://github.com/AikidoSec/firewall-ruby#False Positive
+https://github.com/AikidoSec/firewall-ruby#Vulnerability
 https://github.com/grafana/*
 https://hstconboarding.peoplecert.org/
 https://hug.personio.com
@@ -681,7 +678,6 @@ https://uat-www.usgprofessionals.be
 https://velocitize.com
 https://verify.proof.com
 https://viper.uat.vlerick.com/
-https://vo-gebruikersbeheer.vlaanderen.be/
 https://webwsp.aps.kuleuven.be/sap/bc/ui5_ui5/sap/zc_oi_appl/
 https://wpengine.com
 https://www-tst.vlerick.com/en/
@@ -947,7 +943,6 @@ www.datacamp.com
 www.datacamp.com/datalab
 www.delen.bank
 www.delen.be/en
-www.delijn.be
 www.demorgen.be
 www.demorgen.be/abonnementen
 www.digitalocean.com

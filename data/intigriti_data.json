@@ -423,8 +423,8 @@
       ]
     },
     "industry": "Retail",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770661241
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1771018403
   },
   {
     "name": "The Perfume Shop",
@@ -600,8 +600,8 @@
       ]
     },
     "industry": "Retail",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770652163
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770985063
   },
   {
     "name": "Marionnaud",
@@ -1394,8 +1394,8 @@
       ]
     },
     "industry": "Retail",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770643607
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1771006659
   },
   {
     "name": "Superdrug",
@@ -1739,8 +1739,8 @@
       ]
     },
     "industry": "Retail",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770653057
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770984792
   },
   {
     "name": "Kruidvat",
@@ -2268,8 +2268,8 @@
       ]
     },
     "industry": "Retail",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770589433
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1771010794
   },
   {
     "name": "Watsons",
@@ -3517,8 +3517,8 @@
       ]
     },
     "industry": "Retail",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770652287
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1771033239
   },
   {
     "name": "Storebrand Responsible Disclosure",
@@ -3561,6 +3561,15 @@
     "report_quality_guidelines": [],
     "targets": {
       "in_scope": [
+        {
+          "type": "website",
+          "target": "*.capitalbolig.dk",
+          "tier": "No Bounty",
+          "tags": [
+            "Website",
+            "No Bounty"
+          ]
+        },
         {
           "type": "website",
           "target": "*.aipmanagement.dk",
@@ -3754,8 +3763,8 @@
       "out_of_scope": []
     },
     "industry": "Financial Services and Insurance",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770522550
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770921560
   },
   {
     "name": "Anaconda Vulnerability Disclosure Program",
@@ -3809,8 +3818,8 @@
       "out_of_scope": []
     },
     "industry": "Software",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770553109
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770995326
   },
   {
     "name": "Voi Vulnerability Disclosure Program",
@@ -3874,7 +3883,7 @@
       ]
     },
     "industry": "Transportation and Logistics",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1769927032
   },
   {
@@ -4058,8 +4067,8 @@
       "out_of_scope": []
     },
     "industry": "Software",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770444569
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770972995
   },
   {
     "name": "Trusted Firmware",
@@ -4169,8 +4178,8 @@
       "out_of_scope": []
     },
     "industry": "Software",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770648444
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1771020862
   },
   {
     "name": "Ubisoft Game Security BBP",
@@ -4207,7 +4216,7 @@
       "out_of_scope": []
     },
     "industry": "Media and Entertainment",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1769471867
   },
   {
@@ -4312,8 +4321,8 @@
       "out_of_scope": []
     },
     "industry": "Software",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770328617
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770990479
   },
   {
     "name": "Exoscale Bug Bounty",
@@ -4510,8 +4519,8 @@
       ]
     },
     "industry": "It Services",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770619999
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1771055426
   },
   {
     "name": "Bitvavo VDP",
@@ -4605,7 +4614,7 @@
       "out_of_scope": []
     },
     "industry": "Financial Services and Insurance",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1770513087
   },
   {
@@ -4657,8 +4666,8 @@
       "out_of_scope": []
     },
     "industry": null,
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1763467820
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770905408
   },
   {
     "name": "Dropbox Vulnerability Disclosure Program ",
@@ -4722,8 +4731,8 @@
       ]
     },
     "industry": "Software",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770499172
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770734993
   },
   {
     "name": "Qualified Responsible Disclosure Program",
@@ -4798,7 +4807,7 @@
       "out_of_scope": []
     },
     "industry": "Software",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1769633624
   },
   {
@@ -5179,8 +5188,8 @@
       ]
     },
     "industry": "Software",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770660709
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770979049
   },
   {
     "name": "NVIDIA Vulnerability Disclosure Program",
@@ -5244,8 +5253,8 @@
       ]
     },
     "industry": "Software",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770625907
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770815075
   },
   {
     "name": "Proof.com VDP",
@@ -5320,8 +5329,8 @@
       "out_of_scope": []
     },
     "industry": "Software",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1766126071
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1771046403
   },
   {
     "name": "VDP",
@@ -5378,7 +5387,7 @@
       "out_of_scope": []
     },
     "industry": "Software",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1761040155
   },
   {
@@ -5416,7 +5425,7 @@
       "out_of_scope": []
     },
     "industry": "Software",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1768777002
   },
   {
@@ -5509,7 +5518,7 @@
       "out_of_scope": []
     },
     "industry": "Manufacturing Consumer",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1770058243
   },
   {
@@ -5710,8 +5719,8 @@
       ]
     },
     "industry": "Software",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770180822
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770997358
   },
   {
     "name": "Nexuzhealth VDP",
@@ -5768,8 +5777,8 @@
       "out_of_scope": []
     },
     "industry": "Hospitals and Healthcare",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1769930475
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770973106
   },
   {
     "name": "Nexuzhealth",
@@ -5981,7 +5990,7 @@
       ]
     },
     "industry": "Hospitals and Healthcare",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1770646279
   },
   {
@@ -6066,8 +6075,8 @@
       ]
     },
     "industry": "Leisure and Hospitality",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770604362
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770847197
   },
   {
     "name": "Zabka Group Vulnerability Disclosure Program",
@@ -6252,8 +6261,8 @@
       ]
     },
     "industry": "Retail",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1769701085
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1771003993
   },
   {
     "name": "Donorbox VDP",
@@ -6371,7 +6380,7 @@
       "out_of_scope": []
     },
     "industry": "Financial Services and Insurance",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1769088051
   },
   {
@@ -6595,7 +6604,7 @@
       ]
     },
     "industry": "Business and Professional Services",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1766763773
   },
   {
@@ -6724,8 +6733,8 @@
       "out_of_scope": []
     },
     "industry": "Construction",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1769596249
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770719929
   },
   {
     "name": "Altera",
@@ -6841,8 +6850,8 @@
       "out_of_scope": []
     },
     "industry": "Manufacturing Consumer",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770660207
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770862273
   },
   {
     "name": "Monzo Public Bug Bounty Program",
@@ -7038,8 +7047,8 @@
       ]
     },
     "industry": "Financial Services and Insurance",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770604950
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1771003128
   },
   {
     "name": "OVO VDP",
@@ -9069,8 +9078,8 @@
       ]
     },
     "industry": "Energy Utilities and Waste",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1765624948
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770952897
   },
   {
     "name": "Aikido Security: Zen by Aikido ",
@@ -9157,6 +9166,15 @@
         },
         {
           "type": "website",
+          "target": "https://github.com/AikidoSec/firewall-ruby#Vulnerability",
+          "tier": "Tier 1",
+          "tags": [
+            "Website",
+            "Tier 1"
+          ]
+        },
+        {
+          "type": "website",
           "target": "https://github.com/AikidoSec/firewall-php#Vulnerability",
           "tier": "Tier 1",
           "tags": [
@@ -9178,6 +9196,15 @@
           "tier": "Tier 2",
           "description": "Tier 2 is for bypasses in the vulnerability detection of the firewall component, such as a bypass of our SQL injection detection.\nSee Severity Assessment for more information.",
           "tags": [
+            "Tier 2"
+          ]
+        },
+        {
+          "type": "website",
+          "target": "https://github.com/AikidoSec/firewall-ruby#Detection Bypass",
+          "tier": "Tier 2",
+          "tags": [
+            "Website",
             "Tier 2"
           ]
         },
@@ -9209,6 +9236,15 @@
         },
         {
           "type": "website",
+          "target": "https://github.com/AikidoSec/firewall-ruby#False Positive",
+          "tier": "Tier 3",
+          "tags": [
+            "Website",
+            "Tier 3"
+          ]
+        },
+        {
+          "type": "website",
           "target": "https://github.com/AikidoSec/firewall-php#False Positive",
           "tier": "Tier 3",
           "tags": [
@@ -9228,8 +9264,8 @@
       "out_of_scope": []
     },
     "industry": "Software",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770559372
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770995680
   },
   {
     "name": "Aikido Security: Bug Bounty Program",
@@ -9335,8 +9371,8 @@
       ]
     },
     "industry": "Software",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770560637
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770938401
   },
   {
     "name": "SolarWinds Serv-U ",
@@ -9352,7 +9388,7 @@
       "value": 4000,
       "currency": "USD"
     },
-    "status": "Unknown",
+    "status": "Suspended",
     "confidentiality_level": "Public",
     "program_type": "Bug bounty program",
     "tac_required": false,
@@ -9373,8 +9409,8 @@
       "out_of_scope": []
     },
     "industry": "Software",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1769199086
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770914275
   },
   {
     "name": "Grafana Labs",
@@ -9525,8 +9561,8 @@
       ]
     },
     "industry": "Software",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770651494
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1771026814
   },
   {
     "name": "Cloudways by DigitalOcean",
@@ -9670,8 +9706,8 @@
       "out_of_scope": []
     },
     "industry": "Software",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770654636
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770762689
   },
   {
     "name": "DigitalOcean",
@@ -10216,8 +10252,8 @@
       ]
     },
     "industry": "Software",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770662270
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1771024196
   },
   {
     "name": "House of HR Vulnerability Disclosure Program",
@@ -10309,7 +10345,7 @@
       ]
     },
     "industry": "Business and Professional Services",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1769468999
   },
   {
@@ -10415,8 +10451,8 @@
       "out_of_scope": []
     },
     "industry": "Manufacturing Consumer",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770617720
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770836425
   },
   {
     "name": "BMW Group",
@@ -10573,8 +10609,8 @@
       ]
     },
     "industry": "Manufacturing Consumer",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770638755
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1771045066
   },
   {
     "name": "Driessen Vulnerability Disclosure Program",
@@ -10647,7 +10683,7 @@
       ]
     },
     "industry": "Business and Professional Services",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1763237908
   },
   {
@@ -10758,7 +10794,7 @@
       ]
     },
     "industry": "Software",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1762067542
   },
   {
@@ -10826,7 +10862,7 @@
       ]
     },
     "industry": "Media and Entertainment",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1770221452
   },
   {
@@ -10902,7 +10938,7 @@
       "out_of_scope": []
     },
     "industry": "Software",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1769217335
   },
   {
@@ -10992,7 +11028,7 @@
       "out_of_scope": []
     },
     "industry": "Manufacturing Consumer",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1768310857
   },
   {
@@ -11347,8 +11383,8 @@
       ]
     },
     "industry": "Energy Utilities and Waste",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770067131
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770738943
   },
   {
     "name": "Allegro",
@@ -11492,8 +11528,8 @@
       ]
     },
     "industry": "Retail",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770656382
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770983785
   },
   {
     "name": "Citymesh Responsible Vulnerability Disclosure Program",
@@ -12417,8 +12453,8 @@
       ]
     },
     "industry": "Telecommunications",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770484094
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770714395
   },
   {
     "name": "The Coca-Cola Company Vulnerability Disclosure Program",
@@ -12574,8 +12610,8 @@
       ]
     },
     "industry": "Manufacturing Consumer",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770628871
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1771055807
   },
   {
     "name": "e-tracker",
@@ -12632,7 +12668,7 @@
       "out_of_scope": []
     },
     "industry": "Financial Services and Insurance",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1766608952
   },
   {
@@ -12751,8 +12787,8 @@
       ]
     },
     "industry": "Business and Professional Services",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770312638
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770893792
   },
   {
     "name": "Capture Our Flag",
@@ -12789,7 +12825,7 @@
       "out_of_scope": []
     },
     "industry": "Software",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1770103885
   },
   {
@@ -12914,8 +12950,8 @@
       ]
     },
     "industry": "Software",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770640274
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770743152
   },
   {
     "name": "Veriff Bug Bounty",
@@ -13134,8 +13170,8 @@
       ]
     },
     "industry": "Software",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770471686
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770960242
   },
   {
     "name": "FREEPIK VDP",
@@ -13191,8 +13227,8 @@
       "out_of_scope": []
     },
     "industry": "Media and Entertainment",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1767873374
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770858446
   },
   {
     "name": "Rivian Bug Bounty",
@@ -13418,8 +13454,8 @@
       ]
     },
     "industry": "Manufacturing Consumer",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770463815
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1771052928
   },
   {
     "name": "Bühler Group VDP",
@@ -13644,8 +13680,8 @@
       ]
     },
     "industry": "Manufacturing Industrial",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1769648775
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770964763
   },
   {
     "name": "AMD Product Security Bug Bounty Program",
@@ -13754,8 +13790,8 @@
       ]
     },
     "industry": "Manufacturing Consumer",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770606749
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1771054408
   },
   {
     "name": "Posti Bug Bounty ",
@@ -13792,8 +13828,8 @@
       "out_of_scope": []
     },
     "industry": "Transportation and Logistics",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770330326
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770746816
   },
   {
     "name": "Webnode",
@@ -13830,7 +13866,7 @@
       "out_of_scope": []
     },
     "industry": "Media and Entertainment",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1761029159
   },
   {
@@ -13939,8 +13975,8 @@
       "out_of_scope": []
     },
     "industry": "Transportation and Logistics",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770573467
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770992274
   },
   {
     "name": "Revolut VDP",
@@ -13994,7 +14030,7 @@
       "out_of_scope": []
     },
     "industry": "Financial Services and Insurance",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1770397143
   },
   {
@@ -14051,7 +14087,7 @@
       "out_of_scope": []
     },
     "industry": "Financial Services and Insurance",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1769287670
   },
   {
@@ -14120,7 +14156,7 @@
       "out_of_scope": []
     },
     "industry": "Hospitals and Healthcare",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1769377019
   },
   {
@@ -14257,7 +14293,7 @@
       "out_of_scope": []
     },
     "industry": "Leisure and Hospitality",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1770275491
   },
   {
@@ -14546,6 +14582,15 @@
         },
         {
           "type": "website",
+          "target": "*.bild.design",
+          "tier": "Tier 2",
+          "tags": [
+            "Website",
+            "Tier 2"
+          ]
+        },
+        {
+          "type": "website",
           "target": "*.autobild.de",
           "tier": "Tier 2",
           "description": "Is a magazine  with the topic cars from Bild.Some examples of subdomains\n\nclub.autobild.de\n\nYou are also welcome to create your own account to test our system.",
@@ -14726,8 +14771,8 @@
       ]
     },
     "industry": "Media and Entertainment",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770648685
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1771017473
   },
   {
     "name": "Ubisoft Responsible Disclosure Program",
@@ -14818,7 +14863,7 @@
       ]
     },
     "industry": "Media and Entertainment",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1770294210
   },
   {
@@ -15304,8 +15349,8 @@
       ]
     },
     "industry": "Media and Entertainment",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770666307
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1771044284
   },
   {
     "name": "Ninja Kiwi Games Bug Bounty program",
@@ -15557,8 +15602,8 @@
       ]
     },
     "industry": "Media and Entertainment",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770637166
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770735069
   },
   {
     "name": "Capital.com",
@@ -15807,8 +15852,8 @@
       ]
     },
     "industry": "Financial Services and Insurance",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770649366
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770910271
   },
   {
     "name": "Wolt",
@@ -16047,8 +16092,8 @@
       ]
     },
     "industry": "Leisure and Hospitality",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770666217
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770985557
   },
   {
     "name": "WP Engine Bug Bounty",
@@ -16308,8 +16353,8 @@
       ]
     },
     "industry": "Media and Entertainment",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770495028
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1771003627
   },
   {
     "name": "RIPE NCC",
@@ -16574,7 +16619,7 @@
       ]
     },
     "industry": "Non Profit",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1770507541
   },
   {
@@ -16664,111 +16709,8 @@
       "out_of_scope": []
     },
     "industry": "Education",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1769850442
-  },
-  {
-    "name": "De Lijn",
-    "url": "https://app.intigriti.com/programs/delijn/delijn/detail",
-    "platform": "intigriti",
-    "handle": "delijn",
-    "company_handle": "delijn",
-    "min_bounty": {
-      "value": 0,
-      "currency": "EUR"
-    },
-    "max_bounty": {
-      "value": 0,
-      "currency": "EUR"
-    },
-    "status": "Closed",
-    "confidentiality_level": "Private",
-    "program_type": "Responsible disclosure",
-    "tac_required": false,
-    "two_factor_required": false,
-    "reward_tiers": [],
-    "safe_harbor": "Safe harbor applied",
-    "credentials": "Where can we get credentials for the app?\n\nYou can self-register on the application but please don’t forget to use your @intigriti.me address.\n\nAll aboard!\nPlease log in or sign up on the platform\n\nFor obvious reasons we can only allow submissions or applications for our program with a valid Intigri",
-    "testing_notes": "Automated tooling\nmax. 5 requests /sec\nRequest header\nNot applicable\nBy participating in this program, you agree to:\nRespect the Community Code of Conduct\nRespect the Intigriti Terms and Conditions\nRespect the scope o",
-    "engagement_rules": "Rules of engagement\n@intigriti.me\nRequired\nUser agent\nNot applicable\nAutomated tooling\nmax. 5 requests /sec\nRequest header\nNot applicable\nBy participating in this program, you agree to:\nRespect the Community Code of Conduct\nRespect the Intigriti Terms and Conditions\nRespect the scope of the program\n",
-    "scope_descriptions": {
-      "in_scope": [],
-      "out_of_scope_vulns": [
-        "Cross-site Request Forgery with no or low impact",
-        "DoS",
-        "social engineering",
-        "physical access",
-        "man in the middle",
-        "Username/email enumeration",
-        "Wordpress usernames disclosure",
-        "password complexity",
-        "Best practices violations"
-      ]
-    },
-    "focus_areas": [],
-    "report_quality_guidelines": [],
-    "targets": {
-      "in_scope": [
-        {
-          "type": "ios",
-          "target": "456910787",
-          "tier": "No Bounty",
-          "tags": [
-            "iOS",
-            "No Bounty"
-          ]
-        },
-        {
-          "type": "website",
-          "target": "accept.delijn.be",
-          "tier": "No Bounty",
-          "tags": [
-            "Website",
-            "No Bounty"
-          ]
-        },
-        {
-          "type": "website",
-          "target": "api-a.delijn.be",
-          "tier": "No Bounty",
-          "tags": [
-            "Website",
-            "No Bounty"
-          ]
-        },
-        {
-          "type": "website",
-          "target": "api.delijn.be",
-          "tier": "No Bounty",
-          "tags": [
-            "Website",
-            "No Bounty"
-          ]
-        },
-        {
-          "type": "android",
-          "target": "com.themobilecompany.delijn",
-          "tier": "No Bounty",
-          "tags": [
-            "Android",
-            "No Bounty"
-          ]
-        },
-        {
-          "type": "website",
-          "target": "www.delijn.be",
-          "tier": "No Bounty",
-          "tags": [
-            "Website",
-            "No Bounty"
-          ]
-        }
-      ],
-      "out_of_scope": []
-    },
-    "industry": "Transportation and Logistics",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1749711940
   },
   {
     "name": "Oda",
@@ -16936,8 +16878,8 @@
       "out_of_scope": []
     },
     "industry": "Retail",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770562517
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1771012168
   },
   {
     "name": "TrueLayer",
@@ -17436,8 +17378,8 @@
       ]
     },
     "industry": "Financial Services and Insurance",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770308213
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770744424
   },
   {
     "name": "Voi Scooters",
@@ -17595,7 +17537,7 @@
       "out_of_scope": []
     },
     "industry": "Leisure and Hospitality",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1769689050
   },
   {
@@ -17806,7 +17748,7 @@
       ]
     },
     "industry": "Media and Entertainment",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1769607518
   },
   {
@@ -17844,8 +17786,8 @@
       "out_of_scope": []
     },
     "industry": "Business and Professional Services",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770308718
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770807229
   },
   {
     "name": "PeopleCert VDP",
@@ -17947,8 +17889,8 @@
       "out_of_scope": []
     },
     "industry": "Education",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770487408
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770977798
   },
   {
     "name": "Visma Responsible Disclosure",
@@ -18002,8 +17944,8 @@
       "out_of_scope": []
     },
     "industry": "Software",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770619648
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770752826
   },
   {
     "name": "Nestlé VDP",
@@ -18060,8 +18002,8 @@
       "out_of_scope": []
     },
     "industry": "Manufacturing Consumer",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770451086
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1771001250
   },
   {
     "name": "Canada Post - Responsible Disclosure Program",
@@ -18169,8 +18111,8 @@
       "out_of_scope": []
     },
     "industry": "Transportation and Logistics",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1769627009
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770883094
   },
   {
     "name": "Intel®",
@@ -18306,8 +18248,8 @@
       ]
     },
     "industry": "Manufacturing Consumer",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770650699
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1771053494
   },
   {
     "name": "Soundtrack Your Brand",
@@ -18504,8 +18446,8 @@
       "out_of_scope": []
     },
     "industry": "Media and Entertainment",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770644512
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770828971
   },
   {
     "name": "Mobile Vikings",
@@ -18746,8 +18688,8 @@
       "out_of_scope": []
     },
     "industry": "Telecommunications",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770638444
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770867098
   },
   {
     "name": "Fing Bug Bounty Program",
@@ -18866,7 +18808,7 @@
       "out_of_scope": []
     },
     "industry": "Software",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1770201866
   },
   {
@@ -19018,7 +18960,7 @@
       ]
     },
     "industry": "Education",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1767025168
   },
   {
@@ -19275,8 +19217,8 @@
       ]
     },
     "industry": "Business and Professional Services",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1769173552
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1771033299
   },
   {
     "name": "SimScale",
@@ -19408,7 +19350,7 @@
       ]
     },
     "industry": "Manufacturing Consumer",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1770589980
   },
   {
@@ -19554,190 +19496,8 @@
       ]
     },
     "industry": "Software",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1767437376
-  },
-  {
-    "name": "Digitaal Vlaanderen",
-    "url": "https://app.intigriti.com/programs/vod/digitaalvlaanderen/detail",
-    "platform": "intigriti",
-    "handle": "digitaalvlaanderen",
-    "company_handle": "vod",
-    "min_bounty": {
-      "value": 0,
-      "currency": "EUR"
-    },
-    "max_bounty": {
-      "value": 0,
-      "currency": "EUR"
-    },
-    "status": "Closed",
-    "confidentiality_level": "Private",
-    "program_type": "Responsible disclosure",
-    "tac_required": false,
-    "two_factor_required": false,
-    "reward_tiers": [],
-    "safe_harbor": "Safe harbor applied",
-    "credentials": "Where can we get credentials for the app?\nYou can log on via https://burgerprofiel.beta-vlaanderen.be by clicking on \"Meld u aan\". This will redirect you to https://beta.openid.burgerprofiel.dev-vlaanderen.be/ . Here you need to select an INSZ (= the account) and click on \"Login\". Multiple testing a",
-    "testing_notes": "Automated tooling\nmax. 1 request /sec\nRequest header\nNot applicable\n\nBy participating in this program, you agree to:\n\nFor the IDM scope, you can only request a test account with your intigriti.me e-mail account\nRespec",
-    "engagement_rules": "Rules of engagement\n@intigriti.me\nRequired\nUser agent\nNot applicable\nAutomated tooling\nmax. 1 request /sec\nRequest header\nNot applicable\n\nBy participating in this program, you agree to:\n\nFor the IDM scope, you can only request a test account with your intigriti.me e-mail account\nRespect the Communit",
-    "scope_descriptions": {
-      "in_scope": [],
-      "out_of_scope_vulns": [
-        "Cross-site Request Forgery with no or low impact",
-        "DoS",
-        "social engineering",
-        "physical access",
-        "man in the middle",
-        "Username / email enumeration",
-        "Wordpress usernames disclosure",
-        "password complexity",
-        "Best practices violations"
-      ]
-    },
-    "focus_areas": [],
-    "report_quality_guidelines": [],
-    "targets": {
-      "in_scope": [
-        {
-          "type": "website",
-          "target": "*.vlaanderen.be",
-          "tier": "Tier 2",
-          "description": "All and any subsites of https://www.vlaanderen.be,-for which authentication is not needed-for which creation of account(s) is not needed\nFor some subsites, a government entity other than Digitaal Vlaanderen may be responsible. We can accept the disclosed vulnerability and relay the issue to the concerned entity, yet we then cannot guarantee they will (be able to) fix it.",
-          "tags": [
-            "Website",
-            "Tier 2"
-          ]
-        },
-        {
-          "type": "website",
-          "target": "https://beta.gastwebsite-acm.burgerprofiel.ext-vlaanderen.be",
-          "tier": "No Bounty",
-          "description": "Authenticated demo environment for the widget platform. The website itself is just an illustrative example and should not be tested.",
-          "tags": [
-            "Website",
-            "No Bounty"
-          ]
-        },
-        {
-          "type": "website",
-          "target": "https://beta.gastwebsite.burgerprofiel.ext-vlaanderen.be",
-          "tier": "No Bounty",
-          "description": "Unauthenticated demo environment for the widget platform. The website itself is just an illustrative example and should not be tested.",
-          "tags": [
-            "Website",
-            "No Bounty"
-          ]
-        },
-        {
-          "type": "website",
-          "target": "https://beta.widgets.burgerprofiel.dev-vlaanderen.be/",
-          "tier": "No Bounty",
-          "description": "Embeddable portion of My Citizen Profile",
-          "tags": [
-            "Website",
-            "No Bounty"
-          ]
-        },
-        {
-          "type": "website",
-          "target": "https://burgerprofiel.beta-vlaanderen.be",
-          "tier": "No Bounty",
-          "description": "My Citizen Profile (Mijn Burgerprofiel in Dutch) is the go-to spot for citizens to manage their affairs digitally with the government. Citizens can access their personal data, consult status reports, download certificates, and request new government services such as a permit of subsidy. My Citizen Profile is a plug-in that can be integrated into different official government websites, be it on a Flemish or local level.\nAvailable in Dutch - More information can also be found on https://www.vlaanderen.be/uw-overheid/mijn-burgerprofiel (only in Dutch).\nThis beta environment is equiped with a mock authentication (OpenID) service, which can generate tokens for different kinds of accounts. As such, the authentication flow of this mocked service is not in scope.",
-          "tags": [
-            "Website",
-            "No Bounty"
-          ]
-        },
-        {
-          "type": "website",
-          "target": "https://vo-gebruikersbeheer.vlaanderen.be/",
-          "tier": "No Bounty",
-          "description": "User Management (IDM) is a platform with which you can manage the inflow and outflow of people and their rights to applications.\nIt is a central rights management for different applications within the entire Flemish administration. It controls the inflow and outflow of employees and their rights and is editable to be tailored to the tasks of each employee.\nMore information is available on www.vlaanderen.be/gebruikersbeheer. There is detailed product and technical information available for download (in Dutch only).\nTo be able to test the platform, you will need to create a (dummy) account in our test environment. You can only do this with your intigriti.me e-mail account via a self-registering system available at https://zelfregistratie-gebruikersbeheer-ti.vlaanderen.be/user/aanvraag_werkrelatie?dg=EA&oc=0415928179. You can register with “Kinepolis Group” as a \"Hoofd Lokale Beheerder\". When you do so, please send an e-mail to veiligheidsbouwstenen@vlaanderen.be with in the subject line \"Project Intigriti\". We will inform you when the right has been given.\nThe application is also available in English via this link: https://gebruikersbeheer-ti.vlaanderen.be/webidm/?lang=en.",
-          "tags": [
-            "Website",
-            "No Bounty"
-          ]
-        }
-      ],
-      "out_of_scope": [
-        {
-          "type": "website",
-          "target": "bibis*.vlaanderen.be",
-          "tier": "Out Of Scope",
-          "tags": [
-            "Website"
-          ]
-        },
-        {
-          "type": "website",
-          "target": "cdn.vlaanderen.be",
-          "tier": "Out Of Scope",
-          "tags": [
-            "Website"
-          ]
-        },
-        {
-          "type": "website",
-          "target": "codex.opendata.api.vlaanderen.be",
-          "tier": "Out Of Scope",
-          "tags": [
-            "Website"
-          ]
-        },
-        {
-          "type": "website",
-          "target": "ets*.omgeving.vlaanderen.be",
-          "tier": "Out Of Scope",
-          "tags": [
-            "Website"
-          ]
-        },
-        {
-          "type": "website",
-          "target": "https://www.vlaanderen.be/aanmelden/help/mail.html",
-          "tier": "Out Of Scope",
-          "tags": [
-            "Website"
-          ]
-        },
-        {
-          "type": "website",
-          "target": "https://www.vlaanderen.be/aanmelden/help/mail.html?*",
-          "tier": "Out Of Scope",
-          "tags": [
-            "Website"
-          ]
-        },
-        {
-          "type": "website",
-          "target": "https://www.vlaanderen.be/vlaamse-overheid/contact/stuur-een-e-mail",
-          "tier": "Out Of Scope",
-          "tags": [
-            "Website"
-          ]
-        },
-        {
-          "type": "website",
-          "target": "natura2000.vlaanderen.be",
-          "tier": "Out Of Scope",
-          "tags": [
-            "Website"
-          ]
-        },
-        {
-          "type": "website",
-          "target": "opibus*.onderwijs*.vlaanderen.be",
-          "tier": "Out Of Scope",
-          "tags": [
-            "Website"
-          ]
-        }
-      ]
-    },
-    "industry": "Public Services",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1750843279
   },
   {
     "name": "Here Technologies",
@@ -19938,8 +19698,8 @@
       "out_of_scope": []
     },
     "industry": "Transportation and Logistics",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770471869
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1771040278
   },
   {
     "name": "PDQ bug bounty program",
@@ -20097,8 +19857,8 @@
       ]
     },
     "industry": "Software",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770012355
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770694513
   },
   {
     "name": "BMC",
@@ -20155,7 +19915,7 @@
       "out_of_scope": []
     },
     "industry": "Business and Professional Services",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1768394992
   },
   {
@@ -20323,8 +20083,8 @@
       ]
     },
     "industry": "Transportation and Logistics",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770610889
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770981993
   },
   {
     "name": "KU Leuven Responsible Disclosure Program",
@@ -20400,7 +20160,7 @@
       ]
     },
     "industry": "Education",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1767562582
   },
   {
@@ -20720,8 +20480,8 @@
       ]
     },
     "industry": "Education",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770624819
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770683186
   },
   {
     "name": "Lansweeper Bug Bounty Program",
@@ -20963,8 +20723,8 @@
       ]
     },
     "industry": "Software",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770424334
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1771005976
   },
   {
     "name": "Water-Link",
@@ -21195,7 +20955,7 @@
       ]
     },
     "industry": "Energy Utilities and Waste",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1770344152
   },
   {
@@ -21273,131 +21033,17 @@
     "targets": {
       "in_scope": [
         {
-          "type": "ios",
-          "target": "949829216",
-          "tier": "Tier 1",
-          "description": "iOS app of GAMMA NL",
-          "tags": [
-            "iOS",
-            "Tier 1"
-          ]
-        },
-        {
-          "type": "ios",
-          "target": "950680989",
-          "tier": "Tier 1",
-          "description": "iOS app of Karwei",
-          "tags": [
-            "iOS",
-            "Tier 1"
-          ]
-        },
-        {
-          "type": "ios",
-          "target": "950693949",
-          "tier": "Tier 1",
-          "description": "iOS app of GAMMA BE",
-          "tags": [
-            "iOS",
-            "Tier 1"
-          ]
-        },
-        {
-          "type": "android",
-          "target": "be.gamma.app.android",
-          "tier": "Tier 1",
-          "description": "Android app of GAMMA BE",
-          "tags": [
-            "Android",
-            "Tier 1"
-          ]
-        },
-        {
           "type": "website",
-          "target": "kassa.gamma.be/*",
+          "target": "www.gamma.nl/*",
           "tier": "Tier 1",
           "tags": [
             "Website",
-            "Tier 1"
-          ]
-        },
-        {
-          "type": "website",
-          "target": "kassa.gamma.nl/*",
-          "tier": "Tier 1",
-          "tags": [
-            "Website",
-            "Tier 1"
-          ]
-        },
-        {
-          "type": "website",
-          "target": "kassa.karwei.nl/*",
-          "tier": "Tier 1",
-          "tags": [
-            "Website",
-            "Tier 1"
-          ]
-        },
-        {
-          "type": "website",
-          "target": "mijn.gamma.be/*",
-          "tier": "Tier 1",
-          "tags": [
-            "Website",
-            "Tier 1"
-          ]
-        },
-        {
-          "type": "website",
-          "target": "mijn.gamma.nl/*",
-          "tier": "Tier 1",
-          "tags": [
-            "Website",
-            "Tier 1"
-          ]
-        },
-        {
-          "type": "website",
-          "target": "mijn.karwei.nl/*",
-          "tier": "Tier 1",
-          "tags": [
-            "Website",
-            "Tier 1"
-          ]
-        },
-        {
-          "type": "android",
-          "target": "nl.gamma.app.android",
-          "tier": "Tier 1",
-          "description": "Android app of GAMMA NL",
-          "tags": [
-            "Android",
-            "Tier 1"
-          ]
-        },
-        {
-          "type": "android",
-          "target": "nl.karwei.app.android",
-          "tier": "Tier 1",
-          "description": "Android app of Karwei",
-          "tags": [
-            "Android",
             "Tier 1"
           ]
         },
         {
           "type": "website",
           "target": "www.gamma.be/*",
-          "tier": "Tier 1",
-          "tags": [
-            "Website",
-            "Tier 1"
-          ]
-        },
-        {
-          "type": "website",
-          "target": "www.gamma.nl/*",
           "tier": "Tier 1",
           "tags": [
             "Website",
@@ -21415,6 +21061,140 @@
         },
         {
           "type": "website",
+          "target": "kassa.gamma.nl/*",
+          "tier": "Tier 1",
+          "tags": [
+            "Website",
+            "Tier 1"
+          ]
+        },
+        {
+          "type": "website",
+          "target": "kassa.gamma.be/*",
+          "tier": "Tier 1",
+          "tags": [
+            "Website",
+            "Tier 1"
+          ]
+        },
+        {
+          "type": "website",
+          "target": "kassa.karwei.nl/*",
+          "tier": "Tier 1",
+          "tags": [
+            "Website",
+            "Tier 1"
+          ]
+        },
+        {
+          "type": "website",
+          "target": "mijn.gamma.nl/*",
+          "tier": "Tier 1",
+          "tags": [
+            "Website",
+            "Tier 1"
+          ]
+        },
+        {
+          "type": "website",
+          "target": "mijn.gamma.be/*",
+          "tier": "Tier 1",
+          "tags": [
+            "Website",
+            "Tier 1"
+          ]
+        },
+        {
+          "type": "website",
+          "target": "mijn.karwei.nl/*",
+          "tier": "Tier 1",
+          "tags": [
+            "Website",
+            "Tier 1"
+          ]
+        },
+        {
+          "type": "ios",
+          "target": "949829216",
+          "tier": "Tier 1",
+          "description": "iOS app of GAMMA NL",
+          "tags": [
+            "iOS",
+            "Tier 1"
+          ]
+        },
+        {
+          "type": "ios",
+          "target": "950693949",
+          "tier": "Tier 1",
+          "description": "iOS app of GAMMA BE",
+          "tags": [
+            "iOS",
+            "Tier 1"
+          ]
+        },
+        {
+          "type": "ios",
+          "target": "950680989",
+          "tier": "Tier 1",
+          "description": "iOS app of Karwei",
+          "tags": [
+            "iOS",
+            "Tier 1"
+          ]
+        },
+        {
+          "type": "ios",
+          "target": "1558129454",
+          "tier": "Tier 2",
+          "description": "Our brand new iOS app fully dedicated to paint, with nice features to use AR and see how the paint looks on your own wall.Shares various web views with our website.\nTechnically equal to the Android version",
+          "tags": [
+            "iOS",
+            "Tier 2"
+          ]
+        },
+        {
+          "type": "android",
+          "target": "nl.gamma.app.android",
+          "tier": "Tier 1",
+          "description": "Android app of GAMMA NL",
+          "tags": [
+            "Android",
+            "Tier 1"
+          ]
+        },
+        {
+          "type": "android",
+          "target": "be.gamma.app.android",
+          "tier": "Tier 1",
+          "description": "Android app of GAMMA BE",
+          "tags": [
+            "Android",
+            "Tier 1"
+          ]
+        },
+        {
+          "type": "android",
+          "target": "nl.karwei.app.android",
+          "tier": "Tier 1",
+          "description": "Android app of Karwei",
+          "tags": [
+            "Android",
+            "Tier 1"
+          ]
+        },
+        {
+          "type": "website",
+          "target": "*.gamma.nl/*",
+          "tier": "Tier 2",
+          "description": "Out of scope: mail.gamma.nl\nThis covers all subdomains of gamma.nl not listed in Tier 1",
+          "tags": [
+            "Website",
+            "Tier 2"
+          ]
+        },
+        {
+          "type": "website",
           "target": "*.gamma.be/*",
           "tier": "Tier 2",
           "description": "Out of scope: mail.gamma.be\nThis covers all subdomains of gamma.be not listed in Tier 1",
@@ -21425,9 +21205,9 @@
         },
         {
           "type": "website",
-          "target": "*.gamma.nl/*",
+          "target": "*.karwei.nl/*",
           "tier": "Tier 2",
-          "description": "Out of scope: mail.gamma.nl\nThis covers all subdomains of gamma.nl not listed in Tier 1",
+          "description": "Out of scope: mail.karwei.nl\napi.maakafspraak.karwei.nl and maakafspraak.karwei.nl are listed seperately\nThis covers all subdomains of Karwei.nl not listed in Tier 1",
           "tags": [
             "Website",
             "Tier 2"
@@ -21454,30 +21234,10 @@
         },
         {
           "type": "website",
-          "target": "*.karwei.nl/*",
-          "tier": "Tier 2",
-          "description": "Out of scope: mail.karwei.nl\napi.maakafspraak.karwei.nl and maakafspraak.karwei.nl are listed seperately\nThis covers all subdomains of Karwei.nl not listed in Tier 1",
-          "tags": [
-            "Website",
-            "Tier 2"
-          ]
-        },
-        {
-          "type": "website",
           "target": "*.restintergamma.nl",
           "tier": "Tier 2",
           "tags": [
             "Website",
-            "Tier 2"
-          ]
-        },
-        {
-          "type": "ios",
-          "target": "1558129454",
-          "tier": "Tier 2",
-          "description": "Our brand new iOS app fully dedicated to paint, with nice features to use AR and see how the paint looks on your own wall.Shares various web views with our website.\nTechnically equal to the Android version",
-          "tags": [
-            "iOS",
             "Tier 2"
           ]
         },
@@ -21492,7 +21252,7 @@
         },
         {
           "type": "website",
-          "target": "*.werkenbijgamma.be",
+          "target": "*.werkenbijgamma.nl",
           "tier": "Tier 3",
           "description": "Recruiting website",
           "tags": [
@@ -21502,7 +21262,7 @@
         },
         {
           "type": "website",
-          "target": "*.werkenbijgamma.nl",
+          "target": "*.werkenbijgamma.be",
           "tier": "Tier 3",
           "description": "Recruiting website",
           "tags": [
@@ -21694,8 +21454,8 @@
       ]
     },
     "industry": "Retail",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770643135
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1771054304
   },
   {
     "name": "VRT",
@@ -21878,7 +21638,7 @@
       ]
     },
     "industry": "Media and Entertainment",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1769700008
   },
   {
@@ -22031,8 +21791,8 @@
       ]
     },
     "industry": "Media and Entertainment",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770206568
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1771027577
   },
   {
     "name": "Cyber Security Coalition",
@@ -22119,7 +21879,7 @@
       "out_of_scope": []
     },
     "industry": "Public Services",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1768139706
   },
   {
@@ -22395,8 +22155,8 @@
       "out_of_scope": []
     },
     "industry": "Software",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770592211
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770919999
   },
   {
     "name": "Newpharma",
@@ -22433,7 +22193,7 @@
       "out_of_scope": []
     },
     "industry": "Retail",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1765220844
   },
   {
@@ -22630,7 +22390,7 @@
       ]
     },
     "industry": "Media and Entertainment",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1770482524
   },
   {
@@ -22769,8 +22529,8 @@
       ]
     },
     "industry": "Transportation and Logistics",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1768497952
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770677693
   },
   {
     "name": "CM.com",
@@ -23037,8 +22797,8 @@
       "out_of_scope": []
     },
     "industry": "Telecommunications",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770002704
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770963946
   },
   {
     "name": "Libelle",
@@ -23170,8 +22930,8 @@
       ]
     },
     "industry": "Media and Entertainment",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770463678
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770812750
   },
   {
     "name": "Colruyt Group",
@@ -23208,7 +22968,7 @@
       "out_of_scope": []
     },
     "industry": "Retail",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1770475305
   },
   {
@@ -23335,8 +23095,8 @@
       "out_of_scope": []
     },
     "industry": "Media and Entertainment",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770608185
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1771051637
   },
   {
     "name": "Red Bull",
@@ -23410,8 +23170,8 @@
       ]
     },
     "industry": "Manufacturing Consumer",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770665393
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770960775
   },
   {
     "name": "Speakap Responsible Disclosure",
@@ -23504,7 +23264,7 @@
       "out_of_scope": []
     },
     "industry": "Business and Professional Services",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1767301894
   },
   {
@@ -23672,7 +23432,7 @@
       ]
     },
     "industry": "Media and Entertainment",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1770383547
   },
   {
@@ -24305,8 +24065,8 @@
       ]
     },
     "industry": "Transportation and Logistics",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770560597
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770752764
   },
   {
     "name": "Uphold",
@@ -24757,7 +24517,7 @@
       ]
     },
     "industry": "Financial Services and Insurance",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1770586353
   },
   {
@@ -24815,8 +24575,8 @@
       "out_of_scope": []
     },
     "industry": "Business and Professional Services",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770128009
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770955132
   },
   {
     "name": "Twago",
@@ -24873,7 +24633,7 @@
       "out_of_scope": []
     },
     "industry": "Business and Professional Services",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1752313938
   },
   {
@@ -25297,8 +25057,8 @@
       ]
     },
     "industry": "Hospitals and Healthcare",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770400252
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770837869
   },
   {
     "name": "Tempo-Team ",
@@ -25403,7 +25163,7 @@
       ]
     },
     "industry": "Business and Professional Services",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1766942518
   },
   {
@@ -25580,8 +25340,8 @@
       ]
     },
     "industry": "Media and Entertainment",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1769986964
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770764439
   },
   {
     "name": "De Morgen",
@@ -25748,8 +25508,8 @@
       ]
     },
     "industry": "Media and Entertainment",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770645272
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770921024
   },
   {
     "name": "Trouw",
@@ -25925,8 +25685,8 @@
       ]
     },
     "industry": "Media and Entertainment",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770109512
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1771006800
   },
   {
     "name": "Humo",
@@ -26094,7 +25854,7 @@
       ]
     },
     "industry": "Media and Entertainment",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1770488497
   },
   {
@@ -26132,8 +25892,8 @@
       "out_of_scope": []
     },
     "industry": "Telecommunications",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770628198
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1771000333
   },
   {
     "name": "DPG Media",
@@ -26241,8 +26001,8 @@
       "out_of_scope": []
     },
     "industry": "Media and Entertainment",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770481878
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1771025101
   },
   {
     "name": "Randstad",
@@ -26351,7 +26111,7 @@
       ]
     },
     "industry": "Business and Professional Services",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1770502917
   },
   {
@@ -26615,8 +26375,8 @@
       "out_of_scope": []
     },
     "industry": "Financial Services and Insurance",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770539059
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1771006943
   },
   {
     "name": "Online enrollment for students Bug Bounty Program",
@@ -26715,7 +26475,7 @@
       "out_of_scope": []
     },
     "industry": "Education",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1769671463
   },
   {
@@ -26863,8 +26623,8 @@
       "out_of_scope": []
     },
     "industry": "Retail",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770632776
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770977584
   },
   {
     "name": "Tomorrowland",
@@ -27152,8 +26912,8 @@
       "out_of_scope": []
     },
     "industry": "Leisure and Hospitality",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770584824
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1771018955
   },
   {
     "name": "Venly",
@@ -27304,7 +27064,7 @@
       "out_of_scope": []
     },
     "industry": "Software",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1770143453
   },
   {
@@ -27440,8 +27200,8 @@
       "out_of_scope": []
     },
     "industry": "Media and Entertainment",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770553353
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770823843
   },
   {
     "name": "EURid",
@@ -27602,7 +27362,7 @@
       "out_of_scope": []
     },
     "industry": "Public Services",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1743044329
   },
   {
@@ -27856,7 +27616,7 @@
       "out_of_scope": []
     },
     "industry": "Financial Services and Insurance",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1770556701
   },
   {
@@ -27973,7 +27733,7 @@
       ]
     },
     "industry": "Media and Entertainment",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1770500942
   },
   {
@@ -28218,8 +27978,8 @@
       ]
     },
     "industry": "Software",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770185250
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1771001746
   },
   {
     "name": "eHealth Hub VZN KUL",
@@ -28361,7 +28121,7 @@
       ]
     },
     "industry": "Hospitals and Healthcare",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1770293822
   },
   {
@@ -28450,8 +28210,8 @@
       "out_of_scope": []
     },
     "industry": "Financial Services and Insurance",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1769535021
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770860588
   },
   {
     "name": "Nexuzhealth Web PACS",
@@ -28548,7 +28308,7 @@
       "out_of_scope": []
     },
     "industry": "Hospitals and Healthcare",
-    "last_updated": "2026-02-09T20:59:07.320Z",
+    "last_updated": "2026-02-14T08:59:00.848Z",
     "last_submission": 1770096059
   },
   {
@@ -29170,7 +28930,7 @@
       ]
     },
     "industry": "Media and Entertainment",
-    "last_updated": "2026-02-09T20:59:07.320Z",
-    "last_submission": 1770624409
+    "last_updated": "2026-02-14T08:59:00.848Z",
+    "last_submission": 1770983818
   }
 ]
