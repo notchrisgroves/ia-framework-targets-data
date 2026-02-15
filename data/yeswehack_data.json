@@ -19,7 +19,7 @@
       "value": 4000,
       "currency": "USD"
     },
-    "reports_count": 1435,
+    "reports_count": 1445,
     "average_first_response_time": 0,
     "scopes_count": 27,
     "public": true,
@@ -290,7 +290,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -312,7 +312,7 @@
       "value": 5000,
       "currency": "EUR"
     },
-    "reports_count": 245,
+    "reports_count": 251,
     "average_first_response_time": 0,
     "scopes_count": 1,
     "public": true,
@@ -349,7 +349,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -371,7 +371,7 @@
       "value": 10000,
       "currency": "EUR"
     },
-    "reports_count": 234,
+    "reports_count": 235,
     "average_first_response_time": 0,
     "scopes_count": 3,
     "public": true,
@@ -426,7 +426,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -503,7 +503,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -607,7 +607,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -629,7 +629,7 @@
       "value": 10000,
       "currency": "EUR"
     },
-    "reports_count": 48,
+    "reports_count": 51,
     "average_first_response_time": 0,
     "scopes_count": 1,
     "public": true,
@@ -666,7 +666,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -815,7 +815,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -837,7 +837,7 @@
       "value": 2000,
       "currency": "EUR"
     },
-    "reports_count": 205,
+    "reports_count": 206,
     "average_first_response_time": 0,
     "scopes_count": 1,
     "public": true,
@@ -874,7 +874,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -896,7 +896,7 @@
       "value": 2500,
       "currency": "USD"
     },
-    "reports_count": 296,
+    "reports_count": 297,
     "average_first_response_time": 0,
     "scopes_count": 30,
     "public": true,
@@ -1194,7 +1194,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -1298,7 +1298,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -1402,7 +1402,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -1497,7 +1497,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -1574,7 +1574,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -1768,7 +1768,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -1790,7 +1790,7 @@
       "value": 2500,
       "currency": "EUR"
     },
-    "reports_count": 990,
+    "reports_count": 993,
     "average_first_response_time": 0,
     "scopes_count": 14,
     "public": true,
@@ -1944,7 +1944,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -2012,7 +2012,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -2422,7 +2422,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -2444,7 +2444,7 @@
       "value": 3000,
       "currency": "EUR"
     },
-    "reports_count": 372,
+    "reports_count": 373,
     "average_first_response_time": 0,
     "scopes_count": 5,
     "public": true,
@@ -2517,7 +2517,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -2539,7 +2539,7 @@
       "value": 2000,
       "currency": "EUR"
     },
-    "reports_count": 56,
+    "reports_count": 57,
     "average_first_response_time": 0,
     "scopes_count": 1,
     "public": true,
@@ -2576,7 +2576,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -2653,7 +2653,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -2775,7 +2775,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -2797,7 +2797,7 @@
       "value": 0,
       "currency": "EUR"
     },
-    "reports_count": 3258,
+    "reports_count": 3260,
     "average_first_response_time": 0,
     "scopes_count": 1,
     "public": true,
@@ -2834,7 +2834,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -2856,7 +2856,7 @@
       "value": 5000,
       "currency": "USD"
     },
-    "reports_count": 290,
+    "reports_count": 293,
     "average_first_response_time": 0,
     "scopes_count": 22,
     "public": true,
@@ -3082,7 +3082,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -3104,7 +3104,7 @@
       "value": 5000,
       "currency": "USD"
     },
-    "reports_count": 223,
+    "reports_count": 224,
     "average_first_response_time": 0,
     "scopes_count": 12,
     "public": true,
@@ -3240,7 +3240,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -3389,7 +3389,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -3475,7 +3475,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -3678,7 +3678,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -3700,7 +3700,7 @@
       "value": 50000,
       "currency": "EUR"
     },
-    "reports_count": 1341,
+    "reports_count": 1346,
     "average_first_response_time": 0,
     "scopes_count": 9,
     "public": true,
@@ -3809,7 +3809,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -3886,7 +3886,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -4080,7 +4080,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -4102,7 +4102,7 @@
       "value": 5000,
       "currency": "USD"
     },
-    "reports_count": 314,
+    "reports_count": 315,
     "average_first_response_time": 0,
     "scopes_count": 12,
     "public": true,
@@ -4238,7 +4238,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -4414,7 +4414,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -4563,7 +4563,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -4793,7 +4793,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -4815,7 +4815,7 @@
       "value": 5000,
       "currency": "EUR"
     },
-    "reports_count": 136,
+    "reports_count": 138,
     "average_first_response_time": 0,
     "scopes_count": 3,
     "public": true,
@@ -4870,7 +4870,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -5280,7 +5280,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -5411,7 +5411,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -5578,7 +5578,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -5844,7 +5844,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -6119,7 +6119,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -6232,7 +6232,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -6336,7 +6336,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -6692,7 +6692,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -6796,7 +6796,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -7125,7 +7125,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -7283,7 +7283,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -7305,7 +7305,7 @@
       "value": 5000,
       "currency": "USD"
     },
-    "reports_count": 645,
+    "reports_count": 646,
     "average_first_response_time": 0,
     "scopes_count": 12,
     "public": true,
@@ -7441,7 +7441,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -7509,7 +7509,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -7577,7 +7577,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -7599,7 +7599,7 @@
       "value": 2500,
       "currency": "EUR"
     },
-    "reports_count": 448,
+    "reports_count": 449,
     "average_first_response_time": 0,
     "scopes_count": 5,
     "public": true,
@@ -7672,7 +7672,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -7893,7 +7893,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -7970,7 +7970,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -8056,7 +8056,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -8187,7 +8187,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -8246,7 +8246,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -8350,7 +8350,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -8553,7 +8553,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -8675,7 +8675,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -8941,7 +8941,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -8963,7 +8963,7 @@
       "value": 0,
       "currency": "USD"
     },
-    "reports_count": 864,
+    "reports_count": 865,
     "average_first_response_time": 0,
     "scopes_count": 2,
     "public": false,
@@ -9009,7 +9009,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -9086,7 +9086,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -9145,7 +9145,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -9167,7 +9167,7 @@
       "value": 2500,
       "currency": "EUR"
     },
-    "reports_count": 602,
+    "reports_count": 603,
     "average_first_response_time": 0,
     "scopes_count": 10,
     "public": true,
@@ -9285,7 +9285,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -9362,7 +9362,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -9718,7 +9718,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -9876,7 +9876,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -10034,7 +10034,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -10120,7 +10120,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -10197,7 +10197,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -10445,7 +10445,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -10558,7 +10558,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -10644,7 +10644,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -10766,7 +10766,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -10897,7 +10897,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -10992,7 +10992,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -11087,7 +11087,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -11182,7 +11182,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -11241,7 +11241,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -11263,7 +11263,7 @@
       "value": 15000,
       "currency": "EUR"
     },
-    "reports_count": 732,
+    "reports_count": 733,
     "average_first_response_time": 0,
     "scopes_count": 4,
     "public": true,
@@ -11327,7 +11327,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -11467,7 +11467,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -11489,7 +11489,7 @@
       "value": 10000,
       "currency": "EUR"
     },
-    "reports_count": 260,
+    "reports_count": 264,
     "average_first_response_time": 0,
     "scopes_count": 4,
     "public": true,
@@ -11553,7 +11553,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -11657,7 +11657,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -11761,7 +11761,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -11838,7 +11838,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -11897,7 +11897,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -12055,7 +12055,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -12077,7 +12077,7 @@
       "value": 1000,
       "currency": "EUR"
     },
-    "reports_count": 110,
+    "reports_count": 111,
     "average_first_response_time": 0,
     "scopes_count": 4,
     "public": true,
@@ -12141,7 +12141,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -12236,7 +12236,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -12258,7 +12258,7 @@
       "value": 10000,
       "currency": "EUR"
     },
-    "reports_count": 565,
+    "reports_count": 566,
     "average_first_response_time": 0,
     "scopes_count": 9,
     "public": true,
@@ -12367,7 +12367,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -12444,7 +12444,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -12503,7 +12503,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -12562,7 +12562,7 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   },
   {
     "platform": "yeswehack",
@@ -12639,6 +12639,6 @@
       ],
       "out_of_scope": []
     },
-    "last_updated": "2026-02-14T20:15:12.097Z"
+    "last_updated": "2026-02-15T08:15:10.952Z"
   }
 ]
